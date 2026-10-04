@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@188.164.158.111:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20551885dd786c6345
+trojan://Aimer@188.164.159.107:2096/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e99abe85b13240f8
+trojan://Aimer@188.164.159.138:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20641be97f42b3f941
 trojan://Aimer@188.164.159.171:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2035af637b5bfb8856
 trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c73d0670df4b592e
 trojan://Aimer@188.164.159.175:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207b9525de308ce5a2
@@ -28,7 +31,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@188.226.188.55:443/?type=tcp&security=tls&sni=
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@188.240.213.45:20071/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aebd8dc7d2da5375
 trojan://NISHIKUITAN111@188.244.122.175:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd0fe72470630183
 trojan://origin@188.40.251.19:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d6a35fb3b14ee48a
-trojan://humanity@188.42.145.180:443?allowInsecure=1&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d4599c7eef653dec
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a2fb05da1f4120fe
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205e5e8a0a29b4f23d
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205a08e7b38b4c4b30
 trojan://blue2024@188.42.88.34:443/?type=tcp&security=tls&sni=ta.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e53be9814cebdf92
@@ -336,7 +339,7 @@ trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%40vpn_fortuna%20%7C%2
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2078edc6c6d94a1f9b
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2045b6b7bb13b2f0e2
 trojan://WQSShTQIMW@212.18.104.164:14166?allowInsecure=1&sni=v.qq.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20751e1ba863c2619c
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d6cf12f5df6a544a
+trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202eccca767c47623d
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443/?type=ws&path=%2Fproxyip%3D212.183.88.156%3A443&security=tls&sni=icecream.955850.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200157f9a9ba5c8ac8
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2053deb5f5c178e3ee
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443/?type=ws&path=%2Fproxyip%3D212.183.88.194%3A443&security=tls&sni=icecream.955850.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2018d2bf887c26ceef
@@ -495,6 +498,3 @@ trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rolling
 trojan://Trojan@82164024@3.255.76.207:443?type=tcp&sni=ie.tronsg.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203094efa9c5abf8ba
 trojan://your_password@3.27.95.146:443?security=tls&sni=aws-aus-sydney-1.f1rocketnode.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f1459f0b1a4b18e7
 trojan://your_password@3.29.95.54:443?security=tls&sni=aws-uae-1.f1rocketnode.com&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2090687bdaf2cbb021
-trojan://UX82473651@3.34.131.153:443?sni=pretty-rat.rooster465.autos&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e66b5ad86932f220
-trojan://ND91608427@3.34.42.123:443?sni=chief-bluegill.rooster465.autos&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c9aa573a2144fe3a
-trojan://xxoo@3.34.6.217:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a2c2cbb66120c19f

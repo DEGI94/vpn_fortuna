@@ -190,7 +190,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.109.229:443?security=tls&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.109.232:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40vpn_fortuna%20%7C%20VLESS%20%7C%20fd6ed01ad9f99b00
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.109.27:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20133e2d4df12dbb6d
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.109.70:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%2059eedf8686bd41e5
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.17.109.71:2082?type=ws&host=index.arcane509.workers.dev&ed=2560&eh=Sec-WebSocket-Protocol#%40vpn_fortuna%20%7C%20VLESS%20%7C%20d031f05b52c421f4
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.17.109.71:2082?type=ws&host=index.arcane509.workers.dev#%40vpn_fortuna%20%7C%20VLESS%20%7C%20fedfe39c5868f70b
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.109.77:80?&security=tls&sni=us3.rtacg.com&type=ws&headerType=none&host=us3.rtacg.com&path=%2F#%40vpn_fortuna%20%7C%20VLESS%20%7C%201ec44082345c5807
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.11.77:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%203c0762715b1609a5
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.11:80?type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%200af56b215553fb37
@@ -276,7 +276,6 @@ vless://9aa2e919-2b50-4137-8605-631a43f0fba7@104.17.121.250:443?encryption=none&
 vless://9aa2e919-2b50-4137-8605-631a43f0fba7@104.17.121.251:443?encryption=none&security=tls&sni=mAhTAB.MoRteZA8686.wORkerS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mahtab.morteza8686.workers.dev&path=%2FeyJqdW5rIjoiVzBpSk9FVGphSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#%40vpn_fortuna%20%7C%20VLESS%20%7C%2046f7b55dd43ce30c
 vless://10be524f-e1dc-4d1c-a256-17df1399a739@104.17.121.253:2096?&security=tls&fp=chrome&sni=loVELY-bATtLeNn9IH0SniS.WInDlER.Co.Uk&type=grpc&serviceName=&mode=gun#%40vpn_fortuna%20%7C%20VLESS%20%7C%2059bc1a3e1f2efdd0
 vless://130add98-f232-406d-8bab-a6b61293db07@104.17.121.6:8443?&security=tls&fp=chrome&sni=magic2vpn.cc.cd&type=ws&headerType=none&host=magic2vpn.cc.cd&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#%40vpn_fortuna%20%7C%20VLESS%20%7C%20560133b6864f482b
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?&security=tls&fp=chrome&sni=de.lezzatzone.ir&type=xhttp#%40vpn_fortuna%20%7C%20VLESS%20%7C%200ccd9bb1d0009c31
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?&security=tls&packet-encoding=xudp&sni=unnes.ac.id.yxls.eu.cc&type=ws&headerType=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#%40vpn_fortuna%20%7C%20VLESS%20%7C%2042c0d9033a955803
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@104.17.122.116:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=2.zunmexo.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=5.zunmexo.ir#%40vpn_fortuna%20%7C%20VLESS%20%7C%20ece242ceba49e76f
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.133:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20b58606442c9c7049
@@ -498,3 +497,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.162.80:80?&security=tls&sni=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.115:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%207fb4303d2b9da01c
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@104.17.163.123:8443?&security=tls&fp=chrome&sni=jokerv.membergolabi.ir.&type=xhttp#%40vpn_fortuna%20%7C%20VLESS%20%7C%20a9b5ce23f26dbaa3
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.140:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20774baedf4db9c194
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.18:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%209208e38f964a2650

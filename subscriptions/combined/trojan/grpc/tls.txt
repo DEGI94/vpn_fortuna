@@ -17,9 +17,9 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxre
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?type=grpc&security=tls&fp=chrome&sni=by01.botovod.space&mode=gun&alpn=h2,http/1.1#%40vpn_fortuna
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%40vpn_fortuna
 trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@217.16.17.127:25565?type=grpc&security=tls&fp=firefox&sni=vkc2.safesurf.cloud&alpn=h2,http/1.1#%40vpn_fortuna
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%40vpn_fortuna
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%40vpn_fortuna
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&fp=edge&alpn=h2&serviceName=ajv#%40vpn_fortuna
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=0&fp=chrome&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#%40vpn_fortuna
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?allowInsecure=1&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv#%40vpn_fortuna
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=/#%40vpn_fortuna
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%40vpn_fortuna
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
