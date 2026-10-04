@@ -385,7 +385,6 @@ vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@RU.LoadBalance.LAT:1320?security=no
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=das12327gsgsyu&amp;sni=yahoo.com&amp;sid=a76e2f1d45#%40vpn_fortuna
 vless://ff0a44f4-bf3c-489b-1f04-9bdba987613f@s1.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={#%40vpn_fortuna
 vless://22c6684b-cd4f-4c8e-62e3-a17fc698471f@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={#%40vpn_fortuna
-vless://86c0996e-817e-409f-a732-ff9ef94917bd@s3.bamans.uk:443?alpn=h2&encryption=none&extra={#%40vpn_fortuna
 vless://ec184209-a546-4375-b77d-c6a567485d0b@s4.sariii.site:10242/?encryption=none&host=nature.com&type=tcp&headerType=http#%40vpn_fortuna
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&amp;security=none&amp;type=xhttp&amp;path=%2F123&amp;mode=auto#%40vpn_fortuna
 vless://a8e41efd-0fb8-459a-9fab-95e038a003f4@s85cndx2225.mmadvip8563.ir:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40vpn_fortuna
@@ -1087,6 +1086,7 @@ vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encry
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws#%40vpn_fortuna
 vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?encryption=none&security=none&type=tcp&headerType=none#%40vpn_fortuna
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#%40vpn_fortuna
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&extra={#%40vpn_fortuna
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?encryption=none&security=none&type=tcp&headerType=none&host=vixon.portab.org#%40vpn_fortuna
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237?security=none&encryption=none&headerType=none&type=tcp#%40vpn_fortuna
 vless://e66c1d8d-a445-449b-a143-bc8a4253d09f@185.18.215.3:40782?note=---Telegram---@volt_network---Telegram---@volt_network---Telegram---@volt_network---Telegram---@volt_network&security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%40vpn_fortuna
