@@ -142,7 +142,6 @@ vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?&security=tls&sni
 vless://84fc796b-6ac3-4465-98cf-2ae6fd58b4a7@188.114.99.99:2053?&security=tls&fp=chrome&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?encryption=none&security=tls&sni=d3-nl1.cloud-cdn.xyz&alpn=h2&fp=random&type=grpc&serviceName=vlgrpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?security=tls&type=grpc&mode=gun&serviceName=vlgrpc&packetEncoding=xudp&alpn=h2&sni=d3-nl1.cloud-cdn.xyz&fp=edge#%40vpn_fortuna
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?encryption=none&security=tls&serviceName=vlgrpc&sni=d3-nl1.cloud-cdn.xyz&type=grpc&fp=chrome#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?type=grpc&security=tls&fp=edge&sni=d3-nl1.cloud-cdn.xyz&mode=gun&serviceName=vlgrpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?type=grpc&security=tls&fp=firefox&sni=d3-nl1.cloud-cdn.xyz&serviceName=vlgrpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.211:443?sni=d3-nl1.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=vlgrpc&fp=edge&security=tls#%40vpn_fortuna

@@ -3,7 +3,6 @@ trojan://52171d41-9367-429f-baa6-43660a6c84e4@103.195.236.24:443?type=tcp&securi
 trojan://57ilz74461jfayyqbb83@194.59.250.54:58499?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%40vpn_fortuna
 trojan://58d1a580a3fc4a87@w192m.iamnew2020.top:99?security=tls#%40vpn_fortuna
 trojan://5b140fc6a0a74e7f@gsg192i.zxom.eu.org:20008?security=tls&sni=gsg192i.zxom.eu.org#%40vpn_fortuna
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la14.freeguard.org&fp=chrome#%40vpn_fortuna
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?type=tcp&security=tls&fp=chrome&sni=la14.freeguard.org#%40vpn_fortuna
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#%40vpn_fortuna
 trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?security=tls#%40vpn_fortuna
@@ -96,7 +95,6 @@ trojan://Trojan@82164024@3.255.76.207:443?type=tcp&sni=ie.tronsg.com#%40vpn_fort
 trojan://Trojan@82164024@ie.tronsg.com:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=ie.tronsg.com#%40vpn_fortuna
 trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com#%40vpn_fortuna
 trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=android#%40vpn_fortuna
-trojan://Trojan%4082164024@pl.tronsg.com:443?security=tls&sni=pl.tronsg.com&fp=android#%40vpn_fortuna
 trojan://Trojan@82164024@th1.zestapp778.com:443?security=tls&sni=th1.zestapp778.com#%40vpn_fortuna
 trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=android#%40vpn_fortuna
 trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40vpn_fortuna

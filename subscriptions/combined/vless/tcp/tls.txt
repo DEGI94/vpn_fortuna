@@ -286,7 +286,7 @@ vless://50414e45-4c5f-5a45-5553-48493148ec15@104.21.98.146:8443?path=/stream/PAN
 vless://50414e45-4c5f-5a45-5553-c2ba4b954677@x7z5x6e9uiys.vecoxa8550.workers.dev:443?path=/stream/PANEL_ZEUS/c2ba4b954677&security=tls&encryption=none&fm={#%40vpn_fortuna
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?allowInsecure=1&type=tcp&security=tls&fp=firefox&sni=pl.flen-vpn.xyz#%40vpn_fortuna
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?type=tcp&security=tls&fp=random&sni=pl.flen-vpn.xyz#%40vpn_fortuna
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl.flen-vpn.xyz&alpn=http%2F1.1&fp=ios#%40vpn_fortuna
+vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl.flen-vpn.xyz&alpn=http%2F1.1&fp=android#%40vpn_fortuna
 vless://51a43b75-c84b-46eb-885e-c24e7819cd0b@34.153.218.25:443?sni=www.cloudflare.com&fp=chrome&security=tls#%40vpn_fortuna
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%40vpn_fortuna
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:31877?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%40vpn_fortuna
@@ -651,6 +651,7 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@80.96.109.155:443?type=tcp&security
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@abvro.moritech.net:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=abvro.moritech.net&type=tcp&headerType=none&host=abvro.moritech.net&path=%2F#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-nick.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-nick.failspace.top#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@chubby0.failspace.top:443?sni=chubby0.failspace.top&alpn=h2&flow=xtls-rprx-vision&fp=chrome&security=tls#%40vpn_fortuna
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@dedic-norw-new2.failspace.top:443?security=tls&encryption=none&flow=xtls-rprx-vision#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@dedic-norw-new2.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=ir-new.failspace.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#%40vpn_fortuna

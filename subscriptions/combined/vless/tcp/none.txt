@@ -19,10 +19,7 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?encryption=none&s
 vless://1e645c10-a7d2-4eed-908a-3427bf167964@45.134.38.191:29636?security=none&encryption=mlkem768x25519plus.native.0rtt.MR-PM8esqnZtaEZIgfxriym2ZqNzKhC1D-9tQXBhLE4&headerType=none&type=tcp#%40vpn_fortuna
 vless://1e645c10-a7d2-4eed-908a-3427bf167964@germani.henlo.ir:29636?security=none&encryption=mlkem768x25519plus.native.0rtt.MR-PM8esqnZtaEZIgfxriym2ZqNzKhC1D-9tQXBhLE4&headerType=none&type=tcp#%40vpn_fortuna
 vless://23a13f14-7f85-4975-8aa8-6f4f21ea97ca@4.235.112.49:2040?encryption=none#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@50.7.87.254:443?encryption=none&extra={#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@84.32.108.8:443?encryption=none&extra={#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@84.32.184.222:443?encryption=none&extra={#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@89.41.181.162:443?encryption=none&extra={#%40vpn_fortuna
+vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@50.7.216.172:443?encryption=none&extra={#%40vpn_fortuna
 vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@185.19.33.115:59228?security=none&encryption=none&headerType=none&type=tcp#%40vpn_fortuna
 vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@netherlands.diginoisb.ir:59228?security=none&encryption=none&headerType=none&type=tcp#%40vpn_fortuna
 vless://27d33906-3501-4c13-a81d-7ccdd7bfdbda@155.117.234.158:8082/?encryption=none&security=none&type=tcp&headerType=none#%40vpn_fortuna
@@ -457,7 +454,6 @@ vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?Telegra
 vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?&type=tcp&headerType=none&host=azerbaijan.zelnora.ir&path=%2F#%40vpn_fortuna
 vless://aa6fa014-57c9-4428-9599-8d16a282eb0a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Chennel---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;type=ws#%40vpn_fortuna
 vless://ac76a374-7447-4dab-bfa9-b7f83a7a7946@152.69.192.144:20802?#%40vpn_fortuna
-vless://add5595f-cb6a-4241-87dc-1a701a384423@91.107.154.161:443?encryption=none&security=none&type=tcp&headerType=http&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---#%40vpn_fortuna
 vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@31.76.71.140:443?type=tcp&amp;security=reality&amp;encryption=none&amp;sni=rrr.windconnect.pro&amp;fp=firefox&amp;pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&amp;sid=4da5d1853f04af6d&amp;flow=xtls-rprx-vision&amp;headerType=none&amp;seq=you_are_beautiful3911&amp;freeinternet=kizyak_vpn1788218631842#%40vpn_fortuna
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&security=none&type=tcp&headerType=none&path=%2Fhdgrbws#%40vpn_fortuna
 vless://b4d2cb44-6eaf-48e7-adcb-5a7c49bddd8d@104.18.203.232:2095?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
@@ -554,6 +550,7 @@ vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&se
 vless://fb841b0d-4de1-40fe-8192-45351886458f@v1.vahid2961.sbs:53680?encryption=none&security=none&type=tcp#%40vpn_fortuna
 vless://fb86599e-fc7d-4a6c-857f-3fb7694d2707@join.eliv2.ray.fastly80-3.hosting-ip.com:80?path=/join-@ELiV2RAY--join-@ELiV2RAY--join-@ELiV2RAY--join-@ELiV2RAY%3Fed%3D2560&amp;host=JoinChannel--ELiV2--ELiV2.iR&amp;type=ws#%40vpn_fortuna
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@84.201.130.151:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=io.ozone.ru&amp;pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&amp;sid=cf4d&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%40vpn_fortuna
+vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@bulbul.color-panel.ir:8080?encryption=none&security=none&type=tcp&headerType=none&host=play.google.com#%40vpn_fortuna
 vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@bulbul.color-panel.ir:8080?type=tcp&host=play.google.com#%40vpn_fortuna
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?type=tcp&security=none&encryption=none#%40vpn_fortuna

@@ -9,7 +9,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WnFUMzJUc1VvMUE0TVU4TjE3a0FQUT09@139.199.18
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXNoLmJ4LXhiLnh5ejo2Mjc0MA#%40vpn_fortuna
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXNoLmJ4LXhiLnh5ejo2Mjc4MA#%40vpn_fortuna
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cVBQVTRjR1U1OWhqUm5PeU5UamFjQT09QHNkLXN6LmJ4LXhiLnh5ejo2MjYxMA#%40vpn_fortuna
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WWRYbzVGdGJGcDhsbkRSYkl2ZXdhT2FYYkR0ZjVlUjFCay9PNTk0K3g0MD06aVpkTEMwUVE1a1NqN1kxUXF3Ui90MjNoMWdwL2pIeWlXa2YyTUpGanE1cz0@206.1.103.221:17721#%40vpn_fortuna
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%40vpn_fortuna
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?#%40vpn_fortuna
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083?#%40vpn_fortuna
@@ -912,10 +911,7 @@ vless://248b7825-58e7-41cc-899f-95e573e0127b@dry-violet-d6e0.38-431.workers.dev:
 vless://248b7825-58e7-41cc-899f-95e573e0127b@dry-violet-d6e0.38-431.workers.dev:8880?path=/pyip&encryption=none&fp=qq&type=ws#%40vpn_fortuna
 vless://248b7825-58e7-41cc-899f-95e573e0127b@dry-violet-d6e0.38-431.workers.dev:8880?type=ws&path=%2Fpyip&sni=dry-violet-d6e0.38-431.workers.dev&fp=qq#%40vpn_fortuna
 vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=soft-thunder-bc22.111-f59.workers.dev&packetEncoding=xudp&encryption=none#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@50.7.87.254:443?encryption=none&extra={#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@84.32.108.8:443?encryption=none&extra={#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@84.32.184.222:443?encryption=none&extra={#%40vpn_fortuna
-vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@89.41.181.162:443?encryption=none&extra={#%40vpn_fortuna
+vless://24f9d11d-ceca-4f75-93ca-ad143ca18b28@50.7.216.172:443?encryption=none&extra={#%40vpn_fortuna
 vless://2500e602-671c-4654-a602-c518b7282167@www.digitalocean.com:8080?type=ws&sni=www.digitalocean.com&host=2639w-throbbing-band-3840.xphnn6jp.workers.dev&ed=2048#%40vpn_fortuna
 vless://252ea4b1-2c13-4631-81e1-69eb47f31504@185.146.173.37:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%40vpn_fortuna
 vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@104.21.56.202:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=purple-disk-f68d.14-360.workers.dev&packetEncoding=xudp&encryption=none#%40vpn_fortuna
@@ -956,6 +952,7 @@ vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.zsu.gov.ua:8880?security=none&t
 vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.zsu.gov.ua:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=blue-breeze-e33c.261.workers.dev&sni=www.zsu.gov.ua#%40vpn_fortuna
 vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.zsu.gov.ua:8880?type=ws&host=blue-breeze-e33c.261.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#%40vpn_fortuna
 vless://27d33906-3501-4c13-a81d-7ccdd7bfdbda@155.117.234.158:8082/?encryption=none&security=none&type=tcp&headerType=none#%40vpn_fortuna
+vless://27dc8787-9a5b-4e67-bf80-ee391a46e484@direct-tr02.korvexe.ir:45048?mode=auto&path=%2F&security=&encryption=none&host=direct-tr02.korvexe.ir&type=xhttp#%40vpn_fortuna
 vless://281431be-05d7-4752-a524-861b40a5eff8@199.232.78.150:443?encryption=none&security=none&type=tcp&headerType=none#%40vpn_fortuna
 vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.100.66:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=summer-butterfly-cbc8.26-971.workers.dev&packetEncoding=xudp#%40vpn_fortuna
 vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.72.41:8880?encryption=none&type=ws&host=summer-butterfly-cbc8.26-971.workers.dev&path=%2Fpyip&security=none#%40vpn_fortuna
@@ -2971,7 +2968,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.196.30:8880?type=ws&host=vm
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.176.239.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40vpn_fortuna
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=#%40vpn_fortuna
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev#%40vpn_fortuna
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.30:8880?&type=ws&headerType=none&host=vms.lifetime05.workers.dev&path=%2F#%40vpn_fortuna
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime08.workers.dev&packetEncoding=xudp#%40vpn_fortuna
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.79.30:8880?security=none&type=ws&path=/&host=vms.lifetime35.workers.dev&packetEncoding=xudp#%40vpn_fortuna
@@ -4384,7 +4380,6 @@ vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@little-pond-8731.81-68e.workers.dev
 vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@log.bpminecraft.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=little-pond-8731.81-68e.workers.dev&packetEncoding=xudp#%40vpn_fortuna
 vless://adcce8be-9de7-41bd-abcd-52939cec108b@104.17.191.15:8880?&type=ws&headerType=none&host=fancy-haze-ab00.236-68b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40vpn_fortuna
 vless://adcce8be-9de7-41bd-abcd-52939cec108b@fancy-haze-ab00.236-68b.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&sni=fancy-haze-ab00.236-68b.workers.dev#%40vpn_fortuna
-vless://add5595f-cb6a-4241-87dc-1a701a384423@91.107.154.161:443?encryption=none&security=none&type=tcp&headerType=http&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---#%40vpn_fortuna
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@104.21.89.181:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=delicate-base-12ed.287-133.workers.dev&packetEncoding=xudp#%40vpn_fortuna
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=delicate-base-12ed.287-133.workers.dev&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.67.187.219:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=delicate-base-12ed.287-133.workers.dev&packetEncoding=xudp#%40vpn_fortuna
@@ -5349,6 +5344,7 @@ vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@www.ipget.net:8880?security=none&ty
 vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.21.70.21:8080?security=none&type=ws&path=/138.2.74.219-28616&host=nautica-cff.kloningstrife002.workers.dev&packetEncoding=xudp&sni=nautica-cff.kloningstrife002.workers.dev&encryption=none#%40vpn_fortuna
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@84.201.130.151:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=io.ozone.ru&amp;pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&amp;sid=cf4d&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%40vpn_fortuna
 vless://fd950d00-412b-435b-85c1-70d562f68796@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#%40vpn_fortuna
+vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@bulbul.color-panel.ir:8080?encryption=none&security=none&type=tcp&headerType=none&host=play.google.com#%40vpn_fortuna
 vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@bulbul.color-panel.ir:8080?type=tcp&host=play.google.com#%40vpn_fortuna
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chromesecurity=tls#%40vpn_fortuna
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@185.112.249.201:2053?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chromesecurity=tls#%40vpn_fortuna
@@ -5609,7 +5605,6 @@ vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54
 vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzYxNyIsInNuaSI6ImF6LTEubGlua2FhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1NTM4NiIsInNuaSI6ImF6LTEubGlua2FhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJ2IjoiMiIsImFkZCI6ImNpbmR5NTAuY2VvaWlpLmNvbSIsInBvcnQiOiIzNjgwMSIsInR5cGUiOiJub25lIiwiaWQiOiJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0LmNvbSIsInRscyI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
-vmess://eyJhZGQiOiJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDM2Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJwb3J0IjoiMTA0MDkiLCJpZCI6IjFkYzczNTI5LWYwMzAtM2FjNS1hZDY0LWY3NjY2YjlhNTFiYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJwb3J0IjoiMTAwNDgiLCJpZCI6IjFkYzczNTI5LWYwMzAtM2FjNS1hZDY0LWY3NjY2YjlhNTFiYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6IiIsImhvc3QiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJ2IjoiMiIsImFkZCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJwb3J0IjoiMTAwMzciLCJ0eXBlIjoibm9uZSIsImlkIjoiMWRjNzM1MjktZjAzMC0zYWM1LWFkNjQtZjc2NjZiOWE1MWJjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJ0bHMiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9

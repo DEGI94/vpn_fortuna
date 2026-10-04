@@ -886,7 +886,6 @@ vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@51.250.96.218:8443?encryption=none&
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@84.201.177.182:8443?encryption=none&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&serviceName=grpc&sid=6b2f4e6ac9b1d2f0&sni=io.ozone.ru&type=grpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?encryption=none&security=tls&sni=d3-nl1.cloud-cdn.xyz&alpn=h2&fp=random&type=grpc&serviceName=vlgrpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?security=tls&type=grpc&mode=gun&serviceName=vlgrpc&packetEncoding=xudp&alpn=h2&sni=d3-nl1.cloud-cdn.xyz&fp=edge#%40vpn_fortuna
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?encryption=none&security=tls&serviceName=vlgrpc&sni=d3-nl1.cloud-cdn.xyz&type=grpc&fp=chrome#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?type=grpc&security=tls&fp=edge&sni=d3-nl1.cloud-cdn.xyz&mode=gun&serviceName=vlgrpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?type=grpc&security=tls&fp=firefox&sni=d3-nl1.cloud-cdn.xyz&serviceName=vlgrpc#%40vpn_fortuna
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.211:443?sni=d3-nl1.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=vlgrpc&fp=edge&security=tls#%40vpn_fortuna
@@ -1096,7 +1095,7 @@ vless://bf3d436d-cbc0-49b6-a818-45d190949212@2.27.27.239:26819?type=grpc&securit
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%40vpn_fortuna
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%40vpn_fortuna
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%40vpn_fortuna
-vless://c0acd42e-bf36-4747-90a0-a4a3a8774fdc@104.245.240.2:8443?encryption=none&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&type=grpc&mode=gun&authority=&serviceName=TunService#%40vpn_fortuna
+vless://c0acd42e-bf36-4747-90a0-a4a3a8774fdc@104.245.240.2:8443?encryption=none&security=reality&sni=cdn.steamstatic.com&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&type=grpc&mode=gun&authority=&serviceName=TunService&fp=android#%40vpn_fortuna
 vless://c0acd42e-bf36-4747-90a0-a4a3a8774fdc@104.245.240.2:8443?type=grpc&security=reality&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&sni=cdn.steamstatic.com&mode=gun&serviceName=TunService#%40vpn_fortuna
 vless://c0acd42e-bf36-4747-90a0-a4a3a8774fdc@104.245.240.2:8443?type=grpc&security=reality&fp=firefox&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&sni=cdn.steamstatic.com&serviceName=TunService#%40vpn_fortuna
 vless://c0acd42e-bf36-4747-90a0-a4a3a8774fdc@104.245.240.2:8443?type=grpc&security=reality&fp=qq&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&sni=cdn.steamstatic.com&mode=gun&serviceName=TunService#%40vpn_fortuna

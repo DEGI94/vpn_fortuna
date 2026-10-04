@@ -17,7 +17,7 @@ hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#%40vp
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@de1.xiaoliyu.cyou:4433?sni=de1.xiaoliyu.cyou&security=tls#%40vpn_fortuna
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@hk2.xiaoliyu.cyou:4433?insecure=1#%40vpn_fortuna
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@hk2.xiaoliyu.cyou:4433?sni=hk2.xiaoliyu.cyou&security=tls#%40vpn_fortuna
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou&insecure=1#%40vpn_fortuna
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#%40vpn_fortuna
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1#%40vpn_fortuna
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou&security=tls#%40vpn_fortuna
 hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@3d62ffa2-tmm5c0-ttx5yr-1j0y6.sg7.hyhuawei.com:443?sni=3d62ffa2-tmm5c0-ttx5yr-1j0y6.sg7.hyhuawei.com#%40vpn_fortuna
@@ -145,6 +145,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=vpn-de-0
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?sni=vpn-fr-001.fastervpn.world#%40vpn_fortuna
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1#%40vpn_fortuna
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?sni=off#%40vpn_fortuna
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%40vpn_fortuna
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?sni=vpn-hk-004.fastervpn.world&security=tls#%40vpn_fortuna
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#%40vpn_fortuna
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=127.0.0.1#%40vpn_fortuna
@@ -251,7 +252,6 @@ hysteria2://ee872217-9c78-402c-a002-6a2af50b0227@160.16.71.52:8843?sni=updates.c
 hysteria2://f13f964e-f06c-11ec-a858-f23c91cfbbc9@bd6e538b-tmm5c0-tt2yf5-1j61y.los.hyhuawei.com:443?sni=bd6e538b-tmm5c0-tt2yf5-1j61y.los.hyhuawei.com#%40vpn_fortuna
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%40vpn_fortuna
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?alpn=h3&insecure=1#%40vpn_fortuna
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&sni=msk.frkn.org#%40vpn_fortuna
 hy2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?insecure=1&hop_interval=10#%40vpn_fortuna
 hysteria2://f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b@3ccb74ed-tmm5c0-ttyjoe-ieln.nw4.hyhuawei.com:443?sni=3ccb74ed-tmm5c0-ttyjoe-ieln.nw4.hyhuawei.com#%40vpn_fortuna
 hysteria2://f609abb4-ed17-11ee-9fa2-f23c9164ca5d@59c70bb8-tmm5c0-txfm0f-1qxa1.nw4.hyhuawei.com:443?sni=59c70bb8-tmm5c0-txfm0f-1qxa1.nw4.hyhuawei.com#%40vpn_fortuna
