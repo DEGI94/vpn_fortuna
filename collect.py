@@ -2,6 +2,7 @@
 import base64
 import concurrent.futures
 import hashlib
+import ipaddress
 import json
 import re
 import time
@@ -112,6 +113,32 @@ def fetch(source):
     return source, [], error, 0
 
 
+def server_identity(key):
+    """Literal IP deduplication; domain names are not resolved through DNS."""
+    if key.startswith('vmess://'):
+        host = json.loads(key[8:])['add']
+    else:
+        host = json.loads(key)[2]
+    host = host.strip('[]').rstrip('.').lower()
+    try:
+        address = ipaddress.ip_address(host)
+        if isinstance(address, ipaddress.IPv6Address) and address.ipv4_mapped:
+            address = address.ipv4_mapped
+        return 'ip:' + str(address)
+    except ValueError:
+        return 'domain:' + host.encode('idna').decode('ascii')
+
+
+def deduplicate_servers(entries):
+    seen, result = set(), {}
+    for key, entry in entries.items():
+        identity = server_identity(key)
+        if identity not in seen:
+            seen.add(identity)
+            result[key] = entry
+    return result
+
+
 def write(path, text):
     path.parent.mkdir(parents=True, exist_ok=True)
     temp = path.with_suffix(path.suffix + '.tmp')
@@ -174,8 +201,10 @@ def main():
                 unique.setdefault(key, entry)
     if not fresh or not unique:
         raise SystemExit('No fresh usable sources; existing output preserved.')
+    configurations_before_ip_dedup = len(unique)
+    unique = deduplicate_servers(unique)
     groups = defaultdict(list)
-    for key in sorted(unique):
+    for key in sorted(unique, key=lambda k: (unique[k][1], server_identity(k), k)):
         link, protocol, transport, security = unique[key]
         for group in ('all', f'protocols/{protocol}', f'transports/{transport}',
                       f'security/{security}', f'combined/{protocol}/{transport}/{security}'):
@@ -195,6 +224,9 @@ def main():
         if path not in expected:
             path.unlink()
     stats = {'updated_utc': now, 'unique': len(unique), 'input_entries': total,
+             'unique_configurations_before_ip_dedup': configurations_before_ip_dedup,
+             'ip_or_domain_duplicates_removed': configurations_before_ip_dedup - len(unique),
+             'deduplication': 'one configuration per literal IP or domain name; no DNS resolution',
              'duplicates_removed': total - len(unique), 'sources': reports,
              'files': {k + '.txt': len(v) for k, v in sorted(groups.items())}}
     write(output / 'stats.json', json.dumps(stats, indent=2, ensure_ascii=False) + '\n')

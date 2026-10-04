@@ -50,3 +50,4 @@ jobs:
           cp subscriptions/all.txt vpn_fortuna.txt
           cp subscriptions/v2rayng-test.txt vpn_fortuna_100.txt
           gh release upload downloads vpn_fortuna.txt vpn_fortuna_100.txt --clobber
+          gh release upload downloads subscriptions/protocols/*.txt --clobber

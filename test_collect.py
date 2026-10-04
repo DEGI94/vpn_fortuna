@@ -1,9 +1,26 @@
 import json
 import unittest
-from collect import normalize, encode, decode, extract, mobile_sample
+from collect import normalize, encode, decode, extract, mobile_sample, deduplicate_servers, server_identity
 
 
 class ParserTests(unittest.TestCase):
+    def test_cross_protocol_ip_dedup(self):
+        links = ['vless://abc@1.2.3.4:443?type=ws', 'trojan://secret@1.2.3.4:8443',
+                 'trojan://secret@1.2.3.5:443']
+        entries = {item[0]: item[1:] for item in map(normalize, links)}
+        result = deduplicate_servers(entries)
+        self.assertEqual(len(result), 2)
+        self.assertEqual(next(iter(result.values()))[1], 'vless')
+
+    def test_ip_and_domain_normalization(self):
+        def identity(host):
+            return server_identity(normalize('trojan://x@' + host + ':443')[0])
+        self.assertEqual(identity('[::ffff:1.2.3.4]'), identity('1.2.3.4'))
+        self.assertEqual(identity('[2001:db8::1]'), identity('[2001:0db8:0:0:0:0:0:1]'))
+        self.assertEqual(identity('EXAMPLE.com.'), identity('example.com'))
+        vmess = 'vmess://' + encode(json.dumps(dict(add='1.2.3.4', port=443, id='abc')))
+        self.assertEqual(server_identity(normalize(vmess)[0]), identity('1.2.3.4'))
+
     def test_mobile_sample(self):
         prefix = 'vless://00000000-0000-4000-8000-000000000001@example.com:443'
         result = mobile_sample(['vless://invalid@example.com:443', prefix + '#x',
