@@ -1,7 +1,9 @@
 vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@3557942hol97645z1.garqino.ir:11000?encryption=none&type=http#%40vpn_fortuna
+vless://90921931-fef8-4485-90e4-4317d4459088@g1.falsecor.ir:2053?&security=reality&pbk=ZuiTGaBMx7gC9LJQ4WaFvJuGBoox8qFFv083bLoc528&sid=7e&fp=chrome&sni=www.amazon.com&type=http#%40vpn_fortuna
 vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@iTV2RAY.ddns.net:999?path=/iTV2RAY&security=reality&encryption=none&pbk=TbEfreFBXTwf3jMZFm1Zv3s2gPazYFBgf1T_GK3UcAM&host=@iTV2RAY&fp=chrome&spx=/&type=http&sni=www.speedtest.net&sid=1b1bd767#%40vpn_fortuna
 vless://868ba16e-eda0-47d2-a201-f6a694d06895@pll.parscon.ir:48310?&type=http#%40vpn_fortuna
 vless://90963d5b-b90d-448a-bced-b418e516ab98@us2.jeeet.ir:47606/?type=http&encryption=none&host=tc.donya-e-eqtesad.com&security=tls&sni=us2.jeeet.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40vpn_fortuna
+vless://7f99eb58-5983-006e-9c02-d8cea49f7074@13.143.137.98:443?security=reality&sni=ozon.ru&type=http&path=%2Faqkk8j6ayx76aw67mb&fp=firefox&pbk=0omtLHQHyKnV7w05maiOqvL5PvxdCQKw_zDqqgR28X8&sid=8d0ff3d6ec629371#%40vpn_fortuna
 vless://monacoVPN@172.65.111.43:22?&fp=chrome&type=http#%40vpn_fortuna
 vless://40992c2a-513e-4837-9594-23411fd42afd@174.138.6.48:443?&type=http#%40vpn_fortuna
 vless://07c98d86-94d3-4c5e-bbe5-6c485919e673@195.201.32.108:8082?security=reality&sni=microsoft.com&fp=chrome&pbk=ACTxP6V5rI1TWFO720IJu5Y2GN49St1rQ3dqxrhAAEk&sid=3ac6d7c7&type=http&path=/&encryption=none#%40vpn_fortuna
@@ -10,7 +12,6 @@ vless://953358cb-82ba-4296-960d-6d2ec3468f4c@217.19.122.17:10654?encryption=none
 vless://65c4cd17-f05e-4759-bac2-8a447282a584@51.250.44.57:443?encryption=none&extra=%7B%22enabled%22%3Atrue%2C%22concurrency%22%3A-1%2C%22xudpConcurrency%22%3A16%2C%22xudpProxyUDP443%22%3A%22reject%22%7D&fp=chrome&mode=stream-up&path=%2Fxhttp&pbk=ntl-B6DVFe9ezroTPPzzWDgjw-toGDqiAS4do2oiNg4&security=reality&sid=7a72a20b90679b00&sni=api-maps.yandex.ru&type=http#%40vpn_fortuna
 vless://1240607b-86ed-4ef1-9123-8061144cbdbf@65.109.208.97:47851?type=http&method=GET#%40vpn_fortuna
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=firefox&mode=auto&path=%2F&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=http#%40vpn_fortuna
-vless://4d8e5a48-bb24-4975-aa31-7d75e96c6827@87.228.101.57:8443?type=http&security=reality&encryption=none&path=%2F&sni=api.yandex.ru&fp=firefox&pbk=4rOkMPLt9aMOXiDmXkPX6RQP6jd6qBLBvGJx45JFWFk&sid=ee82aca370f4428b&spx=%2F&headerType=none&mode=auto#%40vpn_fortuna
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwMy4xNzkuMTQyLjE1OCIsInBvcnQiOiI1MDI2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiODRmMjM4ZjYtMjhlYi00OGRmLWE3YmMtYTliZDljZjRhYmJhIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJhZGQiOiIxMDkuMTIyLjIwOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjQ4Mzc3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJhZGQiOiIxMjQuMjIxLjEzMS4xNzYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImZhNGI2ZjhmLTEyNjQtNDVlYy05NjUxLTYxNjBjMTJjYWJjNSIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjUwNzk3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9

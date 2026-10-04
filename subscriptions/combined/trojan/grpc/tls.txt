@@ -1,6 +1,6 @@
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1744156156.tencentapp.cn:2053/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%40vpn_fortuna
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1751511556.tencentapp.cn:2083/?type=grpc&serviceName=m3u8&security=tls&sni=1751511679.speed.laxvara.china.nicchina.pp.ua#%40vpn_fortuna
-trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?type=grpc&serviceName=grpcbeast&security=tls&alpn=h2&fp=chrome#%40vpn_fortuna
+trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?allowInsecure=1&alpn=h2&type=grpc&serviceName=grpcbeast#%40vpn_fortuna
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%40vpn_fortuna
 trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443/?type=grpc&security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk#%40vpn_fortuna
 trojan://qQE5Yl3oU5@104.21.48.6:2087/?type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=iran.farsonline24.ir&fp=chrome#%40vpn_fortuna
@@ -19,7 +19,7 @@ trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.
 trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@217.16.17.127:25565?type=grpc&security=tls&fp=firefox&sni=vkc2.safesurf.cloud&alpn=h2,http/1.1#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%40vpn_fortuna
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=/#%40vpn_fortuna
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?allowInsecure=1&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv#%40vpn_fortuna
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%40vpn_fortuna
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
