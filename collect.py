@@ -168,6 +168,25 @@ def mobile_sample(links, limit=100):
     return result
 
 
+def nekobox_groups(links):
+    result = []
+    for link in links:
+        key, _, protocol, _, _ = normalize(link)
+        suffix = hashlib.sha256(key.encode()).hexdigest()[:16]
+        name = f'{NAME} | {protocol.upper()} | {suffix}'
+        if protocol == 'vmess':
+            obj = json.loads(decode(link[8:]))
+            obj['ps'] = name
+            link = 'vmess://' + encode(json.dumps(obj, ensure_ascii=False, separators=(',', ':')))
+        else:
+            link = link.split('#', 1)[0] + '#' + url.quote(name, safe='')
+        result.append(link)
+    groups = {'nekobox/all': result}
+    for offset in range(0, len(result), 500):
+        groups[f'nekobox/part-{offset // 500 + 1:03d}'] = result[offset:offset + 500]
+    return groups
+
+
 def main():
     sources = list(dict.fromkeys(line.strip() for line in (ROOT / 'sources.txt').read_text().splitlines()
                                 if line.strip() and not line.lstrip().startswith('#')))
@@ -212,6 +231,7 @@ def main():
     sample = mobile_sample(groups.get('protocols/vless', []))
     if sample:
         groups['v2rayng-test'] = sample
+    groups.update(nekobox_groups(groups['all']))
     output = ROOT / 'subscriptions'
     expected = set()
     for group, links in sorted(groups.items()):

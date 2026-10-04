@@ -1,9 +1,23 @@
 import json
 import unittest
 from collect import normalize, encode, decode, extract, mobile_sample, deduplicate_servers, server_identity
+from collect import nekobox_groups
 
 
 class ParserTests(unittest.TestCase):
+    def test_nekobox_unique_names_and_unchanged_connections(self):
+        from urllib.parse import urlsplit, unquote
+        links = [f'vless://abc@192.0.2.1:{port}?type=ws#same' for port in range(1000, 1501)]
+        links.append('vmess://' + encode(json.dumps(dict(add='example.com', port=443, id='abc', ps='same'))))
+        groups = nekobox_groups(links)
+        names = []
+        for before, after in zip(links, groups['nekobox/all']):
+            self.assertEqual(normalize(before)[0], normalize(after)[0])
+            names.append(json.loads(decode(after[8:]))['ps'] if after.startswith('vmess://') else unquote(urlsplit(after).fragment))
+        self.assertEqual(len(names), len(set(names)))
+        self.assertEqual(len(groups['nekobox/part-001']), 500)
+        self.assertEqual(len(groups['nekobox/part-002']), 2)
+
     def test_cross_protocol_ip_dedup(self):
         links = ['vless://abc@1.2.3.4:443?type=ws', 'trojan://secret@1.2.3.4:8443',
                  'trojan://secret@1.2.3.5:443']
