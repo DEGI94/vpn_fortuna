@@ -367,6 +367,7 @@ vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?mode=gun&securi
 vless://0341d8f2-99e0-4f6c-af0a-345ac26815cf@91.99.218.107:51269?encryption=none&type=grpc#%40vpn_fortuna
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@92.223.71.246:8880/?type=grpc&encryption=none#%40vpn_fortuna
 vless://64777aa1-39e7-4133-a682-8c2dc67c0a93@93.190.8.143:3090?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#%40vpn_fortuna
+vless://6173cf69-1fd6-4f69-b7f4-c5811925785a@93.190.8.153:3090?type=grpc&mode=multi&serviceName=vless#%40vpn_fortuna
 vless://5f716928-b19e-4c8d-a70b-6bee4995d7f1@93.190.8.22:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
 vless://613fc411-78e1-4d68-a663-6abeb46a97e7@93.190.9.15:3090?&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://552d68c0-dccf-4623-9eca-f4203e2203d1@93.190.9.172:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
