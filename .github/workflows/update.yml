@@ -40,3 +40,13 @@ jobs:
             git commit -m 'Update subscriptions'
             git push
           fi
+      - name: Publish downloadable TXT files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view downloads >/dev/null 2>&1; then
+            gh release create downloads --target main --title 'VPN Fortuna — TXT downloads' --notes 'Downloadable configuration lists, refreshed every four hours.'
+          fi
+          cp subscriptions/all.txt vpn_fortuna.txt
+          cp subscriptions/v2rayng-test.txt vpn_fortuna_100.txt
+          gh release upload downloads vpn_fortuna.txt vpn_fortuna_100.txt --clobber
