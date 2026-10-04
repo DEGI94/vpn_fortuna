@@ -2564,7 +2564,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?security=none&t
 vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?path=%2F&security=none&encryption=none&type=ws#%40vpn_fortuna
 vless://87f3bc47-ee10-4418-9260-7a4e43f28e00@176.98.178.17:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%40vpn_fortuna
 vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=/&security=none&encryption=none&type=ws#%40vpn_fortuna
-vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@178.72.147.249:4100?encryption=none&host=live.ok.ru&path=/v1&sni=live.ok.ru&type=ws#%40vpn_fortuna
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@178.72.147.249:4100?encryption=none&host=live.ok.ru&path=/v1&sni=live.ok.ru&type=ws#%40vpn_fortuna
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#%40vpn_fortuna
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#%40vpn_fortuna
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?encryption=none&security=none&type=ws&path=/4bc027a44532#%40vpn_fortuna

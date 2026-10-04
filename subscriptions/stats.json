@@ -1,18 +1,18 @@
 {
-  "updated_utc": "2026-10-04T04:52:29.592949+00:00",
+  "updated_utc": "2026-10-04T05:02:34.096695+00:00",
   "unique": 33665,
-  "input_entries": 159728,
-  "unique_configurations_before_ip_dedup": 66844,
-  "ip_or_domain_duplicates_removed": 33179,
+  "input_entries": 159746,
+  "unique_configurations_before_ip_dedup": 66864,
+  "ip_or_domain_duplicates_removed": 33199,
   "deduplication": "one configuration per literal IP or domain name; no DNS resolution",
-  "duplicates_removed": 126063,
+  "duplicates_removed": 126081,
   "sources": [
     {
       "url": "https://solovyov-jenya2004.vercel.app/final_sorted/",
-      "count": 1509,
+      "count": 1527,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -20,7 +20,7 @@
       "count": 5714,
       "rejected": 75,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "count": 182,
       "rejected": 1,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -36,7 +36,7 @@
       "count": 7452,
       "rejected": 2,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "count": 3675,
       "rejected": 264,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "count": 12118,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -60,7 +60,7 @@
       "count": 224,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -68,7 +68,7 @@
       "count": 7800,
       "rejected": 36,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -76,7 +76,7 @@
       "count": 4116,
       "rejected": 3,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -84,7 +84,7 @@
       "count": 462,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "count": 390,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "count": 3957,
       "rejected": 13,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -108,7 +108,7 @@
       "count": 11633,
       "rejected": 453,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -116,7 +116,7 @@
       "count": 312,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -124,7 +124,7 @@
       "count": 212,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -132,7 +132,7 @@
       "count": 2,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -140,7 +140,7 @@
       "count": 1,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -148,7 +148,7 @@
       "count": 57274,
       "rejected": 172,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -156,7 +156,7 @@
       "count": 17490,
       "rejected": 102,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -164,7 +164,7 @@
       "count": 9879,
       "rejected": 27,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "count": 883,
       "rejected": 8,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     },
     {
@@ -180,7 +180,7 @@
       "count": 14443,
       "rejected": 3135,
       "status": "ok",
-      "last_success": "2026-10-04T04:52:29.592949+00:00",
+      "last_success": "2026-10-04T05:02:34.096695+00:00",
       "error": null
     }
   ],
@@ -217,12 +217,12 @@
     "combined/vless/kcp/tls.txt": 1,
     "combined/vless/none/reality.txt": 1,
     "combined/vless/raw/none.txt": 4,
-    "combined/vless/raw/reality.txt": 256,
+    "combined/vless/raw/reality.txt": 258,
     "combined/vless/raw/tls.txt": 12,
     "combined/vless/splithttp/none.txt": 1,
     "combined/vless/tcp/false.txt": 11,
-    "combined/vless/tcp/none.txt": 1682,
-    "combined/vless/tcp/reality.txt": 5557,
+    "combined/vless/tcp/none.txt": 1681,
+    "combined/vless/tcp/reality.txt": 5555,
     "combined/vless/tcp/tls.txt": 849,
     "combined/vless/tcp/unknown.txt": 1,
     "combined/vless/tcp/xtls.txt": 16,
@@ -237,7 +237,7 @@
     "combined/vless/wsoliver/none.txt": 1,
     "combined/vless/xhttp/none.txt": 246,
     "combined/vless/xhttp/reality.txt": 360,
-    "combined/vless/xhttp/tls.txt": 429,
+    "combined/vless/xhttp/tls.txt": 430,
     "combined/vmess/grpc/none.txt": 5,
     "combined/vmess/grpc/tls.txt": 23,
     "combined/vmess/h2/tls.txt": 2,
@@ -260,6 +260,75 @@
     "combined/vmess/ws/true.txt": 1,
     "combined/vmess/xhttp/none.txt": 9,
     "combined/vmess/xhttp/tls.txt": 6,
+    "nekobox/all.txt": 33665,
+    "nekobox/part-001.txt": 500,
+    "nekobox/part-002.txt": 500,
+    "nekobox/part-003.txt": 500,
+    "nekobox/part-004.txt": 500,
+    "nekobox/part-005.txt": 500,
+    "nekobox/part-006.txt": 500,
+    "nekobox/part-007.txt": 500,
+    "nekobox/part-008.txt": 500,
+    "nekobox/part-009.txt": 500,
+    "nekobox/part-010.txt": 500,
+    "nekobox/part-011.txt": 500,
+    "nekobox/part-012.txt": 500,
+    "nekobox/part-013.txt": 500,
+    "nekobox/part-014.txt": 500,
+    "nekobox/part-015.txt": 500,
+    "nekobox/part-016.txt": 500,
+    "nekobox/part-017.txt": 500,
+    "nekobox/part-018.txt": 500,
+    "nekobox/part-019.txt": 500,
+    "nekobox/part-020.txt": 500,
+    "nekobox/part-021.txt": 500,
+    "nekobox/part-022.txt": 500,
+    "nekobox/part-023.txt": 500,
+    "nekobox/part-024.txt": 500,
+    "nekobox/part-025.txt": 500,
+    "nekobox/part-026.txt": 500,
+    "nekobox/part-027.txt": 500,
+    "nekobox/part-028.txt": 500,
+    "nekobox/part-029.txt": 500,
+    "nekobox/part-030.txt": 500,
+    "nekobox/part-031.txt": 500,
+    "nekobox/part-032.txt": 500,
+    "nekobox/part-033.txt": 500,
+    "nekobox/part-034.txt": 500,
+    "nekobox/part-035.txt": 500,
+    "nekobox/part-036.txt": 500,
+    "nekobox/part-037.txt": 500,
+    "nekobox/part-038.txt": 500,
+    "nekobox/part-039.txt": 500,
+    "nekobox/part-040.txt": 500,
+    "nekobox/part-041.txt": 500,
+    "nekobox/part-042.txt": 500,
+    "nekobox/part-043.txt": 500,
+    "nekobox/part-044.txt": 500,
+    "nekobox/part-045.txt": 500,
+    "nekobox/part-046.txt": 500,
+    "nekobox/part-047.txt": 500,
+    "nekobox/part-048.txt": 500,
+    "nekobox/part-049.txt": 500,
+    "nekobox/part-050.txt": 500,
+    "nekobox/part-051.txt": 500,
+    "nekobox/part-052.txt": 500,
+    "nekobox/part-053.txt": 500,
+    "nekobox/part-054.txt": 500,
+    "nekobox/part-055.txt": 500,
+    "nekobox/part-056.txt": 500,
+    "nekobox/part-057.txt": 500,
+    "nekobox/part-058.txt": 500,
+    "nekobox/part-059.txt": 500,
+    "nekobox/part-060.txt": 500,
+    "nekobox/part-061.txt": 500,
+    "nekobox/part-062.txt": 500,
+    "nekobox/part-063.txt": 500,
+    "nekobox/part-064.txt": 500,
+    "nekobox/part-065.txt": 500,
+    "nekobox/part-066.txt": 500,
+    "nekobox/part-067.txt": 500,
+    "nekobox/part-068.txt": 165,
     "protocols/hysteria2.txt": 428,
     "protocols/ss.txt": 3272,
     "protocols/trojan.txt": 4515,
@@ -269,9 +338,9 @@
     "security/aes-128-gcm.txt": 1,
     "security/auto.txt": 14,
     "security/false.txt": 29,
-    "security/none.txt": 11462,
+    "security/none.txt": 11461,
     "security/reality.txt": 6859,
-    "security/tls.txt": 15278,
+    "security/tls.txt": 15279,
     "security/true.txt": 1,
     "security/unknown.txt": 4,
     "security/xtls.txt": 17,
@@ -282,14 +351,14 @@
     "transports/kcp.txt": 3,
     "transports/none.txt": 6,
     "transports/quic.txt": 429,
-    "transports/raw.txt": 291,
+    "transports/raw.txt": 293,
     "transports/splithttp.txt": 1,
-    "transports/tcp.txt": 15699,
+    "transports/tcp.txt": 15696,
     "transports/udp.txt": 1,
     "transports/unknown.txt": 14,
     "transports/ws.txt": 14459,
     "transports/wsoliver.txt": 1,
-    "transports/xhttp.txt": 1057,
+    "transports/xhttp.txt": 1058,
     "v2rayng-test.txt": 100
   }
 }
