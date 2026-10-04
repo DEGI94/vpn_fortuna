@@ -1,9 +1,16 @@
 import json
 import unittest
-from collect import normalize, encode, decode, extract
+from collect import normalize, encode, decode, extract, mobile_sample
 
 
 class ParserTests(unittest.TestCase):
+    def test_mobile_sample(self):
+        prefix = 'vless://00000000-0000-4000-8000-000000000001@example.com:443'
+        result = mobile_sample(['vless://invalid@example.com:443', prefix + '#x',
+                                prefix + '?type=xhttp#x'], limit=100)
+        self.assertEqual(len(result), 1)
+        self.assertIn('?encryption=none#%40vpn_fortuna', result[0])
+
     def test_names_and_parameter_order(self):
         a = normalize('vless://abc@EXAMPLE.com:443?security=reality&type=ws#old')
         b = normalize('vless://abc@example.com:443?type=ws&security=reality#new')

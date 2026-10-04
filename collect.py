@@ -7,6 +7,7 @@ import re
 import time
 import urllib.parse as url
 import urllib.request
+import uuid
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -118,6 +119,28 @@ def write(path, text):
     temp.replace(path)
 
 
+def mobile_sample(links, limit=100):
+    """Small diagnostic subscription; selection does not imply working endpoints."""
+    result = []
+    for link in links:
+        try:
+            parsed = url.urlsplit(link)
+            uuid.UUID(url.unquote(parsed.username or ''))
+            params = dict(url.parse_qsl(parsed.query))
+            if params.get('type', 'tcp') not in ('tcp', 'ws', 'grpc'):
+                continue
+            if params.get('security', 'none') not in ('none', 'tls', 'reality'):
+                continue
+            if not parsed.query:
+                link = link.split('#', 1)[0] + '?encryption=none#' + url.quote(NAME, safe='')
+            result.append(link)
+            if len(result) == limit:
+                break
+        except ValueError:
+            continue
+    return result
+
+
 def main():
     sources = list(dict.fromkeys(line.strip() for line in (ROOT / 'sources.txt').read_text().splitlines()
                                 if line.strip() and not line.lstrip().startswith('#')))
@@ -157,6 +180,9 @@ def main():
         for group in ('all', f'protocols/{protocol}', f'transports/{transport}',
                       f'security/{security}', f'combined/{protocol}/{transport}/{security}'):
             groups[group].append(link)
+    sample = mobile_sample(groups.get('protocols/vless', []))
+    if sample:
+        groups['v2rayng-test'] = sample
     output = ROOT / 'subscriptions'
     expected = set()
     for group, links in sorted(groups.items()):

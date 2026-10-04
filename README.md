@@ -4,6 +4,12 @@
 
 ## Подписки
 
+- [Небольшая тестовая подписка для v2rayNG — 100 VLESS](https://raw.githubusercontent.com/DEGI94/vpn_fortuna/main/subscriptions/v2rayng-test.base64.txt)
+
+В v2rayNG добавьте URL через **Настройки подписки → +**, сохраните и выполните
+**Обновить подписки** на главном экране. Тестовая подписка помогает проверить импорт
+без загрузки общего списка из десятков тысяч записей. Это не список проверенных рабочих серверов.
+
 - [Общая подписка](https://raw.githubusercontent.com/DEGI94/vpn_fortuna/main/subscriptions/all.txt)
 - [Общая подписка Base64](https://raw.githubusercontent.com/DEGI94/vpn_fortuna/main/subscriptions/all.base64.txt)
 - [Файлы по протоколам](subscriptions/protocols)
