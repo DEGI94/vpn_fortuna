@@ -1,13 +1,3 @@
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20063/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dc6331e66c35e741
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20064/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20794f77a46ad43002
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2078367928fc198493
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20068/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ee4220e45f841836
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20072/?type=tcp&security=tls&sni=SG.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20411765d75f70f962
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20077/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20923acf86ef2f0562
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20083/?type=tcp&security=tls&sni=SG.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20afbde49405999177
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20085/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f3d8ace22534ec45
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20086/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200a5f3b8e5779eac0
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20088/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b35c8c911745fdf1
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20089/?type=tcp&security=tls&sni=SG.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20646f42935b07feff
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20092/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202804ec3adf7bd29f
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20098/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f538bbb2acee8930
@@ -498,3 +488,13 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua
 trojan://96983eb4-cr8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c953b7f749f5ca2d
 trojan://970cff306f67f10cb3aa6cad2f73c2e2@ja262.magiclampcloud.cn:59443?allowInsecure=0&sni=ja262.magiclampcloud.cn&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2020f709f106a12ed2
 trojan://970ec930-48a2-11f0-a318-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201d7461a65fe53a02
+trojan://973c7f53-7411-4173-b805-d65c912e4d55@43.134.48.62:443?security=tls&headerType=none&type=tcp&sni=86sg.ljydw.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209abd92d5dc8cad15
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207c3130d9615b46c6
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443/?type=tcp&security=tls&sni=frt2.sshocean.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202594c5bf155617f5
+trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ff2fe614668c339c
+trojan://9773a2c0-066f-11f0-a146-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e1b245763a0c70b0
+trojan://9773a2c0-066f-11f0-a146-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20df1ca7a1131b05bb
+trojan://979c34ad-710d-4446-bc95-0bfd397aaa78@142.93.226.128:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203bc353d3e50e5028
+trojan://97d557df-6f6a-5bad-9483-600aba02da3a@au-01-gh3fg1.ferryhwp8ebm.com:42103?security=tls&sni=au-01-651.duuk.info&type=tcp&headerType=none&host=undefined#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ade8e85624e11adb
+trojan://97d557df-6f6a-5bad-9483-600aba02da3a@au-01-gh3fg1.ferryhwp8ebm.com:42103?security=tls&sni=au-01-651.duuk.info&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2017cec1c9482b5ebe
+trojan://97d557df-6f6a-5bad-9483-600aba02da3a@us-08-cz2dg2.ferryhwp8ebm.com:7308?security=tls&sni=us-08-650.duuk.info&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2091e4f97a79a1ec80

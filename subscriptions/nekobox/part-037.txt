@@ -1,3 +1,9 @@
+trojan://blue2024@172.64.35.199:443?security=tls&sni=ta.promote.icu&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a55440c0121f9e3d
+trojan://blue2024@172.64.35.199:443/?type=tcp&security=tls&sni=ta.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b128d7c8a1168bd9
+trojan://blue2024@172.64.35.202:443?sni=hb.lii2010.us.kg&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a7d137cfc440705f
+trojan://blue2024@172.64.35.203:443?sni=ta.promote.icu&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20783a4ab2884da18f
+trojan://blue2024@172.64.35.203:443/?type=tcp&security=tls&sni=ta.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204524762b2872fc4f
+trojan://blue2024@172.64.35.205:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20195fbaf04b20ce0f
 trojan://blue2024@172.64.35.207:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20996ac4f04061a4b1
 trojan://blue2024@172.64.35.207:443/?type=ws&host=tb.promote.icu&security=tls&sni=tb.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20523a0a7eaaae73e1
 trojan://blue2024@172.64.35.209:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201cf13ce549e36d23
@@ -492,9 +498,3 @@ trojan://bpb-trojan@45.80.110.224:443/?type=tcp&security=tls&sni=bpb.my79801.com
 trojan://bpb-trojan@45.80.111.9:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ab07b6be80427af1
 trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206de4486853c4decc
 trojan://bpb-trojan@5.182.85.176:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20718c4b5043eb681e
-trojan://bpb-trojan@86.38.214.132:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fa6c5b62ed54fbc3
-trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c325305c08a4559a
-trojan://bpb-trojan@89.116.250.94:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e751c3c446a8726b
-trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2056cbc25534dcda7a
-trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208aab5b8e4bce8d9d
-trojan://bpb-trojan@91.227.77.87:443?sni=skwygx.top&peer=skwygx.top&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f4bd9ebdbecc682a

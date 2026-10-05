@@ -1,13 +1,3 @@
-trojan://ON38567014@square-pheasant.rooster465.autos:443?security=tls&sni=square-pheasant.rooster465.autos&fp=chrome&type=tcp&path=/&allow_insecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d198452eb21e23e5
-trojan://ON38567014@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d7602fbce2b903f0
-trojan://ON38567014@supreme-leopard.rooster465.autos:443?sni=supreme-leopard.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bab342af6ebb7081
-trojan://ON38567014@thorough-elf.rooster465.autos:443?allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203f17c2f51e709d62
-trojan://ON38567014@tolerant-stag.rooster465.autos:443?sni=tolerant-stag.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206a7825d5c57f5f6e
-trojan://ON38567014@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos&fp=chrome&type=tcp&path=/&allow_insecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2088eaa06566f0f3c5
-trojan://ON38567014@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205665cbd647afc358
-trojan://ON38567014@trusted-grouper.rooster465.autos:443?allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201ea016acd3584b1f
-trojan://ON38567014@trusting-moccasin.rooster465.autos:443?sni=trusting-moccasin.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206d1c55b022b1c61f
-trojan://ON38567014@unique-gobbler.rooster465.autos:443?fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202bb44987b67fefcc
 trojan://ON38567014@upward-squid.rooster465.autos:443?sni=upward-squid.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200919d171d4c880e1
 trojan://ON38567014@usable-dogfish.rooster465.autos:443?sni=usable-dogfish.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20693bb70c32ceafad
 trojan://ON38567014@vast-turkey.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=vast-turkey.rooster465.autos&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b97654b40b58381c
@@ -498,3 +488,13 @@ trojan://Telegram_healer_config@104.17.147.22:443?sni=TO6R63-KKChIGHQM2.VxZ0DDUq
 trojan://Telegram_healer_config@104.17.147.22:443?sni=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&type=ws&path=/tr/mPZ7O1CUbIBPGNPZQ2HeV?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d674632f4c4565bc
 trojan://Telegram_healer_config@104.17.148.22:443?sni=30F67SBQ8jJwmT7GyTFc14.0m68-QZ3hQyFnlar6N3IQ.WoRKErS.deV&type=ws&path=/tr/D0RNup7f2Tt0Tna3gVu5OvfMJYJjD?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eb7d375d6f567eff
 trojan://Telegram_healer_config@104.21.16.123:443?allowInsecure=1&type=ws&security=tls&fp=chrome&host=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f001085c669be6bb
+trojan://Telegram_healer_config@104.21.16.123:443?sni=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&allowInsecure=1&type=ws&path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2006275c4092262aaf
+trojan://Telegram_healer_config@104.21.16.123:443?sni=7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV&type=ws&path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2033b8947f027a6121
+trojan://Telegram_healer_config@104.21.17.125:443?sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv&type=ws&path=/tr/hYgAqUlh5GyczDyXP?ed&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ee25e55e60fdf3a9
+trojan://Telegram_healer_config@104.21.24.95:443?allowInsecure=1&type=ws&security=tls&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac112dbeb1b456d1
+trojan://Telegram_healer_config@104.21.24.95:443?sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&allowInsecure=1&type=ws&path=/tr/zJi4ccv7FeEo780U?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f4ff88dc842852db
+trojan://Telegram_healer_config@104.21.24.95:443?sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV&type=ws&path=/tr/zJi4ccv7FeEo780U?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208477f63b69cd5eed
+trojan://Telegram_healer_config@104.21.24.95:443?type=ws&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e97d0b2ee99d9fa4
+trojan://Telegram_healer_config@104.21.4.124:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&path=/tr/W3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2005e0c18c779d0973
+trojan://Telegram_healer_config@104.21.4.124:443?allowInsecure=1&type=ws&security=tls&fp=chrome&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20614cf3e19fa260ef
+trojan://Telegram_healer_config@104.21.4.124:443?sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&allowInsecure=1&type=ws&path=/tr/W3Ei3SdcW9sRVMLIbEd8sB1lm?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fc9be9618d20cb65

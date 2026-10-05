@@ -386,6 +386,7 @@ vless://c5a28d88-714d-461c-9ef6-178e26e2c840@104.143.223.67:2085?&type=grpc&serv
 vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://c5faf134-bade-4e16-96de-a33a24c51cce@sn.lunarmc.ir:8082?mode=multi&security=none&encryption=none&authority=N1ZucxBTN2elyqg&type=grpc&serviceName=sn.lunarmc.ir#%40vpn_fortuna
 vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
+vless://c7cb3a66-991f-4796-aeed-2926aae9f3f9@153.76.185.158:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%40vpn_fortuna
 vless://c7cb3a66-991f-4796-aeed-2926aae9f3f9@153.76.185.158:3090?type=grpc&mode=multi&serviceName=vless#%40vpn_fortuna
 vless://c8f15808-e131-48a7-ad77-08b1a7a709ee@45.142.213.135:8080?mode=gun&security=none&encryption=none&authority=lv1.vless.site&type=grpc&serviceName=vless-grpc&sni=lv1.vless.site#%40vpn_fortuna
 vless://c935aba0-8835-426a-a585-225baee13f70@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40vpn_fortuna

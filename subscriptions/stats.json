@@ -1,25 +1,25 @@
 {
-  "updated_utc": "2026-10-05T15:34:14.477222+00:00",
-  "unique": 90410,
-  "input_entries": 367308,
+  "updated_utc": "2026-10-05T17:09:24.123821+00:00",
+  "unique": 90273,
+  "input_entries": 366912,
   "ip_or_domain_duplicates_removed": 0,
   "deduplication": "connection parameters only; names ignored; different credentials, ports and transports retained",
-  "duplicates_removed": 276898,
+  "duplicates_removed": 276639,
   "sources": [
     {
       "url": "https://solovyov-jenya2004.vercel.app/final_sorted/",
-      "count": 1427,
+      "count": 1333,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://rostunnel.vercel.app/mega.txt",
-      "count": 4884,
+      "count": 4865,
       "rejected": 73,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -27,7 +27,7 @@
       "count": 155,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -35,15 +35,15 @@
       "count": 6650,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://alley.serv00.net/2",
-      "count": 4566,
-      "rejected": 326,
+      "count": 4617,
+      "rejected": 328,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -51,7 +51,7 @@
       "count": 12268,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -59,7 +59,7 @@
       "count": 224,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -67,7 +67,7 @@
       "count": 7644,
       "rejected": 36,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -75,7 +75,7 @@
       "count": 4206,
       "rejected": 3,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -83,7 +83,7 @@
       "count": 446,
       "rejected": 1,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "count": 378,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -99,15 +99,15 @@
       "count": 3954,
       "rejected": 11,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.txt",
-      "count": 11573,
-      "rejected": 461,
+      "count": 11560,
+      "rejected": 463,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -115,7 +115,7 @@
       "count": 313,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -123,7 +123,7 @@
       "count": 312,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -131,7 +131,7 @@
       "count": 5,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -139,7 +139,7 @@
       "count": 1,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -147,7 +147,7 @@
       "count": 56032,
       "rejected": 148,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -155,7 +155,7 @@
       "count": 17948,
       "rejected": 102,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "count": 10474,
       "rejected": 56,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -171,7 +171,7 @@
       "count": 881,
       "rejected": 9,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -179,39 +179,39 @@
       "count": 14578,
       "rejected": 3106,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt",
-      "count": 382,
+      "count": 294,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/mehrtat/vless-collector/main/vless.txt",
-      "count": 382,
+      "count": 294,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt",
-      "count": 1983,
-      "rejected": 17,
+      "count": 1980,
+      "rejected": 20,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt",
-      "count": 100,
-      "rejected": 0,
+      "count": 99,
+      "rejected": 1,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -219,7 +219,7 @@
       "count": 100,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -227,7 +227,7 @@
       "count": 100,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -235,47 +235,47 @@
       "count": 7635,
       "rejected": 36,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt",
-      "count": 32770,
-      "rejected": 2171,
+      "count": 32780,
+      "rejected": 2172,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt",
-      "count": 408,
+      "count": 402,
       "rejected": 110,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vmess_configs.txt",
-      "count": 4762,
-      "rejected": 70,
+      "count": 4772,
+      "rejected": 71,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vless_configs.txt",
-      "count": 19129,
-      "rejected": 27,
+      "count": 19041,
+      "rejected": 26,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/trojan_configs.txt",
-      "count": 4665,
+      "count": 4670,
       "rejected": 11,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -288,18 +288,18 @@
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ss_configs.txt",
-      "count": 4801,
+      "count": 4798,
       "rejected": 1997,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt",
-      "count": 33316,
+      "count": 33247,
       "rejected": 2106,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -307,7 +307,7 @@
       "count": 29471,
       "rejected": 312,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -315,7 +315,7 @@
       "count": 1667,
       "rejected": 27,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -323,7 +323,7 @@
       "count": 17237,
       "rejected": 25,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -331,7 +331,7 @@
       "count": 3733,
       "rejected": 11,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -339,7 +339,7 @@
       "count": 4401,
       "rejected": 214,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -347,7 +347,7 @@
       "count": 5972,
       "rejected": 13,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -355,7 +355,7 @@
       "count": 34857,
       "rejected": 18,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -363,7 +363,7 @@
       "count": 6,
       "rejected": 0,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     },
     {
@@ -371,17 +371,17 @@
       "count": 512,
       "rejected": 2,
       "status": "ok",
-      "last_success": "2026-10-05T15:34:14.477222+00:00",
+      "last_success": "2026-10-05T17:09:24.123821+00:00",
       "error": null
     }
   ],
   "files": {
-    "all.txt": 90410,
+    "all.txt": 90273,
     "combined/hysteria/quic/tls.txt": 44,
-    "combined/hysteria2/quic/tls.txt": 2815,
+    "combined/hysteria2/quic/tls.txt": 2806,
     "combined/hysteria2/tcp/tls.txt": 5,
     "combined/ss/grpc/none.txt": 2,
-    "combined/ss/tcp/none.txt": 7200,
+    "combined/ss/tcp/none.txt": 7199,
     "combined/ss/tcp/tls.txt": 1,
     "combined/ss/ws/tls.txt": 1,
     "combined/trojan/grpc/none.txt": 2,
@@ -392,20 +392,20 @@
     "combined/trojan/httpupgrade/none.txt": 2,
     "combined/trojan/httpupgrade/tls.txt": 17,
     "combined/trojan/raw/none.txt": 1,
-    "combined/trojan/raw/tls.txt": 21,
+    "combined/trojan/raw/tls.txt": 23,
     "combined/trojan/splithttp/tls.txt": 1,
     "combined/trojan/tcp/none.txt": 23,
-    "combined/trojan/tcp/reality.txt": 37,
-    "combined/trojan/tcp/tls.txt": 8387,
+    "combined/trojan/tcp/reality.txt": 38,
+    "combined/trojan/tcp/tls.txt": 8393,
     "combined/trojan/tcp/unknown.txt": 7,
     "combined/trojan/tcp/xtls.txt": 1,
     "combined/trojan/ws/none.txt": 47,
-    "combined/trojan/ws/tls.txt": 2376,
+    "combined/trojan/ws/tls.txt": 2377,
     "combined/trojan/xhttp/reality.txt": 5,
     "combined/trojan/xhttp/tls.txt": 8,
     "combined/tuic/quic/tls.txt": 91,
-    "combined/vless/grpc/none.txt": 824,
-    "combined/vless/grpc/reality.txt": 2074,
+    "combined/vless/grpc/none.txt": 825,
+    "combined/vless/grpc/reality.txt": 2085,
     "combined/vless/grpc/tls.txt": 1043,
     "combined/vless/grpc/unknown.txt": 1,
     "combined/vless/h2/reality.txt": 1,
@@ -418,57 +418,57 @@
     "combined/vless/kcp/none.txt": 4,
     "combined/vless/kcp/tls.txt": 2,
     "combined/vless/none/reality.txt": 6,
-    "combined/vless/raw/none.txt": 22,
-    "combined/vless/raw/reality.txt": 1154,
+    "combined/vless/raw/none.txt": 21,
+    "combined/vless/raw/reality.txt": 1142,
     "combined/vless/raw/tls.txt": 30,
     "combined/vless/splithttp/none.txt": 21,
     "combined/vless/splithttp/tls.txt": 10,
     "combined/vless/tcp/false.txt": 16,
-    "combined/vless/tcp/none.txt": 4904,
-    "combined/vless/tcp/reality.txt": 10635,
-    "combined/vless/tcp/tls.txt": 1900,
+    "combined/vless/tcp/none.txt": 4898,
+    "combined/vless/tcp/reality.txt": 10568,
+    "combined/vless/tcp/tls.txt": 1890,
     "combined/vless/tcp/unknown.txt": 11,
     "combined/vless/tcp/xtls.txt": 17,
     "combined/vless/unknown/none.txt": 9,
-    "combined/vless/unknown/reality.txt": 30,
+    "combined/vless/unknown/reality.txt": 31,
     "combined/vless/unknown/tls.txt": 2,
     "combined/vless/ws/auto.txt": 1,
     "combined/vless/ws/false.txt": 807,
-    "combined/vless/ws/none.txt": 12497,
+    "combined/vless/ws/none.txt": 12487,
     "combined/vless/ws/reality.txt": 8,
-    "combined/vless/ws/tls.txt": 21634,
+    "combined/vless/ws/tls.txt": 21621,
     "combined/vless/ws/unknown.txt": 30,
     "combined/vless/wsoliver/none.txt": 1,
     "combined/vless/xhttp/none.txt": 734,
-    "combined/vless/xhttp/reality.txt": 659,
-    "combined/vless/xhttp/tls.txt": 993,
+    "combined/vless/xhttp/reality.txt": 639,
+    "combined/vless/xhttp/tls.txt": 975,
     "combined/vless/xhttp/unknown.txt": 4,
     "combined/vmess/grpc/none.txt": 31,
     "combined/vmess/grpc/tls.txt": 107,
     "combined/vmess/h2/tls.txt": 2,
     "combined/vmess/http/none.txt": 79,
-    "combined/vmess/httpupgrade/none.txt": 51,
+    "combined/vmess/httpupgrade/none.txt": 52,
     "combined/vmess/httpupgrade/tls.txt": 13,
     "combined/vmess/kcp/none.txt": 2,
-    "combined/vmess/none/none.txt": 7,
+    "combined/vmess/none/none.txt": 8,
     "combined/vmess/raw/auto.txt": 3,
-    "combined/vmess/raw/none.txt": 31,
+    "combined/vmess/raw/none.txt": 35,
     "combined/vmess/raw/tls.txt": 2,
     "combined/vmess/splithttp/none.txt": 1,
     "combined/vmess/tcp/aes-128-gcm.txt": 1,
     "combined/vmess/tcp/auto.txt": 29,
-    "combined/vmess/tcp/none.txt": 1714,
+    "combined/vmess/tcp/none.txt": 1720,
     "combined/vmess/tcp/tls.txt": 115,
     "combined/vmess/udp/tls.txt": 1,
     "combined/vmess/unknown/auto.txt": 1,
     "combined/vmess/unknown/none.txt": 7,
     "combined/vmess/ws/auto.txt": 25,
-    "combined/vmess/ws/none.txt": 2447,
-    "combined/vmess/ws/tls.txt": 3310,
+    "combined/vmess/ws/none.txt": 2446,
+    "combined/vmess/ws/tls.txt": 3306,
     "combined/vmess/ws/true.txt": 9,
     "combined/vmess/xhttp/none.txt": 15,
     "combined/vmess/xhttp/tls.txt": 33,
-    "nekobox/all.txt": 90410,
+    "nekobox/all.txt": 90273,
     "nekobox/part-001.txt": 500,
     "nekobox/part-002.txt": 500,
     "nekobox/part-003.txt": 500,
@@ -649,45 +649,45 @@
     "nekobox/part-178.txt": 500,
     "nekobox/part-179.txt": 500,
     "nekobox/part-180.txt": 500,
-    "nekobox/part-181.txt": 410,
+    "nekobox/part-181.txt": 273,
     "protocols/hysteria.txt": 44,
-    "protocols/hysteria2.txt": 2820,
-    "protocols/ss.txt": 7204,
-    "protocols/trojan.txt": 11004,
+    "protocols/hysteria2.txt": 2811,
+    "protocols/ss.txt": 7203,
+    "protocols/trojan.txt": 11014,
     "protocols/tuic.txt": 91,
-    "protocols/vless.txt": 61211,
-    "protocols/vmess.txt": 8036,
+    "protocols/vless.txt": 61067,
+    "protocols/vmess.txt": 8043,
     "security/aes-128-gcm.txt": 1,
     "security/auto.txt": 59,
     "security/false.txt": 823,
-    "security/none.txt": 31716,
-    "security/reality.txt": 14640,
-    "security/tls.txt": 43088,
+    "security/none.txt": 31710,
+    "security/reality.txt": 14554,
+    "security/tls.txt": 43043,
     "security/true.txt": 9,
     "security/unknown.txt": 56,
     "security/xtls.txt": 18,
-    "transports/grpc.txt": 4151,
+    "transports/grpc.txt": 4163,
     "transports/h2.txt": 3,
     "transports/http.txt": 119,
-    "transports/httpupgrade.txt": 1172,
+    "transports/httpupgrade.txt": 1173,
     "transports/kcp.txt": 8,
-    "transports/none.txt": 13,
-    "transports/quic.txt": 2950,
-    "transports/raw.txt": 1264,
+    "transports/none.txt": 14,
+    "transports/quic.txt": 2941,
+    "transports/raw.txt": 1257,
     "transports/splithttp.txt": 33,
-    "transports/tcp.txt": 35003,
+    "transports/tcp.txt": 34932,
     "transports/udp.txt": 1,
-    "transports/unknown.txt": 49,
-    "transports/ws.txt": 43192,
+    "transports/unknown.txt": 50,
+    "transports/ws.txt": 43165,
     "transports/wsoliver.txt": 1,
-    "transports/xhttp.txt": 2451,
+    "transports/xhttp.txt": 2413,
     "v2rayng-test.txt": 100,
     "v2rayng/hysteria.txt": 44,
-    "v2rayng/hysteria2.txt": 2820,
-    "v2rayng/ss.txt": 7204,
-    "v2rayng/trojan.txt": 11004,
+    "v2rayng/hysteria2.txt": 2811,
+    "v2rayng/ss.txt": 7203,
+    "v2rayng/trojan.txt": 11014,
     "v2rayng/tuic.txt": 91,
-    "v2rayng/vless.txt": 61211,
-    "v2rayng/vmess.txt": 8036
+    "v2rayng/vless.txt": 61067,
+    "v2rayng/vmess.txt": 8043
   }
 }
