@@ -1,3 +1,4 @@
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.242:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.13:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.218.67:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
@@ -9,3 +10,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.25:62145?&security=fals
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.27:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.252:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.142:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%40vpn_fortuna
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
+vless://ac76a374-7447-4dab-bfa9-b7f83a7a7946@152.69.192.144:20802?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna

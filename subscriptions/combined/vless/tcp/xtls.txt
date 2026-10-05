@@ -14,3 +14,4 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk2.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#%40vpn_fortuna
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk3.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#%40vpn_fortuna
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk4.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#%40vpn_fortuna
+vless://cd909bcd-b70a-31e9-9185-8fd5b32b79bf@parsmoviez.live:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=parsmoviez.live#%40vpn_fortuna
