@@ -5,6 +5,11 @@ from collect import nekobox_groups
 
 
 class ParserTests(unittest.TestCase):
+    def test_repeated_query_parameter_order_preserved(self):
+        a = 'vless://abc@example.com:443?path=a&path=b'
+        b = 'vless://abc@example.com:443?path=b&path=a'
+        self.assertNotEqual(normalize(a)[0], normalize(b)[0])
+
     def test_nekobox_unique_names_and_unchanged_connections(self):
         from urllib.parse import urlsplit, unquote
         links = [f'vless://abc@192.0.2.1:{port}?type=ws#same' for port in range(1000, 1501)]

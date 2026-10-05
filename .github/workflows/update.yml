@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - collect.py
+      - verify_exports.py
       - test_collect.py
       - sources.txt
       - .github/workflows/update.yml
@@ -31,6 +32,8 @@ jobs:
         run: python -m unittest -v
       - name: Collect subscriptions
         run: python collect.py
+      - name: Verify client subscriptions
+        run: python verify_exports.py
       - name: Publish changes
         run: |
           git config user.name 'github-actions[bot]'

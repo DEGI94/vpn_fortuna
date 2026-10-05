@@ -78,8 +78,9 @@ def normalize(link):
         auth = decode(url.unquote(auth))
     # Normalize encoding for comparison, but preserve original URI credentials in output.
     canonical_auth = url.unquote(auth)
+    canonical_pairs = sorted(pairs) if len({k for k, _ in pairs}) == len(pairs) else pairs
     key = json.dumps([protocol, canonical_auth, host, parsed.port, parsed.path,
-                      sorted(pairs)], separators=(',', ':'), ensure_ascii=False)
+                      canonical_pairs], separators=(',', ':'), ensure_ascii=False)
     output = link.split('#', 1)[0] + '#' + url.quote(NAME, safe='')
     transport = bucket(params.get('type') or params.get('network') or
                        ('quic' if protocol in ('hysteria', 'hysteria2', 'tuic') else 'tcp'), 'unknown')
@@ -220,10 +221,8 @@ def main():
                 unique.setdefault(key, entry)
     if not fresh or not unique:
         raise SystemExit('No fresh usable sources; existing output preserved.')
-    configurations_before_ip_dedup = len(unique)
-    unique = deduplicate_servers(unique)
     groups = defaultdict(list)
-    for key in sorted(unique, key=lambda k: (unique[k][1], server_identity(k), k)):
+    for key in sorted(unique, key=lambda k: (unique[k][1], k)):
         link, protocol, transport, security = unique[key]
         for group in ('all', f'protocols/{protocol}', f'transports/{transport}',
                       f'security/{security}', f'combined/{protocol}/{transport}/{security}'):
@@ -231,7 +230,11 @@ def main():
     sample = mobile_sample(groups.get('protocols/vless', []))
     if sample:
         groups['v2rayng-test'] = sample
-    groups.update(nekobox_groups(groups['all']))
+    named = nekobox_groups(groups['all'])
+    for link in named['nekobox/all']:
+        protocol = ALIASES[link.split('://', 1)[0].lower()]
+        groups[f'v2rayng/{protocol}'].append(link)
+    groups.update(named)
     output = ROOT / 'subscriptions'
     expected = set()
     for group, links in sorted(groups.items()):
@@ -244,9 +247,8 @@ def main():
         if path not in expected:
             path.unlink()
     stats = {'updated_utc': now, 'unique': len(unique), 'input_entries': total,
-             'unique_configurations_before_ip_dedup': configurations_before_ip_dedup,
-             'ip_or_domain_duplicates_removed': configurations_before_ip_dedup - len(unique),
-             'deduplication': 'one configuration per literal IP or domain name; no DNS resolution',
+             'ip_or_domain_duplicates_removed': 0,
+             'deduplication': 'connection parameters only; names ignored; different credentials, ports and transports retained',
              'duplicates_removed': total - len(unique), 'sources': reports,
              'files': {k + '.txt': len(v) for k, v in sorted(groups.items())}}
     write(output / 'stats.json', json.dumps(stats, indent=2, ensure_ascii=False) + '\n')
