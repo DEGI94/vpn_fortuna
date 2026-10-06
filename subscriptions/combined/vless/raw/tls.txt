@@ -1,12 +1,10 @@
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#%40vpn_fortuna
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=raw&security=tls&fp=firefox&sni=estproxy4.lockdwn.com#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&type=raw&packetEncoding=xudp&fp=chrome#%40vpn_fortuna
-vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?type=raw&security=tls&fp=chrome#%40vpn_fortuna
 vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox#%40vpn_fortuna
 vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?encryption=none&type=raw&headerType=none&security=tls&fp=chrome#%40vpn_fortuna
 vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?fp=chrome&security=tls&sni=ee2.mehab.me&type=raw#%40vpn_fortuna
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443/?type=raw&encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&fp=randomized#%40vpn_fortuna
-vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?type=raw&security=tls&fp=firefox&sni=restnet.duckdns.org#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org&fp=chrome#%40vpn_fortuna
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome#%40vpn_fortuna
@@ -21,9 +19,6 @@ vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?type=raw&securit
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&type=raw&packetEncoding=xudp&alpn=http/1.1&sni=pl6.moritech.net&fp=chrome&flow=xtls-rprx-vision#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&type=raw&packetEncoding=xudp&alpn=h2&sni=pl4.moritech.net&fp=firefox&flow=xtls-rprx-vision#%40vpn_fortuna
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:8443?security=tls&type=raw&packetEncoding=xudp&sni=neth4.lckdwn.ru&fp=chrome#%40vpn_fortuna
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=nasnet-162191099-direct.mbghalibaf.com#%40vpn_fortuna
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome#%40vpn_fortuna
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome#%40vpn_fortuna
 vless://fd3b5215-287b-4f16-84d9-6b5854dea110@179.253.244.112:8444?encryption=none&type=raw&headerType=none&security=tls&fp=random&sni=us.netease.uz#%40vpn_fortuna
 vless://fd3b5215-287b-4f16-84d9-6b5854dea110@179.253.244.112:8444?type=raw&security=tls&fp=random&sni=us.netease.uz#%40vpn_fortuna
 vless://fd3b5215-287b-4f16-84d9-6b5854dea110@us.netease.uz:8444?encryption=none&type=raw&headerType=none&security=tls&fp=chrome&sni=us.netease.uz#%40vpn_fortuna
