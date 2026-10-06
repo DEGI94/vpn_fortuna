@@ -1,4 +1,5 @@
 vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?security=none&seed=FeymPy9HR8&encryption=none&headerType=wireguard&type=kcp#%40vpn_fortuna
+vless://0c8845e5-973e-4ea9-93ca-d4d4e7e89438@206.1.103.221:45139?encryption=none&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22header%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22type%22%3A%22mkcp-legacy%22%7D%5D%7D&mtu=1350&security=none&tti=20&type=kcp#%40vpn_fortuna
 vless://0f8eab4c-4d27-44fa-bf1f-21d2dd787d74@trojan.wefuckgfw.ga:2586?encryption=none&security=tls&type=kcp&headerType=wechat-video&seed=wIgMD0us#%40vpn_fortuna
 vless://b2c9ced8-7a7b-4bb0-83f7-96e31f1519dd@[::ffff:5fa4:2eeb]:2001?security=none&type=kcp#%40vpn_fortuna
 vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?encryption=none&security=tls&type=kcp&headerType=wechat-video&seed=wIgMD0us#%40vpn_fortuna
