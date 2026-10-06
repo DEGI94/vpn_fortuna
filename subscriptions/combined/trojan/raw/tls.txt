@@ -12,12 +12,13 @@ trojan://UX82473651@actual-squid.rooster465.autos:443?type=raw&security=tls&fp=c
 trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@actual-squid.rooster465.autos:443?type=raw&sni=actual-squid.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@guided-ferret.rooster465.autos:443?type=raw&security=tls&fp=chrome&sni=guided-ferret.rooster465.autos#%40vpn_fortuna
+trojan://UX82473651@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
+trojan://UX82473651@guided-ferret.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=guided-ferret.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@guided-ferret.rooster465.autos:443?type=raw&sni=guided-ferret.rooster465.autos#%40vpn_fortuna
-trojan://UX82473651@happy-gibbon.rooster465.autos:443?sni=happy-gibbon.rooster465.autos&allowInsecure=1&type=raw&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@happy-gibbon.rooster465.autos:443?type=raw&security=tls&fp=chrome&sni=happy-gibbon.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@happy-gibbon.rooster465.autos:443?type=raw&sni=happy-gibbon.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?type=raw&security=tls&fp=chrome&sni=ultimate-jaguar.rooster465.autos#%40vpn_fortuna
-trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=ultimate-jaguar.rooster465.autos#%40vpn_fortuna
+trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?sni=ultimate-jaguar.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
 trojan://WG39087154@grateful-unicorn.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=grateful-unicorn.rooster465.autos#%40vpn_fortuna
 trojan://d30ab83dbde4480082048fb315bedebd@149.248.39.92:443?encryption=none&security=tls&sni=149.248.39.92&type=raw&headertype=none#%40vpn_fortuna
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?type=raw&security=tls&fp=chrome&sni=grape-test-italy.dynuddns.net#%40vpn_fortuna
