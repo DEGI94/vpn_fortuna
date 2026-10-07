@@ -29,6 +29,8 @@ hysteria://173.234.25.54:48919?upmbps=80&downmbps=100&auth=dongtaiwang.com&insec
 hysteria://195.154.184.5:22787?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%40vpn_fortuna
 hysteria://47.238.250.126:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%40vpn_fortuna
 hysteria://47.76.32.35:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%40vpn_fortuna
+hysteria://5.83.129.153:20088?alpn=h3&auth=dongtaiwang.com&downmbps=1000&protocol=udp&insecure=1&peer=apple.com&upmbps=500#%40vpn_fortuna
+hysteria://5.83.129.153:20088?alpn=h3&auth=dongtaiwang.com&downmbps=1000&protocol=udp&peer=apple.com&upmbps=500#%40vpn_fortuna
 hysteria://51.158.54.46:11926?upmbps=80&downmbps=100&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3#%40vpn_fortuna
 hysteria://51.158.54.46:11926?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=11&downmbps=55&alpn=h3#%40vpn_fortuna
 hysteria://51.158.54.46:55396?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=youku.com&alpn=h3#%40vpn_fortuna
