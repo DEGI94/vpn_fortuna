@@ -6,6 +6,7 @@ vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?type=raw#%40vp
 vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=raw#%40vpn_fortuna
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@est-2.ardesnode.ru:443?type=raw&amp;security=reality&amp;flow=xtls-rprx-vision&amp;fp=random&amp;pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&amp;sid=9ea74b83f4993ca9&amp;sni=est-2.ardesnode.ru#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#%40vpn_fortuna
 vless://89238afb-0166-4ff0-85de-f7bec650a818@91.107.249.108:35696?encryption=none&type=raw&headerType=http&host=play.google.com&path=%2F&security=none#%40vpn_fortuna
@@ -25,4 +26,5 @@ vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=raw#%40vpn_
 vless://afd1fb0c-7c51-4c4c-a1ed-07e8493030d2@65.109.176.245:3030?encryption=none&type=raw&headerType=http&host=testspeed-foreign.tci.ir&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---&security=none#%40vpn_fortuna
 vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?type=raw#%40vpn_fortuna
 vless://e6b8d3a0-2cb0-48f7-a6b2-0e252eab9a77@sub2.silen3eux.ir:2087?encryption=none&type=raw&headerType=http&host=fast.com&path=%2F&security=none#%40vpn_fortuna
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=raw#%40vpn_fortuna
