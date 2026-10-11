@@ -1,1 +1,2 @@
+vless://64a71d69-333f-4b1e-8300-ff2701426508@31.57.185.253:15424?encryption=none&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22header%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22type%22%3A%22mkcp-legacy%22%7D%5D%7D&mtu=1350&security=none&tti=20&type=kcp#%40vpn_fortuna
 vless://b2c9ced8-7a7b-4bb0-83f7-96e31f1519dd@[::ffff:5fa4:2eeb]:2001?security=none&type=kcp#%40vpn_fortuna

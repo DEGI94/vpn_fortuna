@@ -25,6 +25,5 @@ trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xy
 trojan://mainssh-niwrhf87@140.82.32.17:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://muLkJXY1WyEbDdP-AoNpjg3HddPCAcBA@85.209.129.5:443?type=grpc&security=tls&serviceName=ajv&sni=fl.global-cdn.org&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#%40vpn_fortuna
-trojan://muLkJXY1WyEbDdP-AoNpjg3HddPCAcBA@85.209.129.5:443?type=grpc&security=tls&serviceName=ajv&sni=fl.global-cdn.org&alpn=h2&fp=firefox&insecure=1&allowInsecure=1#%40vpn_fortuna
 trojan://muLkJXY1WyEbDdP-AoNpjg3HddPCAcBA@85.209.129.5:443?allowInsecure=1&sni=fl.global-cdn.org&alpn=h2&type=grpc&serviceName=ajv#%40vpn_fortuna
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%40vpn_fortuna
