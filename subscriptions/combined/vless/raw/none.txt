@@ -8,6 +8,7 @@ vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=raw#%40vpn_f
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=raw&encryption=none#%40vpn_fortuna
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=raw&sni=milo.rubinaz.xyz#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#%40vpn_fortuna
 vless://89238afb-0166-4ff0-85de-f7bec650a818@91.107.249.108:35696?encryption=none&type=raw&headerType=http&host=play.google.com&path=%2F&security=none#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@150.230.23.187:62145?security=none&type=raw#%40vpn_fortuna
@@ -16,6 +17,7 @@ vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryptio
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=raw#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&packetEncoding=xudp&encryption=none#%40vpn_fortuna
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&encryption=none#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=raw#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#%40vpn_fortuna
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
@@ -23,7 +25,6 @@ vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&t
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?type=raw#%40vpn_fortuna
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=raw#%40vpn_fortuna
-vless://b1936288-a353-4ff1-89b3-edaead599c6b@de1.manticore-vpn.lol:443?type=raw&amp;security=reality&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&amp;sid=5347d9d0b588c111&amp;sni=www.lovelive-anime.jp#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=raw#%40vpn_fortuna
