@@ -15,6 +15,8 @@ vless://44bd6953-bb51-422d-bc44-d38ce005bb6e@65.109.215.173:2091?&type=http#%40v
 vless://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@38.181.76.213:8889/?type=http&encryption=none&path=%2F&sni=addons.mozilla.org&alpn=h2&fp=chrome&security=reality&pbk=qu_kBmWduLq6y2WQweYeZu57tLms08xY7kW-TFKcrxk&sid=&packetEncoding=xudp#%40vpn_fortuna
 vless://526dba55-c8e8-45d8-9b13-5cf71b2858a5@Wedbaz.flashwrite.ir:8443?security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&fp=chrome&type=http&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#%40vpn_fortuna
 vless://5c19d97e-6f02-4ca8-91b7-d3ef4341c95e@91.107.152.245:9090?&type=http#%40vpn_fortuna
+vless://5ea90a32-909e-45d2-8525-7e19c0f9d854@gr2-store.rovilo.ir:20018?&type=http#%40vpn_fortuna
+vless://5ea90a32-909e-45d2-8525-7e19c0f9d854@lv-store.rovilo.ir:20018?&type=http#%40vpn_fortuna
 vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@iTV2RAY.ddns.net:999?path=/iTV2RAY&security=reality&encryption=none&pbk=TbEfreFBXTwf3jMZFm1Zv3s2gPazYFBgf1T_GK3UcAM&host=@iTV2RAY&fp=chrome&spx=/&type=http&sni=www.speedtest.net&sid=1b1bd767#%40vpn_fortuna
 vless://6562121a-fa15-448d-a880-b127a1095875@91.107.162.52:59791?&type=http#%40vpn_fortuna
 vless://7562048f-6694-43da-a9ba-c80e92808fff@159.69.14.182:2042?security=reality&sni=ftp.debian.org&type=http&host=zula.ir&path=/&fp=random&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6#%40vpn_fortuna
