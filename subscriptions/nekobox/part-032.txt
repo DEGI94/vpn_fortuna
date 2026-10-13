@@ -1,3 +1,6 @@
+trojan://auto@104.25.254.4:2087?path=%2FTelegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20551d01cde0d27010
+trojan://auto@104.25.254.4:2087?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev&fp=randomized#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207fa7a118c15c4c5a
+trojan://auto@104.25.254.4:2087?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20de99d9d889928e9a
 trojan://auto@104.26.13.31:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fd6c5798e05c7d40
 trojan://auto@104.27.206.92:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c1896b9c9cbcebbb
 trojan://auto@108.162.195.161:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20da292294e9b65016
@@ -66,7 +69,6 @@ trojan://auto@moura.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp
 trojan://auto@nikon.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209c0704a599d8b65d
 trojan://auto@otto.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fdecda24fb02cd23
 trojan://auto@pranab.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c392e1ee801778df
-trojan://auto@rustam.ns.cloudflare.com:443?security=tls&amp;sni=trojanmz.pages.dev&amp;fp=randomized&amp;type=ws&amp;host=trojanmz.pages.dev&amp;path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20608acd53e7cf7c8a
 trojan://auto@rustam.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dfeb8e09994fef89
 trojan://auto@silkbook.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a57de16a6deeaca0
 trojan://auto@steamdb.info:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205c8006da195f7c34
@@ -152,7 +154,6 @@ trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36306?secu
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36401?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202028fcf4d4da741c
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36601?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ffbf6e05ebb4c9bb
 trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@nl2-full.privateip.net:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2053e96d182b4a57c9
-trojan://bEFIzUvSlFOx8lvUoZn8LA@superjinx-production-62fd.up.railway.app:443?path=%2Fcdn%2Fa7852f4f-3a8e-431a-be36-755c593bade1%2Ft%3Fed%3D2560&amp;security=tls&amp;fragment=10-20%2C10-20%2Ctlshello&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=superjinx-production-62fd.up.railway.app&amp;fp=random&amp;type=ws&amp;allowInsecure=0&amp;sni=superjinx-production-62fd.up.railway.app#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e7ea32416007fdfa
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204fe4e5f7a5060ac5
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053/?type=tcp&security=t...#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2095c767df02301e90
 trojan://bLYUuMKgn1aHGKID@usa10.wujie8.xyz:443?security=tls&sni=usa10.wujie8.xyz&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d294e7fca82542dc
@@ -497,4 +498,3 @@ trojan://blue2024@104.22.9.213:443/?type=tcp&security=tls&sni=ta.promote.icu&all
 trojan://blue2024@104.23.113.250:443?sni=ta.promote.icu&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2032cd8509ce11bf87
 trojan://blue2024@104.23.113.250:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202280d4bca49e7d5b
 trojan://blue2024@104.23.137.108:443?sni=ta.promote.icu&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207b542cce2fbb1395
-trojan://blue2024@104.23.137.108:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e96ed8692a4db3b9
