@@ -13,7 +13,6 @@ vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=raw&sni=milo.rubinaz.xyz#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw&sni=milo.rubinaz.xyz#%40vpn_fortuna
 vless://89238afb-0166-4ff0-85de-f7bec650a818@91.107.249.108:35696?encryption=none&type=raw&headerType=http&host=play.google.com&path=%2F&security=none#%40vpn_fortuna
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.158:62145?security=none&type=raw&encryption=none#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@150.230.23.187:62145?type=raw&security=none&encryption=none&headerType=none#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@150.230.23.187:62145?security=none&type=raw#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.59.205:62145?type=raw&path=/#%40vpn_fortuna
