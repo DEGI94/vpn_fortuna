@@ -1,4 +1,3 @@
-trojan://NISHIKUITAN111@104.17.13.218:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20daefa13765914fad
 trojan://NISHIKUITAN111@104.17.141.12:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2034f4471fb5a8789c
 trojan://NISHIKUITAN111@104.17.157.109:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203a01a6aed8d1970c
 trojan://NISHIKUITAN111@104.17.157.109:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a94ec2739f619e99
@@ -6,7 +5,6 @@ trojan://NISHIKUITAN111@104.17.174.232:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%
 trojan://NISHIKUITAN111@104.17.226.121:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c5e4dd45e8da966a
 trojan://NISHIKUITAN111@104.17.226.121:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cf02be4670c9a5d6
 trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e8893f1aa5862ebe
-trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206c6204b2662f3534
 trojan://NISHIKUITAN111@104.17.255.213:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fc9e2cdf8f2fd4d7
 trojan://NISHIKUITAN111@104.17.255.213:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204afbf16849484b15
 trojan://NISHIKUITAN111@104.17.255.213:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e6841d7bc48d46a3
@@ -212,6 +210,7 @@ trojan://NISHIKUITAN111@168.100.6.46:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20
 trojan://NISHIKUITAN111@172.64.132.154:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2053495f3e43bd4536
 trojan://NISHIKUITAN111@172.64.156.42:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20da25d1548ed9ca7a
 trojan://NISHIKUITAN111@172.64.156.42:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201fc4ebe46af2ea01
+trojan://NISHIKUITAN111@172.64.156.42:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202f78aeb3eae29737
 trojan://NISHIKUITAN111@172.64.156.42:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207802888cc4684466
 trojan://NISHIKUITAN111@172.64.168.18:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2062fccc90a00c7776
 trojan://NISHIKUITAN111@172.64.206.203:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202a6abf4e67b2ec0d
@@ -498,3 +497,4 @@ trojan://NQ26071394@golden-kangaroo.rooster465.autos:443?allowInsecure=0&sni=gol
 trojan://NQ26071394@grand-grub.rooster465.autos:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e40f806680a41ea6
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208dadffb561a4a304
 trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205214982818a88830
+trojan://NQ26071394@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2093c5bc59816cd3f3
