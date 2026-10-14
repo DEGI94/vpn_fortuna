@@ -60,7 +60,7 @@ hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@212.192.15.239:1327?obfs=salamander&o
 hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20af10c10181652abd
 hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%200cc4287497e0b140
 hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20817c5f1c2a8d31d2
-hysteria2://033dc6b532@77.232.139.128:11592?insecure=0&sni=srv-8718e6.frd21.ru&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a216220d1c6fd178
+hysteria2://033dc6b532@77.232.139.128:11592?sni=srv-8718e6.frd21.ru&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&security=tls#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20b8b872441737aab1
 hysteria2://033dc6b532@77.232.139.128:11592?sni=srv-8718e6.frd21.ru&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2007786824e701da8e
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2021b39c9032cc4324
 hy2://03e4fe32@139.185.50.49:31452?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2091dc9c17f3e831d7
@@ -488,9 +488,7 @@ hy2://399b338e-a4f4-458c-b88b-ba9b80f7fa03@46.29.161.15:2453?obfs=salamander&obf
 hy2://399b338e-a4f4-458c-b88b-ba9b80f7fa03@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20ac72b9e9750d798d
 hy2://399b338e-a4f4-458c-b88b-ba9b80f7fa03@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20b5032df65d3be1c1
 hy2://399b338e-a4f4-458c-b88b-ba9b80f7fa03@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2092193fbf44e0caf8
-hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a8d65e3504f64103
-hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=salamander#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%209b9ef3447995e87b
-hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?sni=www.bing.com&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20ed39cc0ce706ef4b
+hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a8d65e3504f64103
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20e475f85070c386d1
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a48720cfe6d4cca3
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%209451be05bcae5e20
@@ -498,3 +496,5 @@ hy2://3abdd4aa-a43b-4dff-9619-98925407683a@212.192.15.239:1327?obfs=salamander&o
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20feeda2c039c79f54
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2012807750ff523e56
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20d64d740f9c74a3ef
+hy2://3abdd4aa-a43b-4dff-9619-98925407683a@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2022493e63a782906b
+hy2://3adb6780-1cdc-4046-bbb9-4038bd66fa8a@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20154d616540d09bca
