@@ -151,6 +151,7 @@ vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?alpn=h2&encrypti
 vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?sni=lalibobi.online&alpn=h2&type=grpc&serviceName=lalibobi.orbit.v3.Connect&fp=chrome&security=tls#%40vpn_fortuna
 vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?sni=lalibobi.online&alpn=h2&type=grpc&serviceName=lalibobi.orbit.v3.Connect&fp=edge&security=tls#%40vpn_fortuna
 vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?encryption=none&fp=edge&mode=gun&security=tls&serviceName=lalibobi.orbit.v3.Connect&sni=lalibobi.online&type=grpc#%40vpn_fortuna
+vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?encryption=none&mode=gun&security=tls&serviceName=lalibobi.orbit.v3.Connect&sni=lalibobi.online&type=grpc#%40vpn_fortuna
 vless://30292475-4666-4c26-bcb2-338a0919958b@lalibobi.online:443?type=grpc&security=tls&sni=lalibobi.online&fp=edge&alpn=h2&serviceName=lalibobi.orbit.v3.Connect#%40vpn_fortuna
 vless://30292475-4666-4c26-bcb2-338a0919958b@lalibobi.online:443?type=grpc&security=tls&fp=edge&sni=lalibobi.online&serviceName=lalibobi.orbit.v3.Connect#%40vpn_fortuna
 vless://303050c3-cd8a-408b-a438-e6a3cfaa0b48@95.164.68.37:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#%40vpn_fortuna
@@ -539,10 +540,8 @@ vless://c52cccd2-a262-4f9d-a819-7289ffd5bc12@185.146.173.185:2053?mode=gun&secur
 vless://c57d156a-17da-4d99-93da-7418a7c0810c@185.146.173.185:2053?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#%40vpn_fortuna
 vless://c63580ff-f67a-44e8-ae47-09ddb2a69af1@185.146.173.185:2053?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#%40vpn_fortuna
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@178.214.113.10:8443?&security=tls&fp=chrome&sni=n2.vimeostream.online&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
-vless://c6db98c5-9959-425e-9340-300779fc4e4b@178.214.113.135:8443/?type=grpc&encryption=none&flow=&serviceName=nl3grpc&security=tls&sni=n3.vimeostream.online&alpn=h2&fp=chrome#%40vpn_fortuna
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@185.209.15.100:8443?&security=tls&fp=chrome&sni=n1.vimeostream.online&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@185.209.15.100:8443?type=grpc&security=tls&fp=firefox&sni=n1.vimeostream.online&serviceName=nl1grpc#%40vpn_fortuna
-vless://c6db98c5-9959-425e-9340-300779fc4e4b@185.209.15.100:8443/?type=grpc&encryption=none&flow=&serviceName=nl1grpc&security=tls&sni=n1.vimeostream.online&fp=chrome#%40vpn_fortuna
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.229.6:8443?&security=tls&fp=firefox&sni=n3.vimeostream.online&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.229.6:8443?type=grpc&security=tls&fp=firefox&sni=n3.vimeostream.online&serviceName=nl3grpc#%40vpn_fortuna
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?encryption=none&type=grpc&security=tls&sni=fr5.sodahub.online&fp=chrome&alpn=h2&serviceName=fr5grpc#%40vpn_fortuna
@@ -661,7 +660,6 @@ vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@scores-api.lovkisport.blog:443?mode
 vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@scores-api.lovkisport.blog:443?allowInsecure=0&sni=scores-api.lovkisport.blog&type=grpc&serviceName=grpc&security=tls#%40vpn_fortuna
 vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@scores-api.lovkisport.blog:443?type=grpc&security=tls&fp=chrome&sni=scores-api.lovkisport.blog&serviceName=grpc#%40vpn_fortuna
 vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@scores-api.lovkisport.blog:443?&security=tls&sni=scores-api.lovkisport.blog&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
-vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@video-origin.lovkisport.blog:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0&sni=video-origin.lovkisport.blog#%40vpn_fortuna
 vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@video-origin.lovkisport.blog:443?allowInsecure=0&sni=video-origin.lovkisport.blog&type=grpc&serviceName=grpc&security=tls#%40vpn_fortuna
 vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@video-origin.lovkisport.blog:443?allowInsecure=1&type=grpc&security=tls&fp=chrome&sni=video-origin.lovkisport.blog&mode=gun&serviceName=grpc#%40vpn_fortuna
 vless://f310a861-cca2-4f6f-8db2-30102fccd0ae@video-origin.lovkisport.blog:443?type=grpc&security=tls&fp=chrome&sni=video-origin.lovkisport.blog&serviceName=grpc#%40vpn_fortuna
