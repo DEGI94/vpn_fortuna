@@ -6,6 +6,7 @@ vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?encryption=non
 vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?type=raw#%40vpn_fortuna
 vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=none&type=raw&encryption=none#%40vpn_fortuna
+vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?type=raw#%40vpn_fortuna
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw&security=none&encryption=none&sni=milo.rubinaz.xyz&headerType=none#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
