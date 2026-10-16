@@ -1,3 +1,8 @@
+trojan://AE62539071@current-barnacle.rooster465.autos:443?sni=current-barnacle.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20115d88bfdaee84d0
+trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20de32588cc27006aa
+trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2087c7e6ba5d51d574
+trojan://AE62539071@dear-hermit.rooster465.autos:443?sni=dear-hermit.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20598a29f0b63ec2ad
+trojan://AE62539071@deep-ringtail.rooster465.autos:443?sni=deep-ringtail.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208559c4bc52c47262
 trojan://AE62539071@definite-panda.rooster465.autos:443?sni=definite-panda.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205be6d04269def76d
 trojan://AE62539071@dominant-jaguar.rooster465.autos:443?sni=dominant-jaguar.rooster465.autos&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208c451e3cf4816176
 trojan://AE62539071@driving-antelope.rooster465.autos:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b72bdd00dd6bbf6
@@ -121,7 +126,7 @@ trojan://ASoZeIVwzX4w4wxwig@193.8.169.93:443?type=tcp#%40vpn_fortuna%20%7C%20TRO
 trojan://ASoZeIVwzX4w4wxwig@78.142.194.70:443?allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20039d21219295c906
 trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ceca4824bb289899
 trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206e32ef6bac71b040
-trojan://Af-Oif7V0nw1vdestBskKEq3oGFQEWZk@199.232.8.223:443?mode=auto&amp;pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;path=%2F&amp;security=tls&amp;insecure=1&amp;host=gahgs6.global.ssl.fastly.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=1&amp;sni=hbjb.google.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eb7383946ad1d4e3
+trojan://Af-Oif7V0nw1vdestBskKEq3oGFQEWZk@199.232.8.223:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&insecure=1&host=gahgs6.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=hbjb.google.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bb7b38be621cbf15
 trojan://Aimer@104.26.15.138:2053/?type=tcp&security=t...#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b709537e167133c
 trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2063771a683b6b1b37
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200acb89ec7737602d
@@ -493,8 +498,3 @@ trojan://FC60532879@193.169.239.146:443?sni=legible-possum.rooster465.autos&fp=c
 trojan://FC60532879@193.169.239.198:443?sni=present-warthog.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2099ffbff3121105ab
 trojan://FC60532879@194.99.79.121:443?sni=modest-foal.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ff73ee9672a7e374
 trojan://FC60532879@194.99.79.189:443?sni=humorous-parakeet.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20541a89fdf09b34d5
-trojan://FC60532879@194.99.79.209:443?sni=sensible-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202c717a0b40f36d0f
-trojan://FC60532879@202.78.163.113:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a05e7e72bdabcf2f
-trojan://FC60532879@202.78.163.146:443?sni=electric-sturgeon.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bf5a9281470a0406
-trojan://FC60532879@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c268ad8c19430965
-trojan://FC60532879@202.78.163.175:443?sni=optimal-urchin.rooster465.autos&fp=chrome&type=tcp&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d7c7a2b98a0be54c
