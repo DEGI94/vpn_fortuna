@@ -31,6 +31,7 @@ hysteria://47.238.250.126:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e
 hysteria://47.76.32.35:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%201cc566911a27182a
 hysteria://5.83.129.153:20088?alpn=h3&auth=dongtaiwang.com&downmbps=1000&protocol=udp&insecure=1&peer=apple.com&upmbps=500#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20a47ca6ca615b24d3
 hysteria://5.83.129.153:20088?alpn=h3&auth=dongtaiwang.com&downmbps=1000&protocol=udp&peer=apple.com&upmbps=500#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%2054dba2201ea1d4f3
+hysteria://5.83.129.90:54177?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20442c5461c4dc723f
 hysteria://51.158.54.46:11926?upmbps=80&downmbps=100&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%207eac40bd28c9c523
 hysteria://51.158.54.46:11926?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=11&downmbps=55&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%2018543516d4f4bd51
 hysteria://51.158.54.46:55396?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=youku.com&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%2000f3fecbc8fddf2d
@@ -194,7 +195,6 @@ hy2://1486bfa6-1c4c-456d-b055-c9760f911385@172.233.81.57:443/?mport=20000-50000&
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=off#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%206a1d855f1736f8ce
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%203bf6b909ba614880
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%208931deae4ff3494b
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?sni=off#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20aa8407c7d912d23a
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2023d098d895f90371
 hy2://173bf289-8e94-4261-9c34-d4ecacbb3fdb@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2061fd8d64cbe3227a
 hy2://173bf289-8e94-4261-9c34-d4ecacbb3fdb@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2037b4cdf4170a4a15
@@ -210,7 +210,6 @@ hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.2
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2006581f04229ea3fd
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2078004dbffafcee01
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=138.3.208.26#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2077f1db89fd066a22
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=off#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20042e8452b6147915
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20de9a598951830353
 hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%202fbcd04a89ab9e5d
 hy2://18d4bcb1-dfab-4af2-b2cb-f8e61384da22@157.254.158.7:10429?sni=gpt.nai3.cc#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20c1487b2ab303477a
@@ -371,8 +370,6 @@ hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?insecure=1&s
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=dehy.bbobr.win#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20f15f593762b66f88
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%202c9a1d103da7afe7
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win&security=tls#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%202fc6399b81e5917d
-hysteria2://2680ceb0-50ee-4b5f-b82c-b4cdcb570200@162.250.191.137:8443?sni=ca-002.xiaoxiaobujidao.xyz#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20d5f954c9c042a231
-hysteria2://2680ceb0-50ee-4b5f-b82c-b4cdcb570200@ca-002.xiaoxiaobujidao.xyz:8443?sni=ca-002.xiaoxiaobujidao.xyz#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2099212789908947b9
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443?insecure=1&sni=replay.wwwinternetvideo.click#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%208798fae4313061ad
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2065bdd521af325d7d
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&sni=replay.wwwinternetvideo.click#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20ff2349df20386f9d
@@ -498,3 +495,6 @@ hy2://399b338e-a4f4-458c-b88b-ba9b80f7fa03@5.39.252.182:3898?obfs=salamander&obf
 hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a8d65e3504f64103
 hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?sni=www.bing.com&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20ed39cc0ce706ef4b
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20e475f85070c386d1
+hy2://3abdd4aa-a43b-4dff-9619-98925407683a@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a48720cfe6d4cca3
+hy2://3abdd4aa-a43b-4dff-9619-98925407683a@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%209451be05bcae5e20
+hy2://3abdd4aa-a43b-4dff-9619-98925407683a@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20bf7fe3556f7f6d80
