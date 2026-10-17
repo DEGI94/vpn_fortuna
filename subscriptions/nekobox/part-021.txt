@@ -1,6 +1,7 @@
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092175706f71d019a
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?allowInsecure=0&sni=nat11.outsidemyheart.space&type=ws&path=/w4e5yh0p945y3?ed=2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205d7ac687942f20c9
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?allowInsecure=0&type=ws&sni=nat11.outsidemyheart.space#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d38519e27e769e3d
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?fp=chrome&path=%2Fw4e5yh0p945y3%3Fed%3D2560&security=tls&sni=nat11.outsidemyheart.space&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205a9aa46453ccbd69
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3%3Fed%3D2560&security=tls&sni=nat11.outsidemyheart.space#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20179c8a8f3dda50a7
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?type=ws&path=%2Fw4e5yh0p945y3%3Fed%3D2560&security=tls&sni=nat11.outsidemyheart.space#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2061fd0d20e01e8e7e
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@uk8.998998.best:443?type=ws&security=tls&fp=chrome&sni=server41.9966338.xyz&host=server41.9966338.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f4fb21fe2053e3dd
@@ -497,4 +498,3 @@ trojan://88bac5c0-066f-11f0-992d-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://88bac5c0-066f-11f0-992d-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203d881a1243affa91
 trojan://8913df30-0340-11f0-865a-1239d0255272@arminuk.arminsjsklb.dynv6.net:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2044ac593848bf6bbb
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a2b0b96f4075a466
-trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443/?type=tcp&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b4cbc3f459198d28
