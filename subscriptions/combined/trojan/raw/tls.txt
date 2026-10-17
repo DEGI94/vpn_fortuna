@@ -10,6 +10,7 @@ trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk
 trojan://UX82473651@alert-titmouse.rooster465.autos:443?type=raw&security=tls&sni=alert-titmouse.rooster465.autos&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@allowed-poodle.rooster465.autos:443?type=raw&security=tls&sni=allowed-poodle.rooster465.autos&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
+trojan://UX82473651@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@central-jawfish.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=central-jawfish.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@guided-ferret.rooster465.autos:443?type=raw&security=tls&sni=guided-ferret.rooster465.autos&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@inviting-ferret.rooster465.autos:443?type=raw&security=tls&sni=inviting-ferret.rooster465.autos&fp=chrome#%40vpn_fortuna
@@ -21,6 +22,7 @@ trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.auto
 trojan://UX82473651@main-fawn.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=main-fawn.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@moral-basilisk.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=moral-basilisk.rooster465.autos#%40vpn_fortuna
+trojan://UX82473651@moral-basilisk.rooster465.autos:443?type=raw&sni=moral-basilisk.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=normal-macaque.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@noted-cougar.rooster465.autos:443?type=raw&security=tls&sni=noted-cougar.rooster465.autos&fp=chrome#%40vpn_fortuna
@@ -31,9 +33,6 @@ trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&security=tls&s
 trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
 trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=optimum-snapper.rooster465.autos#%40vpn_fortuna
 trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw#%40vpn_fortuna
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%40vpn_fortuna
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome#%40vpn_fortuna
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos#%40vpn_fortuna
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?type=raw&security=tls&sni=hk.catxstar.com&fp=android&headertype=none#%40vpn_fortuna
 trojan://d30ab83dbde4480082048fb315bedebd@149.248.39.92:443?encryption=none&security=tls&sni=149.248.39.92&type=raw&headertype=none#%40vpn_fortuna
 trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&type=raw&fp=chrome#%40vpn_fortuna
