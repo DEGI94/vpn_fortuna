@@ -13,6 +13,7 @@ vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=raw#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.8.150.222:443?encryption=none&type=raw&headerType=http&host=play.googleapis.com&path=%2F&security=none#%40vpn_fortuna
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?encryption=none&type=raw&headerType=http&host=play.google.com&path=%2F&security=none#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.207.185:62145?security=none&type=raw#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.207.185:62145?type=raw#%40vpn_fortuna
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
