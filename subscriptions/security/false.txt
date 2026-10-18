@@ -73,10 +73,10 @@ vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@jolly-butterfly-24e0.212-cb3.worker
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?&security=false&fp=chrome&type=ws&headerType=none&host=45.144.234.157&path=%2Fvless#%40vpn_fortuna
 vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@188.114.97.6:8080?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=winter-mode-7f4e.89-136.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40vpn_fortuna
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%40vpn_fortuna
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?fp=chrome&host=13.140.56.100&path=%2Fvless&security=false&type=ws#%40vpn_fortuna
 vless://6b6733fb-580b-411b-8bf8-51137c2aa037@www.ipget.net:8880?&security=false&fp=chrome&type=ws&headerType=none&host=restless-sky-eb31.438-aa8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40vpn_fortuna
 vless://6b6733fb-580b-411b-8bf8-51137c2aa037@www.ipget.net:8880?type=ws&security=false&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=restless-sky-eb31.438-aa8.workers.dev&sni=www.ipget.net&fp=chrome#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%40vpn_fortuna
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&host=milo.rubinaz.xyz&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=chrome&host=138.124.70.41&path=%2Fvless&security=false&type=ws#%40vpn_fortuna
 vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@172.64.80.1:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=tight-star-08eb.331-729.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40vpn_fortuna
 vless://70c16ec7-13f7-473b-b97d-06399f1481e3@172.64.80.1:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=mute-surf-0003.209.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40vpn_fortuna
@@ -149,6 +149,7 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?&se
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform113.halalkhor.info&path=%2Fplatform113#%40vpn_fortuna
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?fp=chrome&host=platform113.halalkhor.info&path=%2Fplatform113&security=false&type=ws#%40vpn_fortuna
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform115.halalkhor.info&path=%2Fplatform115#%40vpn_fortuna
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?fp=chrome&host=platform115.halalkhor.info&path=%2Fplatform115&security=false&sni=platform115.golnamakcert.top&type=ws#%40vpn_fortuna
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform117.halalkhor.info&path=%2Fplatform117#%40vpn_fortuna
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?fp=chrome&host=platform117.halalkhor.info&path=%2Fplatform117&security=false&type=ws#%40vpn_fortuna
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform118.halalkhor.info&path=%2Fplatform118#%40vpn_fortuna

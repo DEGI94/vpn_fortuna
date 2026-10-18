@@ -1,4 +1,3 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&type=raw&headerType=none&security=tls&fp=chrome&sni=estproxy4.lockdwn.com#%40vpn_fortuna
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?encryption=none&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&type=raw&packetEncoding=xudp&fp=chrome#%40vpn_fortuna
@@ -35,7 +34,12 @@ vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@165.231.170.18:8443?type=raw&securi
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@185.147.27.39:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=id-6ad3c751.adhil.uk#%40vpn_fortuna
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.198.111.107:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-6ad3c751.adhil.uk#%40vpn_fortuna
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.198.111.138:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-6ad3c751.adhil.uk#%40vpn_fortuna
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=api-v2-6ad3c751.vmagnum.win#%40vpn_fortuna
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.5:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=ios&sni=api-v2-6ad3c751.vmagnum.win#%40vpn_fortuna
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=edge&sni=api-v2-6ad3c751.vmagnum.win&mode=stream-one#%40vpn_fortuna
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=qq&sni=api-v2-6ad3c751.vmagnum.win#%40vpn_fortuna
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@rus.noooo.win:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=id-6ad3c751.adhil.uk#%40vpn_fortuna
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?encryption=none&type=raw&headerType=none&security=tls&fp=firefox&sni=node-uk.connectsuite.org#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?type=raw&security=tls&fp=firefox&sni=node-uk.connectsuite.org#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encryption=none&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=node-uk.connectsuite.org#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=node-uk.connectsuite.org&type=raw#%40vpn_fortuna
