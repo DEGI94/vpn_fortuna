@@ -74,6 +74,7 @@ vless://0050dd81-65fb-439c-abf6-c4c609205c44@172.67.182.80:443?path=%2Fvl%2Fe0BN
 vless://0050dd81-65fb-439c-abf6-c4c609205c44@172.67.182.80:443?path=/vl/e0BN8sjMhlKHJo6UNGRwuI3kOb1I?ed#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?type=ws&encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80/?type=ws&encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F#%40vpn_fortuna
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?&security=tls&sni=max-gb1.global.ssl.fastly.net&type=ws&headerType=none&host=max-gb1.global.ssl.fastly.net&path=%2F#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.104.128:2096/?type=grpc&encryption=none&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.36.115:2096/?type=grpc&encryption=none&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#%40vpn_fortuna
@@ -97,4 +98,3 @@ vless://005db34d-76e3-2c87-77d6-3e9f786740a6@fi.zeepo.ir:443/?type=tcp&encryptio
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@104.21.23.95:443?type=ws&encryption=none&flow=&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%40vpn_fortuna
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@104.21.23.95:443/?type=ws&encryption=none&flow=&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%40vpn_fortuna
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&amp;security=tls&amp;encryption=none&amp;host=us7.candyfans.win&amp;type=ws&amp;sni=us7.candyfans.win#%40vpn_fortuna
-vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?path=%2Fjqliws&security=tls&encryption=none&host=us7.candyfans.win&type=ws&sni=us7.candyfans.win#%40vpn_fortuna
