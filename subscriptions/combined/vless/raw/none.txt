@@ -1,4 +1,5 @@
 vless://015b83b4-53a3-4719-8553-3a7c03c4128d@2.26.129.245:443?type=raw&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=ukrop.mycdn-me.ru&amp;fp=qq&amp;pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&amp;sid=5a8e1a04f3d92b67#%40vpn_fortuna
+vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://0f32f9e7-d83c-4052-9a5e-103ed967b11c@136.148.64.229:2083?type=raw#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw&security=none&encryption=none&headerType=none#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%40vpn_fortuna
@@ -6,8 +7,10 @@ vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=ra
 vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?security=none&type=raw#%40vpn_fortuna
 vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?type=raw#%40vpn_fortuna
+vless://28b983d7-f532-4eb7-b3e7-75aa60290c76@45.135.194.193:80?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://3712ef41-fd0b-43a0-b1c0-72e51043dfc8@138.124.72.123:11132/?type=raw&encryption=none&flow=#%40vpn_fortuna
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
+vless://583c7684-5059-427c-a50e-bdd73e81f24e@s9-pan.redmbred.ir:52491?type=raw#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw&security=none&encryption=none&sni=milo.rubinaz.xyz&headerType=none#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=raw&sni=milo.rubinaz.xyz&encryption=none#%40vpn_fortuna
@@ -17,6 +20,7 @@ vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#%40v
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.8.150.222:443?encryption=none&type=raw&headerType=http&host=play.googleapis.com&path=%2F&security=none#%40vpn_fortuna
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?encryption=none&type=raw&headerType=http&host=play.google.com&path=%2F&security=none#%40vpn_fortuna
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
+vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=raw#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.207.185:62145?security=none&type=raw#%40vpn_fortuna
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=none&type=raw&encryption=none#%40vpn_fortuna
@@ -24,6 +28,7 @@ vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=raw#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&packetEncoding=xudp&encryption=none#%40vpn_fortuna
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&encryption=none#%40vpn_fortuna
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#%40vpn_fortuna
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=raw#%40vpn_fortuna
@@ -40,6 +45,9 @@ vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?security=none&ty
 vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?type=raw#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=raw&encryption=none#%40vpn_fortuna
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=raw#%40vpn_fortuna
+vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
+vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?type=raw#%40vpn_fortuna
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22222?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22223?security=none&type=raw&encryption=none#%40vpn_fortuna
 vless://eae4af7f-0a0c-4af9-8f5f-b7dd403e59d5@136.175.179.94:8444?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
@@ -47,3 +55,4 @@ vless://eae4af7f-0a0c-4af9-8f5f-b7dd403e59d5@136.175.179.94:8444?security=none&t
 vless://eae4af7f-0a0c-4af9-8f5f-b7dd403e59d5@136.175.179.94:8444?type=raw#%40vpn_fortuna
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=raw&encryption=none#%40vpn_fortuna
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=raw#%40vpn_fortuna
