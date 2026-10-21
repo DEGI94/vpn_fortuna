@@ -1,6 +1,5 @@
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&type=raw&packetEncoding=xudp&fp=chrome#%40vpn_fortuna
-vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?type=raw&security=tls&fp=chrome#%40vpn_fortuna
 vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.253:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
