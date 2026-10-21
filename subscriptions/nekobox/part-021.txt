@@ -1,3 +1,4 @@
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200b338932f37f4c2f
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204233dab243233e32
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=15.235.197.4#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fffc0cd31daf5ba1
 trojan://1710442808@188.114.97.6:443?security=tls&type=ws&host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f7b6a920976ccc1d
@@ -328,7 +329,6 @@ trojan://3169fbd0-c85d-11ef-807b-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://31794262-b429-4f35-8ffe-c1fa8a43b8d7@x.com:2087?security=tls&sni=au3.yang-1989.xyz&type=ws&path=/9f81&Host=au3.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205ba0e0a501a33320
 trojan://31794262-b429-4f35-8ffe-c1fa8a43b8d7@x.com:2087?allowInsecure=1&sni=au3.yang-1989.xyz&type=ws&host=au3.yang-1989.xyz&path=/9f81#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092d789ff9a5b77d6
 trojan://31794262-b429-4f35-8ffe-c1fa8a43b8d7@x.com:2087?allowInsecure=1&sni=au3.yang-1989.xyz&ws=1&wspath=%2F9f81#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2068e38c692f087369
-trojan://31794262-b429-4f35-8ffe-c1fa8a43b8d7@x.com:2087?allowInsecure=1&sni=au3.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c62f7fbbaf16d43d
 trojan://31794262-b429-4f35-8ffe-c1fa8a43b8d7@x.com:2087?sni=au3.yang-1989.xyz&type=ws&path=%2F9f81&host=au3.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2039724e68599cc7e2
 trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20085032ffe95faf03
 trojan://32691370-fd1f-11ef-b261-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20104ee134a9b30bec
@@ -363,7 +363,6 @@ trojan://3555@link.5557.run:443?security=tls&headerType=none&type=tcp#%40vpn_for
 trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443/?type=tcp&security=tls&sni=XxxxxXXXXXXxXf.wwW890604.Dpdns.orG#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205dda1b6dae3ded21
 trojan://35c18c80-4d97-11ee-8629-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b9b9b9c21f9accd7
 trojan://35f8e682-54bd-42c7-b537-94a8e4c84bcd@89.110.120.197:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d35b5edca090377e
-trojan://35fd040b3a765ffff6dda3029eb36eee@176.122.162.190:443?sni=www.microsoft.com&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200b126331d12b5cba
 trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443?security=tls&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201971bf70dc2e8266
 trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2079807d4f59b4f6b2
 trojan://3648425794742788096@13.213.225.221:443/?type=tcp&security=tls&sni=careful-giraffe.toad643.autos#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207f98e506d4348a68
@@ -498,3 +497,4 @@ trojan://3723507166611775488@95.111.217.55:443?sni=pumped-stingray.boa152.lol&al
 trojan://3723507166611775488@95.111.217.55:443?sni=pumped-stingray.boa152.lol#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204835244e5ba549ef
 trojan://3723507166611775488@95.111.217.55:443/?type=tcp&security=tls&sni=pumped-stingray.boa152.lol&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20723fcdeeb91edab3
 trojan://3723507166611775488@ace-mayfly.boa152.lol:443?allowInsecure=1&sni=ace-mayfly.boa152.lol#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a14dd114576d7cf3
+trojan://3723507166611775488@allowed-primate.boa152.lol:443?allowInsecure=1&sni=allowed-primate.boa152.lol#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e4c366c26fb4eeaf
