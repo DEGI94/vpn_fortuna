@@ -1,6 +1,5 @@
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?&security=false&fp=chrome&type=tcp&headerType=none&host=edge10.cyrionflare.com&path=%2F#%40vpn_fortuna
 vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.242:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.13:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
@@ -16,4 +15,3 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.142:62145?&security=fal
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?&security=false&fp=chrome&type=tcp&headerType=none&host=connect.wecantos.site&path=%2F#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?&security=false&fp=chrome&type=tcp&headerType=none&host=connect.hondamotor.site&path=%2F#%40vpn_fortuna
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.57.31:22223?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
