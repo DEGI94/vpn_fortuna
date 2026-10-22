@@ -1,5 +1,6 @@
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&type=raw&packetEncoding=xudp&fp=chrome#%40vpn_fortuna
+vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?type=raw&security=tls&fp=chrome#%40vpn_fortuna
 vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.253:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
@@ -9,6 +10,7 @@ vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?type=raw&securit
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s1243.sspcccdn.xyz:10829?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=u695098ueb8953b4s861.gogocs.xyz#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&fp=chrome&security=tls&sni=ch.cdn.mynetcloud.online&type=raw#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&security=tls&sni=fi.cdn.mynetcloud.online&type=raw&fp=chrome#%40vpn_fortuna
+vless://399383cd-699f-4730-81c8-281997057e3d@static.44.128.217.95.clients.your-server.de:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=static.44.128.217.95.clients.your-server.de#%40vpn_fortuna
 vless://439628ee-ef8e-4a3e-ba0f-091b7376dcb8@googol.wookshop.ir:17915?type=raw&security=tls&encryption=none&sni=googol.wookshop.ir&fp=chrome&headerType=none#%40vpn_fortuna
 vless://439628ee-ef8e-4a3e-ba0f-091b7376dcb8@googol.wookshop.ir:17915?security=tls&type=raw&sni=googol.wookshop.ir&fp=chrome&encryption=none#%40vpn_fortuna
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?type=raw&security=tls&fp=chrome&sni=pl.flen-vpn.xyz#%40vpn_fortuna
