@@ -5,7 +5,6 @@ vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?securit
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw#%40vpn_fortuna
 vless://3712ef41-fd0b-43a0-b1c0-72e51043dfc8@138.124.72.123:11132/?type=raw&encryption=none&flow=#%40vpn_fortuna
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?security=none&type=raw#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?type=raw#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw&security=none&encryption=none&sni=milo.rubinaz.xyz&headerType=none#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
@@ -23,6 +22,7 @@ vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=raw#%40vp
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?type=raw#%40vpn_fortuna
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&type=raw#%40vpn_fortuna
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?type=raw#%40vpn_fortuna
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=raw#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%40vpn_fortuna
