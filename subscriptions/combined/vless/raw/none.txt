@@ -1,5 +1,4 @@
 vless://015b83b4-53a3-4719-8553-3a7c03c4128d@2.26.129.245:443?type=raw&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=ukrop.mycdn-me.ru&amp;fp=qq&amp;pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&amp;sid=5a8e1a04f3d92b67#%40vpn_fortuna
-vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw&security=none&encryption=none&headerType=none#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw#%40vpn_fortuna
@@ -37,4 +36,5 @@ vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?type=raw#%
 vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?security=none&type=raw&encryption=none#%40vpn_fortuna
 vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?type=raw#%40vpn_fortuna
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22223?type=raw#%40vpn_fortuna
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22222?type=raw#%40vpn_fortuna
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=raw#%40vpn_fortuna
