@@ -10,7 +10,6 @@ vless://2438034c-dbad-43d3-affd-ccbd9fec51b0@85.90.207.6:80?security=reality&sni
 vless://40992c2a-513e-4837-9594-23411fd42afd@174.138.6.48:443?&type=http#%40vpn_fortuna
 vless://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@38.181.76.213:8889/?type=http&encryption=none&path=%2F&sni=addons.mozilla.org&alpn=h2&fp=chrome&security=reality&pbk=qu_kBmWduLq6y2WQweYeZu57tLms08xY7kW-TFKcrxk&sid=&packetEncoding=xudp#%40vpn_fortuna
 vless://526dba55-c8e8-45d8-9b13-5cf71b2858a5@Wedbaz.flashwrite.ir:8443?security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&fp=chrome&type=http&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#%40vpn_fortuna
-vless://5c6ec322-a510-409c-a101-3ec57bece995@77.42.28.120:2087?security=none&type=http#%40vpn_fortuna
 vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@iTV2RAY.ddns.net:999?path=/iTV2RAY&security=reality&encryption=none&pbk=TbEfreFBXTwf3jMZFm1Zv3s2gPazYFBgf1T_GK3UcAM&host=@iTV2RAY&fp=chrome&spx=/&type=http&sni=www.speedtest.net&sid=1b1bd767#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@100.54.27.217:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@108.130.238.169:443?&type=http#%40vpn_fortuna
