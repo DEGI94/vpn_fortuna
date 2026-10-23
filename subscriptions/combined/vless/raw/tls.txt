@@ -27,6 +27,7 @@ vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encry
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=node-uk.connectsuite.org&type=raw#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encryption=none&type=raw&headerType=none&security=tls&fp=chrome#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encryption=none&type=raw&headerType=none&security=tls#%40vpn_fortuna
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&type=raw&packetEncoding=xudp&sni=node-uk.connectsuite.org&fp=chrome#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?type=raw&security=tls&fp=chrome&sni=node-uk.connectsuite.org#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?type=raw&security=tls&fp=chrome#%40vpn_fortuna
 vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&alpn=h2%2Ch3&fp=chrome&sni=fi.quic.best#%40vpn_fortuna

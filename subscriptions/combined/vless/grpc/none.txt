@@ -284,6 +284,7 @@ vless://a256aa26-c6ae-4abe-8594-6ed98b18bf27@213.182.201.134:3090?mode=multi&sec
 vless://a59cf680-da0d-4ed3-edf1-99c99105916a@209.38.197.67:34217?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://ab9e6f3c-fdae-4d5e-a270-c33185601841@mc2.monqela.ir:2087?mode=gun&security=&encryption=mlkem768x25519plus.native.0rtt.pCCvuJ5FtmONop8Uk2kVmutVOH2Gm3oJ8YY5UkAzhQE&type=grpc&serviceName=hello#%40vpn_fortuna
 vless://ae49746e-6458-53c7-afc0-fc12d0cc8510@[0:0:0:0:0:ffff:5fa4:2e27]:2052?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
+vless://ae96c700-940d-412e-8096-ad7b35ba3e66@104.143.219.16:3090?encryption=none&type=grpc&serviceName=vless&mode=multi#%40vpn_fortuna
 vless://afbbb4f0-1aec-4b5c-a3af-766018ca3ab4@95.164.10.107:2052?mode=gun&security=none&encryption=none&authority=dk3.vless.site&type=grpc&serviceName=vless-grpc&sni=dk3.vless.site#%40vpn_fortuna
 vless://b22663cb-4b84-5ce8-b3f2-4edee9cb8145@5.252.23.173:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://b2ce47d7-f8dc-4fcf-8d51-de4c235a7c40@5.78.48.77:2095?security=&encryption=none&type=grpc#%40vpn_fortuna

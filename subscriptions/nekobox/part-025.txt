@@ -1,3 +1,8 @@
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443?security=tls&sni=jp3.pqjc.buzz&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209d3fdde92a88d584
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443/?type=tcp&security=tls&sni=jp3.pqjc.buzz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2001914f9b22f08114
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.105:443/?type=tcp&security=tls&sni=jp4.pqjc.buzz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c5479bb252ab8d22
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?security=tls&sni=sg1.pqjc.buzz&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2073a86b1b84ee75e0
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209b57952fd82994ec
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443?security=tls&sni=sg1.pqjc.buzz&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201bdc8937114c84e8
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b20ec2266ef5fe6c
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.206:443?security=tls&sni=jp61.pqjc.buzz&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2033e4dbcda7bb8b50
@@ -493,8 +498,3 @@ trojan://AG4yPUSazj57DBFnKG@de-2.tr202604.com:443?security=tls&insecure=1&header
 trojan://AG4yPUSazj57DBFnKG@de-3.tr202604.com:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e2645e2eeee06dd1
 trojan://AG4yPUSazj57DBFnKG@ee-1.tr202604.com:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2098b3ae3d0c619277
 trojan://ASoZeIVwzX4w4wxwig@185.49.34.71:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2034c8c534dc1c01b5
-trojan://ASoZeIVwzX4w4wxwig@185.49.34.93:443?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2002310782e58c19ff
-trojan://ASoZeIVwzX4w4wxwig@193.8.169.74:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20877993f3cdc1ee4b
-trojan://ASoZeIVwzX4w4wxwig@193.8.169.93:443?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208ff535c31aa4bf0e
-trojan://ASoZeIVwzX4w4wxwig@78.142.194.70:443?allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20039d21219295c906
-trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e4cea25cd86b6c2d
