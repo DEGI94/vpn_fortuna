@@ -94,7 +94,8 @@ hy2://848f2039-d466-479c-b839-2652d414c01a@5.39.252.182:3898?obfs=salamander&obf
 hy2://8499ad0b-ba34-4d17-8b49-bed33d2378b8@141.11.217.113:8080?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20ffa76eb7e7f79f9d
 hy2://8499ad0b-ba34-4d17-8b49-bed33d2378b8@45.140.169.231:8080?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20f3ed37eb4b656e9d
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=140.238.213.114#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%209c42e1484c3f80aa
-hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20cdef92097a3ae57c
+hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=off#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20864f5ec765802298
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20cdef92097a3ae57c
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20b482371ee762d5e5
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=140.238.213.114#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2001b3f44192e9f899
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=off#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20e2e6d0e2f075edb5
@@ -434,7 +435,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclic
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/wangcai2#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20f45b1d0a6eaa8d28
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https:#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2080b567da5da78ade
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20ad7c173540de2979
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.160.148:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20023ee5fdeb471859
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.207.151.141:443?insecure=1&sni=vpn-in-001.fastervpn.world#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%201a4affad2c9d63e6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2057fbdf458b9fe3b1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=13.36.234.11#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2052ab66248fc5567e
@@ -451,7 +451,8 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=127.0.0.1&path=%2f&
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%204438e7188c21caf6
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2070ab8fa1555f9f0c
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%208ebc587d800fcb46
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20b9eff5f995d4df45
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=off#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2047471e38df2e026e
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20b9eff5f995d4df45
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%202bc279625868dc80
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&security=tls#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20789dca3002e5b5e6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=127.0.0.1#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a07ef63a25055ab0
@@ -467,7 +468,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&security=tls&s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&security=tls#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20d5311b3c417f8f53
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?sni=127.0.0.1&security=tls#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20093850d5270ec83c
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?sni=vpn-de-002.fastervpn.world&security=tls#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a61a07f77ee392a0
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=202.146.222.174#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%205ecbd77f1102157b
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=202.146.222.174#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%205ecbd77f1102157b
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252foneclickvpnkeys#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%206d906d99d33c12f1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2004d19202ec935a5b
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2007fa8447a9f4b765
@@ -497,4 +498,3 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%2002ac2f4f65649cdc
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%5Cx9f%5Cx87%C2%A8%C3%B0%5Cx9f%5Cx87%C2%B3#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20a05fc76834917f52
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%C2%9F%C2%87#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%20aa8b7ca763aa5643
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2%c3%b0%c2%9f%c2%87%c2%a8%c3%b0%c2%9f%c2%87%c2%b3#%40vpn_fortuna%20%7C%20HYSTERIA2%20%7C%203fd8f095e5eb7bdc

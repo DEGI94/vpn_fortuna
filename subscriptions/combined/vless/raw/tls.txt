@@ -8,6 +8,7 @@ vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&
 vless://2f5cfa10-43e5-4912-800d-557308a26a29@185.119.81.7:10443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=s170.gogocs.xyz#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s1243.sspcccdn.xyz:10829?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=u695098ueb8953b4s861.gogocs.xyz#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&host=7dae9c0cs220.gogocs.xyz&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&host=7dae9c0cs220.gogocs.xyz#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&fp=chrome&security=tls&sni=ch.cdn.mynetcloud.online&type=raw#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&security=tls&sni=fi.cdn.mynetcloud.online&type=raw&fp=chrome#%40vpn_fortuna
