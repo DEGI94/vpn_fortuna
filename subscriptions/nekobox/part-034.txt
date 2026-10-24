@@ -1,3 +1,9 @@
+trojan://blue2024@104.20.249.155:443/?type=tcp&security=tls&sni=ta.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b580a0ec5064c463
+trojan://blue2024@104.20.25.245:443?sni=td.promote.icu&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204d1127bd47b1f4dc
+trojan://blue2024@104.20.25.245:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b32fec2ec14bb0da
+trojan://blue2024@104.20.25.249:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20161a1baed4e2e448
+trojan://blue2024@104.20.31.147:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20450a298d20872163
+trojan://blue2024@104.20.52.65:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac4ec9982d3a28ff
 trojan://blue2024@104.20.73.186:443?security=tls&sni=ta.promote.icu&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2052dd536bea70088d
 trojan://blue2024@104.20.73.186:443/?type=tcp&security=tls&sni=ta.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205b54cdf128c3b17a
 trojan://blue2024@104.20.8.70:443?security=tls&sni=ta.promote.icu&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2006ab7e14242706f9
@@ -492,9 +498,3 @@ trojan://blue2024@190.93.245.234:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#
 trojan://blue2024@190.93.245.234:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2064e9076f308267f8
 trojan://blue2024@190.93.245.58:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e3662f8d0039c917
 trojan://blue2024@190.93.245.62:443?sni=td.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2017b61e8ace3e0ffe
-trojan://blue2024@190.93.245.62:443/?type=tcp&security=tls&sni=td.promote.icu#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2084bfe07052941bc2
-trojan://blue2024@190.93.246.151:443?sni=hb.lii2010.us.kg#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205ebfb821314c4b5b
-trojan://blue2024@190.93.246.178:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d03ed54b3980d94a
-trojan://blue2024@190.93.246.21:443?sni=hb.lii2010.us.kg#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20066213be8026bf7a
-trojan://blue2024@190.93.246.36:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2063e23ab2fca67994
-trojan://blue2024@190.93.247.128:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204c523ac2500b1c6a
