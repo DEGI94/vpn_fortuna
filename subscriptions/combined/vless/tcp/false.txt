@@ -1,8 +1,10 @@
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?&security=false&fp=chrome&type=tcp&headerType=none&host=edge10.cyrionflare.com&path=%2F#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?fp=chrome&host=edge10.cyrionflare.com&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
+vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%40vpn_fortuna
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&host=milo.rubinaz.xyz&path=%2F&security=false&sni=milo.rubinaz.xyz&type=tcp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&host=milo.rubinaz.xyz&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?fp=chrome&host=site.teslamotor.site&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.242:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna

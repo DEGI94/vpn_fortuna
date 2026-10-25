@@ -1,3 +1,13 @@
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5985#%40vpn_fortuna%20%7C%20SS%20%7C%2033f9f5e10e5385b6
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5987#%40vpn_fortuna%20%7C%20SS%20%7C%20ba58cd82b48d1c39
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5988#%40vpn_fortuna%20%7C%20SS%20%7C%2070ce67a3167fbb9c
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5981#%40vpn_fortuna%20%7C%20SS%20%7C%207a8fe1723b9e0c8e
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5986#%40vpn_fortuna%20%7C%20SS%20%7C%2031333d9706bfd54e
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5987#%40vpn_fortuna%20%7C%20SS%20%7C%20f0558c0efb529c97
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5989#%40vpn_fortuna%20%7C%20SS%20%7C%20e415e24bfbd65989
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5980#%40vpn_fortuna%20%7C%20SS%20%7C%20a324e0d4ad75ce75
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5983#%40vpn_fortuna%20%7C%20SS%20%7C%20242e1dc0131235a4
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5985#%40vpn_fortuna%20%7C%20SS%20%7C%201c42745164ba00f2
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5988#%40vpn_fortuna%20%7C%20SS%20%7C%207b8c93c115a9eead
 ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#%40vpn_fortuna%20%7C%20SS%20%7C%204ef66ec68c0e358b
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.250.27.88:443#%40vpn_fortuna%20%7C%20SS%20%7C%2094d3cf0ac000941c
@@ -250,6 +260,7 @@ trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni
 trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443/?type=ws&host=meti-u9d.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=meti-u9d.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b748265c8a5e42c8
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200b25ba00d7ecdd37
 trojan://11dd4a95-fd4f-4f08-8def-e950aa2c1766@104.21.29.205:443/?type=tcp&security=tls&sni=4444444446.222560.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2036c801aa457f96e6
+trojan://123456@104.17.234.157:2096?type=ws&security=tls&fp=random&host=321dfbc6.uir-9i6.pages.dev&ed=2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206d2dbb3dce3fa93e
 trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204a7f453b7af1161c
 trojan://123456@104.18.11.39:443/?type=tcp&security=tls&sni=trojan-amp-id01.globalssh.xyz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a8c8fb18a356ec7e
 trojan://123456@104.18.35.86:2096?allowInsecure=1&sni=321dfbc6.uir-9i6.pages.dev&type=ws&host=321dfbc6.uir-9i6.pages.dev&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ff080c6728449dfc
@@ -487,14 +498,3 @@ trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ap.liangyuandiancloud.com:443/?typ
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@aujs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aa8f3bacb45a683b
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ca.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2048136b42c81d16f7
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@cajs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac497c5b38e615f6
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@dejs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207cea2337b2a9337b
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@frjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092c5f9ae05e2fcab
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@hkjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e26ca0e8ae95d0b6
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@in.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f7d049d8013d7613
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@jp.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c2dd5be60fd4edf5
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@nljs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2000654b01f2aaab4b
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec6b239b494508fe
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@uk.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b74e6faffd80b625
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ukjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f68bc29f44776ab9
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usa.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a6d1f163c2032022
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usajs.liangyuandiancloud.com:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209676c53e036c6ebc
