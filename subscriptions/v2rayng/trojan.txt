@@ -383,6 +383,7 @@ trojan://23b41d65-d0b2-4a50-f94d-ae187e0bd456@185.146.173.52:8880/?type=httpupgr
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200fb77ac6eaff936a
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443/?type=tcp&security=tls&sni=jobscareertoday.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20291d97923453f124
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2081b31012c5fb0c2e
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20472e379b78d9b09b
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6f5d2c370050734
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac4ee3ef7114eb88
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ef000c21653345f5
@@ -495,15 +496,24 @@ trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=
 trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a19ec7e997a64c3f
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20096f2bd6fdbeaf50
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjadly.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2033829cc0b77e96e1
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjflb.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fea412fc0692030e
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cce899b9f3a8b2c5
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2058f66d3a6e5a7b7e
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjjnd.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c639e8c538301aa7
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg1.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cab516cfae15a6ef
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?allowInsecure=1&type=tcp&sni=www.itunes.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2095d4940f5b287014
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2057106159f3afe124
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmlxy.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2002df9b927d5c7547
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjrb.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f5ba5fa812336a36
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fa97d15abcb79f0e
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=www.itunes.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2032f8a33086e0f433
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b8a92c046198b42f
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203f08a5cf5d57168f
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?security=tls&fp=chrome&sni=tjtw.m2k699.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ad5ff66348f78533
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b55dd588c6e72959
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxjp.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200b575646b60ed90e
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20baa63f12e7d10e55
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyn.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2035a00327f85549d9
 trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&headerType=none&fp=chrome&type=tcp&sni=ftp.debian.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2065ab985af4b214e5
 trojan://299beacf-37f0-41c6-a122-9260c75731bf@41699d8ad5e758d2c6e42c1e7f40e820.v1.cac.node-is.green:49782/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205b20e5a6726519de
 trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:42133/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207891bc005e4f6c00
@@ -1089,7 +1099,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?allowInsecure=1&sn
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&sni=de9.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e72061faad37201e
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?sni=de9.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b427a0d8b386d539
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ffb3de876bb7fd46
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?allowInsecure=0&sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204da6d20c6066f2e7
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?allowInsecure=1&sni=de10.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20145d2d1c11b6e5c0
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&sni=de10.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208f7af1b2dd22bba4
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206da7d1726ca2f2b6
@@ -1121,7 +1130,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?sni=de1.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?allowInsecure=1&sni=de1.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e6250984fb19c27f
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=de1.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204663f2bb145f6918
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c8d42fd2ec0ba188
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?allowInsecure=0&sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e9e2f745d700cbc8
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?allowInsecure=1&sni=de10.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2076e54585c54e7964
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b78b1d9904d1bfeb
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&sni=de10.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e9b9301793361180
@@ -1129,7 +1137,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&sni
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&sni=de10.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fada592c869042c2
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?sni=de10.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201aa3b4d53c06b50e
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20800ef92508ec699b
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?allowInsecure=0&sni=de12.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f35f4e66c3499f4e
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?allowInsecure=1&sni=de12.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b3ad71d9b0cafd25
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&sni=de12.dedushka.top&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ba849aa2997c8f36
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=de12.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202928228445f7405e
@@ -1138,7 +1145,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?sni=de12.dedushk
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&sni=de12.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2067f1ef1e69e34e98
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?sni=de12.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c1e82d841561348c
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b1cfe70a557030ca
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?allowInsecure=0&sni=de2.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a4045f9baee0ca1c
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?allowInsecure=1&sni=de2.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20451beeeb200229f9
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2048f04e9a1bb66a7e
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20001ef08bbb25d293
@@ -1147,7 +1153,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?sni=de2.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?sni=de2.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20df42f698f4d6e50f
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2044de33ef68f02256
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?allowInsecure=0&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c4eae333acf04cab
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208a7312c744b3f634
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?allowInsecure=1&sni=de3.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2040ac58da35872ec0
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205b73dfb14bd05953
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ff235ea3f6905489
@@ -1169,7 +1174,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?sni=de4.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?sni=de4.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204cf8981c80e32810
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20461ef68e9882184a
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?allowInsecure=0&sni=de5.dedushka.top&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2015b045f140fc6a31
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?allowInsecure=0&sni=de5.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20818a25adee4dc046
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=1&host=/?TELEGRAM--BYA--CHANEL---@V2ray_AM---@V2ray_AM---@V2ray_AM---@V2ray_AM---@V2ray_AM---@V2ray_AM---@V2ray_AM&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de5.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201dc29fc62edd3c12
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?allowInsecure=1&sni=de5.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200955c7fbae9e4fa6
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&sni=de5.dedushka.top&fp=chrome&alpn=http/1.1&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20072f82fd07e6569a
@@ -1191,7 +1195,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?sni=de6.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fb2d152094f6cb1d
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=0&sni=de7.dedushka.top&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e67e18e44c45ed68
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2044fe087c8ac95459
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=0&sni=de7.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20667f129679c0bc46
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=1&sni=de7.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a8450d3742934275
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205edcc5f516514dbe
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204478aed9f641ba73
@@ -1202,7 +1205,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?allowInsecure=0&sni=de8.dedushka.top&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20560a1f2a84adfe78
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a703f447465d8185
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de8.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20348052cd6ea05e1e
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?allowInsecure=0&sni=de8.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20078d8fc8a5b577f7
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?allowInsecure=1&sni=de8.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206770d33cb4b13613
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&sni=de8.dedushka.top&fp=chrome&alpn=http/1.1&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2087c424a2330a54f9
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&sni=de8.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207d7cf88007c76c9a
@@ -1227,13 +1229,11 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?sni=ie1.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?allowInsecure=1&sni=ie1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208b84d39ebae836b1
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=ie1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a6821f91925ee1bd
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?sni=ie1.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a0684c0ad82517e3
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?allowInsecure=0&sni=it1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20644f8fca923a89fa
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?allowInsecure=1&sni=it1.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eb9ff14bd96a7863
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?security=tls&fp=firefox&sni=it1.dedushka.top&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202030a89baf8e409f
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?security=tls&sni=it1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bac4f1c2b5d222d2
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?sni=it1.dedushka.top&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bb519a0416015149
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?sni=it1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2021c66099b3c3909e
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=0&sni=lv1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206f200f2206e63d0d
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2030193109a66bfe1f
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204f155495b7cde8eb
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=android#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b734b32ebf75aa8e
@@ -1248,7 +1248,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?sni=lv1.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d18288ff595c4bf1
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?sni=lv1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a1faf76d5d71b721
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2048fbd88cbd48918b
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?allowInsecure=0&sni=pl1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208b5d27bffe30bbcd
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e252f2eecf1dfc9a
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f1f8da115fc7f271
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&alpn=http%2F1.1&type=tcp&fp=edge#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b6097d711b41a584
@@ -1260,7 +1259,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200a002cb12f3d24a0
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c0767158eca6fa6c
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2098abfc668cda5419
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?allowInsecure=0&sni=pl2.dedushka.top#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2081c6e798af7ed5da
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2086ff52ad80535faf
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20826ef077e5a3d56e
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dbbccbdb13e2130a
@@ -1418,6 +1416,7 @@ trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@109.234.211.232:443?host=nat11.out
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@127.0.0.1:40443?security=tls&type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3&sni=nat11.outsidemyheart.space&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd286ff93cdfc241
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@127.0.0.1:40443?security=tls&type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3%3Fed%3D2560&sni=nat11.outsidemyheart.space&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a14d574c0c7a9d19
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@127.0.0.1:40443?security=tls&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2034df9f1adca901d9
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@162.159.152.18:443?type=ws&security=tls&fp=chrome&sni=nat6.outsidemyheart.space&host=nat6.outsidemyheart.space#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204da722c51a1398a0
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.144.82:443?sni=server41.9966338.xyz&type=ws&host=server41.9966338.xyz&path=%2Fangles#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2018ec82dbe11cfccc
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.146.66:443?security=tls&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20359c293f531814f8
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.152.241:443?sni=server41.9966338.xyz&type=ws&host=server41.9966338.xyz&path=%2Fangles#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207e6930970d8ec56d
@@ -1436,9 +1435,7 @@ trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.98.0:443?type=ws&security=
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.98.0:443?sni=nat11.outsidemyheart.space&type=ws&path=%2Fw4e5yh0p945y3%3Fed%3D2560&alpn=http%2F1.1&fp=unsafe#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200aa203b672af9f7e
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.98.0:443?type=ws&sni=nat11.outsidemyheart.space&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208b07ecfb2bc8d5d2
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.98.0:443?host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3&security=tls&sni=nat11.outsidemyheart.space&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208f0609278652dcd3
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@8.47.69.60:443?cs=semi-python&path=/w4e5yh0p945y3&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=nat11.outsidemyheart.space&fp=unsafe&type=ws&allowInsecure=0&sni=nat11.outsidemyheart.space#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e84f74fe392c8978
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@8.47.69.60:443?host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3&security=tls&sni=nat11.outsidemyheart.space&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20da2a72cf94da3ca2
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@8.6.112.206:443?cs=semi-python&path=/w4e5yh0p945y3?ed=2560&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=nat11.outsidemyheart.space#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20379b6e5cddae6197
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3&sni=nat11.outsidemyheart.space&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208f4879084fc6b687
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3%3Fed%3D2560&sni=nat11.outsidemyheart.space&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f821cdd0fdee133c
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092175706f71d019a
@@ -1485,6 +1482,7 @@ trojan://58e0f26f-67c7-4d13-a90f-d31679097bc6@us2-full.privateip.net:443/?type=t
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=47.250.84.25&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2068da8873d9c59e0a
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207da5881dcb9be786
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209725e0d49539cfc8
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bbe9b3a101f900d7
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b031a3a901f0d9e2
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2016e48dd1a93b98b7
 trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208033d55f0af3f804
@@ -1811,10 +1809,12 @@ trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.115:443?sni=%24%24www.b
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200139c6fd0493b71c
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443/?type=tcp&security=tls&sni=www.baidu.com&allowInsecure=1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205311ac620a6e266f
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@www.baidu.com:443/?type=tcp&security=tls&sni=%24%24www.baidu.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203fc8f14aba625340
+trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2072875ee71898c5d1
 trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?security=tls&fp=chrome&sni=uis175.pacemakere.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200f59735dc5b766b4
 trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?type=tcp&security=tls&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208e334faf0451c7e9
 trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201454b530471545ea
-trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?sni=uis175.pacemakere.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b39ac52ef20fa764
+trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?type=tcp&sni=uis175.pacemakere.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b39ac52ef20fa764
+trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2080dc6cca642733f7
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?security=tls&sni=telewebion.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d948ae75e0092e6a
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462/?type=tcp&security=tls&sni=a12.taipeicitygovernment.org.ua&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20de166b04e92c3403
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208f232a914aa3774f
@@ -2348,7 +2348,10 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@91.220.8.170:8443/?type=tcp&security=tls&sni=K
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.99.193.84:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bce242d432e970f7
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.103.80.218:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2029f48b158e3de1d9
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.182.101.74:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20083e268609886fa3
-trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&alpn=h2,http/1.1,h3&fp=chrome&host=fin.netvia.ir&path=/YaujaGsyr&security=tls&sni=fin.netvia.ir&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d105b153a1b291de
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&alpn=h2%2Chttp%2F1.1%2Ch3&host=fin.netvia.ir&path=%2FYaujaGsyr&security=tls&sni=fin.netvia.ir&type=ws&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d105b153a1b291de
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&sni=fin.netvia.ir&alpn=h2%2Chttp/1.1%2Ch3&type=ws&path=/YaujaGsyr#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208a2dc24f25d019e9
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&host=fin.netvia.ir&path=%2FYaujaGsyr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&sni=fin.netvia.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2016a1d0faadbbd7a4
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&path=%2FYaujaGsyr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&sni=fin.netvia.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207ce727144d3762ce
 trojan://9010950e-8e09-486a-bf96-3b0cf22097b4@188.114.97.2:443/?type=tcp&security=tls&sni=tw1.sanfen001.pics#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2025278197dcb29760
 trojan://90580010-d84f-11ef-8489-1239d0255272@15.204.234.166:443/?type=tcp&security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac184ac6e5e22e95
 trojan://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443/?type=ws&host=79193c43.aryoovpn-5fr.pages.dev&security=tls&sni=79193c43.aryoovpn-5fr.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aa3bcbf737bf80ec
@@ -2508,6 +2511,9 @@ trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@cranberry.timing.singer.aliyunglsb
 trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@decal.chowder.grimy.aliyungslb.com:443?sni=edge.steam-dns.top.comcast.net&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205611d536dab2520f
 trojan://9c2cd61e-fa64-3e6f-a817-132e17e11949@radiance.occupy.hefty.aliyunglsb.com:443?sni=www.microsoft365.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2087dac778693d7efd
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ef4b239a0abd1e00
+trojan://9d033eb1-22c7-4ae9-9d59-783e40c8eec3@www.visa.com.sg:8443?allowInsecure=1&sni=au5.yang-1989.xyz&type=ws&host=au5.yang-1989.xyz&path=/iw8i#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20047e7bf85dc19339
+trojan://9d033eb1-22c7-4ae9-9d59-783e40c8eec3@www.visa.com.sg:8443?allowInsecure=1&sni=au5.yang-1989.xyz&ws=1&wspath=%2Fiw8i#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2070ecfd10a88bfdca
+trojan://9d033eb1-22c7-4ae9-9d59-783e40c8eec3@www.visa.com.sg:8443?allowInsecure=1&sni=au5.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2066a948d8999a416b
 trojan://9d033eb1-22c7-4ae9-9d59-783e40c8eec3@www.visa.com.sg:8443?sni=au5.yang-1989.xyz&type=ws&path=%2Fiw8i&host=au5.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dbd0e07a5161b23f
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&sni=us08.ssr.ee&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206ab58c836e85889f
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443/?type=tcp&security=tls&sni=us08.ssr.ee#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bf0943e712b3cab0
@@ -3232,6 +3238,7 @@ trojan://FH72359861@square-pheasant.rooster465.autos:443?security=tls#%40vpn_for
 trojan://FH72359861@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2023350124f8fc3057
 trojan://FH72359861@touching-ostrich.rooster465.autos:443?allowInsecure=0&sni=touching-ostrich.rooster465.autos#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec8be47631fd0dea
 trojan://FH72359861@true-pony.rooster465.autos:443?fp=chrome&security=tls&sni=true-pony.rooster465.autos&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203974ade4f9f4b6ef
+trojan://FK2sTEXzZ1KwLBVtxS7vbKSnXAVpgrxd@62.84.100.27:443?security=tls&fp=firefox&sni=62.84.100.27#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2053eef55b5861943e
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2051503d114f70dbb7
 trojan://FLpONjB2Lb@139.162.45.139:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2064fda1eeee26ce60
 trojan://Fn9TZuYXiFYhsyp65T@45.80.191.177:443?sni=os-2.rise-fuji.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208f8cbfab3e494f11
@@ -3582,6 +3589,7 @@ trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.90:889?security=tls&sni=cd
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.92:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a5c34d64abae079d
 trojan://Lar3HXz16D@104.21.48.1:443/?type=grpc&security=tls&sni=tabnak.twn24.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20833026212c098f13
 trojan://LcICDcp%21jD9TFV%24NbH@104.21.29.250:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208239c72c0b9defda
+trojan://LcICDcp%21jD9TFV%24NbH@172.67.150.22:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bc8ed7098f334507
 trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e161ba2b50261f6a
 trojan://LcICDcp%21jD9TFV%24NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201097a34ed4acccc8
 trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&type=ws&path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560&alpn=http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201f1011962c5d76b9
@@ -3659,6 +3667,7 @@ trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&
 trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cfe3b90962d3fbac
 trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203554a9fb9b6845b5
 trojan://MiTiVPN@151.101.56.9:443/?type=ws&host=s3z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=default.fastly.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b2cf1fe20663c09
+trojan://MiTiVPN@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a981f0118358379f
 trojan://MiTiVPN@185.133.35.22:443/?type=ws&host=Finl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=Finl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200776046363462985
 trojan://MiTiVPN@188.114.97.6:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20895ab106870d26f8
 trojan://MiTiVPN@199.232.217.242:80#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204ab8efc7c35f889c
@@ -4958,6 +4967,7 @@ trojan://Trojan-Hqv2rayNG@151.101.66.219:443/?type=ws&host=dontskii.hqv2rayng.xy
 trojan://Trojan%4082164024@108.61.186.37:443?allowInsecure=1&sni=#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20048c4b2e89c5d55e
 trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ab0982931cb015f8
 trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cff17500236554e1
+trojan://Trojan%4082164024@155.138.138.2:443?security=tls&sni=ca.tronsg.com&fp=firefox#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c67c91cef2b20e4e
 trojan://Trojan@82164024@155.138.138.2:443?type=tcp&security=tls&sni=ca.tronsg.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c91af4daa6f36a97
 trojan://Trojan%4082164024@18.168.148.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gb.tronsg.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2015da16ca720f4d85
 trojan://Trojan@82164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.tronsg.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c0c61422cfe87ad3
@@ -5527,6 +5537,7 @@ trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%2
 trojan://WpfQAbO2wg@45.9.10.103:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6b71658929a64ff
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20073e933107b85866
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=tx-hy2&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cd947cbbd8b4ee0e
+trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?allowInsecure=1&sni=43.156.36.253&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202cdb9657197bfeab
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=tx-hy2&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20db58874b08a3031c
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2032585db52f0b2779
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b122f6d259b542cb
@@ -5558,6 +5569,7 @@ trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&f
 trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200db8fdbd7c81be62
 trojan://XuMweB2PWs@2.27.109.179:45464?allowInsecure=1&sni=2.27.109.179&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dccb606d682f3ecf
 trojan://XuMweB2PWs@2.27.109.179:45464?allowInsecure=1&sni=2.27.109.179.sslip.io&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207a8d20b6ec428db3
+trojan://XuMweB2PWs@2.27.109.179:45464?allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209866126155674618
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2036811094a20f90b0
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2075d8942b88929e19
 trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d0b2dc576e522030
@@ -6036,7 +6048,7 @@ trojan://auto@www.whatismyip.com:443?security=tls&sni=trojanmz.pages.dev&fp=rand
 trojan://auto@www.wto.org:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208f3d9e3422afd112
 trojan://auto@yecaoyun.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c4880ac94f327b74
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205122572c9f8ae2dc
-trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20de1b11281fbdae85
+trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20de1b11281fbdae85
 trojan://av7fquzvuc99xcs9@172.67.140.126:2087?type=ws&security=tls&fp=chrome&sni=uwu.dianaw.cc.cd&host=uwu.dianaw.cc.cd&alpn=h2#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b6a6506e83d4d4b2
 trojan://av7fquzvuc99xcs9@172.67.140.126:2087?host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2067723d02fb9b8275
 trojan://av7fquzvuc99xcs9@uwu.blueknightnet.qzz.io:2087?path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20deb496ff8cbb63e4
@@ -7728,6 +7740,7 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&insecu
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?allowInsecure=1&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201112181d686c6d83
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f959a60757cc9f6d
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2068081f3675c008cb
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d56e2f23674377b8
 trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91&fp=chrome&alpn=http%2F1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208a98ae900ffc66b4
 trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ee190a94c61fdd64
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2059674c502f852844
@@ -7737,7 +7750,7 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommun
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2038c3ec18fd756141
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2050e24872f61a765c
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204de243ffe2cd509a
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2054343e2c7878b03b
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2054343e2c7878b03b
 trojan://dbbfbbb0-56e5-11ed-bd9e-1239d0255272@104.21.21.147:443?security=tls&sni=id5-trojan.bonds.id&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204a1e89da71de442a
 trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2093f5dcc18428c05d
 trojan://dc0f9c0c-1dea-40f4-90e6-2859d3aa9f2e@5.75.148.3:8443?security=none&encryption=none&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2066a79e8394ecb8fd
@@ -7827,10 +7840,9 @@ trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?security=tls&sni=139.180.146.200&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aad5769de97404fa
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?security=tls&sni=139.180.146.200#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2075aaf800b62f26db
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6fb52603b7185eb
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=0&sni=45.32.52.173#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2076154785a4b7662a
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20be28aef183c737f6
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20665f0ee140e326c5
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201d8f82e309111476
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201cbcabb520d22142
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?security=tls&sni=45.32.52.173#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092b797ae5aaab71a
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b077ef4dbc72efcc
 trojan://e2722c0fb503f8a592436c12bce0509a@153.121.38.213:3169/?type=tcp&security=tls&sni=www.nintendogames.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2008075ebb0138ab5a
@@ -7850,7 +7862,6 @@ trojan://e309e031-991e-4656-9934-44d10deb8fd8@104.26.15.137:2053?alpn=h3%2Ch2%2C
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@172.67.176.3:2053?security=tls&sni=nimm.mpd.cc.cd&type=ws&host=nimm.mpd.cc.cd&path=%2F0962&fp=chrome&alpn=h3h2http%2F1.1&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20955497da598d6ae1
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@172.67.74.2:2053?path=%2F0962&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=nimm.mpd.cc.cd.&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=nimm.mpd.cc.cd.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec9147a2e9903146
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?path=/0962&security=tls&alpn=http/1.1&insecure=0&host=nimm.mpd.cc.cd.&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20594ba78230dda2a5
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?host=nimm.mpd.cc.cd&path=%2F0962&security=tls&sni=nimm.mpd.cc.cd&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f7efd6293a5e9279
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?security=tls&sni=nimm.mpd.cc.cd&type=ws&path=/0962&Host=nimm.mpd.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cf3e764284f405c9
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?path=/0962&security=tls&insecure=0&host=nimm.mpd.cc.cd&type=ws&allowInsecure=0&sni=nimm.mpd.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2014a2ecf5bfff27f1
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?sni=nimm.mpd.cc.cd&allowInsecure=1&type=ws&path=%2F0962&host=nimm.mpd.cc.cd&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b717468fc1cee4cd
@@ -7874,7 +7885,11 @@ trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443/?type=ws&host=6
 trojan://e4f288433b@54.36.173.159:443/?type=tcp&security=tls&sni=pol1.connecton.surf#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207cf20800946ed5cb
 trojan://e505ff62-bc60-4113-b922-b40919396462@159.223.76.87:443/?type=tcp&security=tls&sni=sp1.u-n.cz.prod.hosts.ooklaserver.net&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a7f5cf06e0ed5b89
 trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443/?type=tcp&security=tls&sni=app.soft10.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b8c5aa33b37f0595
+trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?allowInsecure=1&sni=gu232.izzzzzi.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f806dd9ab9df00e0
+trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?type=tcp&security=tls&sni=gu232.izzzzzi.com&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c88ce87db4870fa2
 trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?security=tls&fp=chrome&sni=gu232.izzzzzi.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2000f5e3460086e13b
+trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?sni=gu232.izzzzzi.com&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2016d2b210be0ff709
+trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?type=tcp&sni=gu232.izzzzzi.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c0c969132e215cc2
 trojan://e58d29cf-e51d-4758-8227-096918b8e71f@172.64.229.128:2087/?type=tcp&security=tls&sni=jd.786777.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207847139769f53730
 trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.224:20152?security=tls&sni=13-231-155-134.nhost.00cdn.com&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b77490e02d53ae79
 trojan://e62db6f7-88ea-425d-90de-a9ba7770b1d6@163.123.192.33:443?type=tcp&sni=16-163-218-240.nhost.00cdn.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208c3f8cbfcd1a5c2c
@@ -7934,7 +7949,9 @@ trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f990a099da607656
 trojan://ee3eeb70-c85c-11ef-a0ab-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2078d2aed5e08eac38
 trojan://ee3eeb70-c85c-11ef-a0ab-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c06c83c769630230
+trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?allowInsecure=1&sni=jus134.pacemakere.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209bdcc81262103ebe
 trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?security=tls&fp=chrome&sni=jus134.pacemakere.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2090b4aa74b5a1996c
+trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?sni=jus134.pacemakere.com&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ffac836767171617
 trojan://ee872a10-c818-11ef-bdaf-1239d0255272@51.38.65.155:443?allowInsecure=0&sni=telewebion.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a8dadefd8e58dbb2
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@103.133.240.115:443?sni=hhcm.hhxaf.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2097838eb9c11594ed
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@103.25.202.114:443?sni=tjsp.hhxaf.cc.cd#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20831818ed75635e57
@@ -7976,7 +7993,6 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?sni=resources.findl
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2019988a1a55a842a0
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a6071a8f8f6b7aab
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b508c3d7fef2e4c
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203e936661429e26bf
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd1d8a51615da153
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20602a848eb856ba57
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e2ab622a6f807de4
@@ -8073,6 +8089,9 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&secur
 trojan://f7023960-1af3-11f0-9463-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2071c9897fc95fdc26
 trojan://f7943d8a-9c20-3c6e-b391-bceebb4e6aad@6f1sgtr1.106ctc.buzz:50143?type=tcp&sni=6f1sgtr1.106ctc.buzz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203002fde963f0db98
 trojan://f7943d8a-9c20-3c6e-b391-bceebb4e6aad@6hkf1.102ctc.xyz:32558?type=tcp&sni=6hkf1.102ctc.xyz&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20554c6a35879d412a
+trojan://f7c5011b-84cc-45d4-a0b3-ce28be0f5807@www.visa.com.sg:2053?allowInsecure=1&sni=au1.yang-1989.xyz&type=ws&host=au1.yang-1989.xyz&path=/h64l#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20011d1ba8ed212c50
+trojan://f7c5011b-84cc-45d4-a0b3-ce28be0f5807@www.visa.com.sg:2053?allowInsecure=1&sni=au1.yang-1989.xyz&ws=1&wspath=%2Fh64l#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203952949296f36c89
+trojan://f7c5011b-84cc-45d4-a0b3-ce28be0f5807@www.visa.com.sg:2053?allowInsecure=1&sni=au1.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2098b4d417488b59c6
 trojan://f7c5011b-84cc-45d4-a0b3-ce28be0f5807@www.visa.com.sg:2053?sni=au1.yang-1989.xyz&type=ws&path=%2Fh64l&host=au1.yang-1989.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cdcaf0852f5af539
 trojan://f7cecc70-524e-4bea-af14-d7367fdb4080@104.26.4.60:8443/?type=tcp&security=tls&sni=17698511625136.206353.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206cfcb3509aea06ef
 trojan://f7cecc70-524e-4bea-af14-d7367fdb4080@172.67.70.92:8443/?type=tcp&security=tls&sni=17698511625136.206353.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d12e48a03913d068
@@ -8234,7 +8253,6 @@ trojan://humanity@104.16.6.70:443?type=ws&security=tls&fp=chrome&sni=www.pleadco
 trojan://humanity@104.16.62.25:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20388ff8f08523ac93
 trojan://humanity@104.16.7.70:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d75598bd868ab079
 trojan://humanity@104.16.7.70:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201adaa06ae419e1c4
-trojan://humanity@104.16.7.70:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201bd1a55fee889ca0
 trojan://humanity@104.16.7.70:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209e6c5f2c8708cb92
 trojan://humanity@104.16.7.70:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2007882b3ec61eeeac
 trojan://humanity@104.16.7.70:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203964568c91e43dca
@@ -8270,6 +8288,7 @@ trojan://humanity@104.17.121.71:443/?type=ws&host=www.creationlong.org&path=%2Fa
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2009c518c6159a2b01
 trojan://humanity@104.17.121.9:443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20043030a4485c8a23
 trojan://humanity@104.17.121.9:443?allowInsecure=1&sni=www.calmlunch.com&alpn=http/1.1&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2017ea14f92dc22139
+trojan://humanity@104.17.121.9:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d1f7353b78fdf477
 trojan://humanity@104.17.121.9:443?allowInsecure=1&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20baf2134aa08f893e
 trojan://humanity@104.17.121.9:443/?type=tcp&security=tls&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d516a70a0b8ffc5c
 trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e3e7a87ad3a90e71
@@ -8458,7 +8477,6 @@ trojan://humanity@104.18.4.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1
 trojan://humanity@104.18.4.5:443?allowInsecure=1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.volumeroot.com&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205127daf439afe41f
 trojan://humanity@104.18.4.5:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eb03dce7167677fa
 trojan://humanity@104.18.4.5:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200a6b58600d389b57
-trojan://humanity@104.18.45.38:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203e7127b6cd5aa20a
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d1cbe62669a47b36
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206d8f14795e888314
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ca097d5937994ad8
@@ -8483,7 +8501,8 @@ trojan://humanity@104.19.2.175:443/?type=ws&host=www.calmloud.com&path=%2Fassign
 trojan://humanity@104.19.208.184:443/?type=ws&host=www.multiplydose.com&path=%2F%252Fassignment&security=tls&sni=www.multiplydose.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bf3f7554da1630f9
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20412a098a1b0ff844
 trojan://humanity@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a18aeb4a1b1713b4
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2010dae73bf693dced
+trojan://humanity@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2015eba5457a4b6407
+trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2010dae73bf693dced
 trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec35f998612fa45f
 trojan://humanity@104.19.229.21:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aff9c568d2a5809e
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f3a0a8e9819f380d
@@ -8500,6 +8519,7 @@ trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=
 trojan://humanity@104.21.13.204:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2081805b9478c64317
 trojan://humanity@104.21.33.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202076a5c478bebbc3
 trojan://humanity@104.21.33.59:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=unsafe&alpn=http%2F1.1&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20580c29c065072e56
+trojan://humanity@104.21.33.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d239ef846d9deef5
 trojan://humanity@104.21.33.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bb597656d9f26fa2
 trojan://humanity@104.21.33.59:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d48380c2ca2b6d2e
 trojan://humanity@104.21.33.59:443?allowInsecure=1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201c618ff3d54c88fb
@@ -8535,7 +8555,6 @@ trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&insecur
 trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20afa88ffac3535be3
 trojan://humanity@104.26.15.137:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b29a78719c4693e9
 trojan://humanity@104.26.6.159:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d218cae584562abd
-trojan://humanity@104.27.201.80:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202f3586c812180d2f
 trojan://humanity@104.27.201.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20165d012fdf8b1284
 trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2061408e4c38f6458a
 trojan://humanity@104.27.203.207:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b6245f3996c515c2
@@ -8583,7 +8602,6 @@ trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&insecure=0&h
 trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2015ddd69b38d82da6
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eadef5b17a1029a7
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eff1a4a7a22b8411
-trojan://humanity@131.196.254.151:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20319a86b794a31e4d
 trojan://humanity@131.196.254.151:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2090f785433d226ec0
 trojan://humanity@138.68.131.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209d4d0acdade8a7d8
 trojan://humanity@138.68.131.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204a2bc353a7556544
@@ -8608,6 +8626,7 @@ trojan://humanity@141.101.115.104:443?host=www.calmlunch.com&path=%2Fassignment&
 trojan://humanity@141.101.90.101:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d6f3d9a9fbc91b71
 trojan://humanity@141.101.90.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1&fp=ios#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20846f2b2096e820f7
 trojan://humanity@141.193.213.11:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205d373adb7d0dacfe
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20968049def8aba68f
 trojan://humanity@141.193.213.172:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205aced87aaac3a966
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202c6598414303dc32
 trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2046959ee6d6c17ac5
@@ -8618,9 +8637,7 @@ trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=%2Fassignment&
 trojan://humanity@141.193.213.172:443?type=ws&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205cc98d1ab384cbd9
 trojan://humanity@141.193.213.30:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204eff266ad690e026
 trojan://humanity@143.246.136.156:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.volumeroot.com&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207657e02042e0b9e5
-trojan://humanity@143.246.136.156:443?fp=chrome&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203376eae655a42180
 trojan://humanity@143.246.136.156:443?security=tls&type=ws&path=%2Fassignment&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2034ed633c641e7ae3
-trojan://humanity@143.246.136.99:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd9429f2c18be350
 trojan://humanity@143.246.136.99:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2048e206a2e0cbc40a
 trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c30eba507f68f80b
 trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2038bbfa6ebf0214ea
@@ -8666,6 +8683,7 @@ trojan://humanity@153.92.127.26:443?path=%2Fassignment&security=tls&fm=tlshello-
 trojan://humanity@153.92.127.26:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a383119bd6bc1a37
 trojan://humanity@153.92.127.26:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209bf24681082d5e3e
 trojan://humanity@153.92.127.26:443?type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2059e52db66f8a9e2b
+trojan://humanity@154.81.141.42:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201ef670f0dd293c8b
 trojan://humanity@154.81.141.42:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c1d1ffe69690b0a1
 trojan://humanity@154.81.141.42:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206aec3a1e2debd00d
 trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=android#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2082d9ccbcd7dd6298
@@ -8680,7 +8698,7 @@ trojan://humanity@157.230.29.88:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@159.223.12.89:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20db885d4c01a47e77
 trojan://humanity@159.223.12.89:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2029e51347e27949e7
 trojan://humanity@161.35.192.122:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bd9c0cbf47f4221c
-trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200c2dc76bcb2c7008
+trojan://humanity@161.35.192.122:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200c2dc76bcb2c7008
 trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cbdfd7267619b47f
 trojan://humanity@161.35.192.122:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205ff340b1cc07a6c8
 trojan://humanity@161.35.192.122:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20500361a4ee9be0bf
@@ -8698,11 +8716,13 @@ trojan://humanity@162.159.228.224:443?cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_P
 trojan://humanity@162.159.228.224:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20060485600f113ccf
 trojan://humanity@162.159.244.91:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c352db920c341522
 trojan://humanity@162.159.253.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2006c81606ff99e228
+trojan://humanity@162.159.253.41:443?sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2031acbe7981be7613
 trojan://humanity@162.159.254.191:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204d5c079323de7459
 trojan://humanity@162.159.254.191:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2042ff0c6f5ce3c9e9
 trojan://humanity@162.159.254.191:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b384d54f48908273
 trojan://humanity@162.159.36.20:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20017221be260eaa10
 trojan://humanity@162.159.36.20:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f08005a1f198936d
+trojan://humanity@162.159.36.20:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bffddfcc29a11840
 trojan://humanity@162.159.36.20:443?allowInsecure=1&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e52b4e35cee69817
 trojan://humanity@162.159.36.20:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2010c93caba14b6229
 trojan://humanity@162.159.36.20:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2004ca43ba4b01fd0c
@@ -8725,6 +8745,7 @@ trojan://humanity@164.92.223.252:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.
 trojan://humanity@164.92.223.252:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208e31e4a4500a94cf
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b5ca19d2d8c7746e
 trojan://humanity@165.215.250.14:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d33564e9dff38c2d
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201b56d581ef0da535
 trojan://humanity@165.215.250.14:443?allowInsecure=1&insecure=1&security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bcac14d3d9bef51b
 trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2019045d7b5509e0c2
 trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eddd89c645e0a095
@@ -8763,7 +8784,6 @@ trojan://humanity@172.64.150.28:443?allowInsecure=1&insecure=1&security=tls&sni=
 trojan://humanity@172.64.150.28:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&alpn=h2#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208114ddafd909a34a
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20badc39f3de37daec
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208d91ad2126135653
-trojan://humanity@172.64.152.23:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ab092a9f2d1dff55
 trojan://humanity@172.64.152.23:443?type=ws&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fb1104da99b3e55a
 trojan://humanity@172.64.152.38:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2021532b00ff88048f
 trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d25699c49eed0000
@@ -8780,7 +8800,7 @@ trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=%2Fassignment&host=
 trojan://humanity@172.66.40.99:443?allowInsecure=0&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209aa40b78a8de7733
 trojan://humanity@172.66.40.99:443?allowInsecure=0&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2005cd06bd07555d1c
 trojan://humanity@172.66.40.99:443?allowInsecure=1&type=ws&security=tls&fp=firefox&sni=www.trusteeforward.com&host=www.trusteeforward.com&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205f33a5b4cbf5e52d
-trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208987fbea0f1bc8ca
+trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fa75e56421f69e05
 trojan://humanity@172.66.40.99:443?sni=www.trusteeforward.com&type=ws&path=%2F%252Fassignment&host=www.trusteeforward.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bc1ee4a169729f92
 trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=%2F%2Fassignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&fp=chrome&alpn=http%2F1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2039ce705cdf1cb2ec
 trojan://humanity@172.66.40.99:443?type=ws&sni=www.trusteeforward.com&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd352accc26ed5af
@@ -8805,7 +8825,6 @@ trojan://humanity@172.67.180.92:443/?type=ws&host=www.multiplydose.com&path=%2Fa
 trojan://humanity@172.67.188.109:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206bf152fe239dfd4c
 trojan://humanity@172.67.188.109:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208310b33cf43ae182
 trojan://humanity@172.67.200.219:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208e41b533387a7247
-trojan://humanity@172.67.200.219:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20921105b8c9ba287a
 trojan://humanity@172.67.200.219:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&ech=dolts.ir+udp://1.1.1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20677d70f44b001f04
 trojan://humanity@172.67.200.219:443?type=ws&security=tls&sni=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.calmlunch.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207065478bd369138c
 trojan://humanity@172.67.200.219:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2075fd00fde77dd45b
@@ -8832,6 +8851,7 @@ trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@185.114.72.31:2053?type=ws&security=tls&fp=ios&sni=www.calmlunch.com&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d3a644ae226a8e03
 trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com&fp=safari#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ae067df8a08720e9
 trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2038e7d6b5e33c3bec
+trojan://humanity@185.114.72.31:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fb1dd6506e0f6632
 trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207728fda1d03be032
 trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b5b23760b6e8165
 trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207d4e094e515583f6
@@ -8846,7 +8866,7 @@ trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.ca
 trojan://humanity@185.18.250.245:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200d0a3408adae2c89
 trojan://humanity@185.18.250.245:443?type=ws&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2000b7c94dc03f6cb3
 trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20791b50e20c760170
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20437c1831ef8fbd0c
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fb92df9a3cf53f33
 trojan://humanity@185.18.250.252:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b4d3b5c98713af2e
 trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd9536b02d32fb57
 trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2070d6050d1baa0f26
@@ -8863,7 +8883,6 @@ trojan://humanity@185.22.172.249:443?sni=www.pleadcourt.org&type=ws&path=%2Fassi
 trojan://humanity@185.22.172.249:443?security=tls&type=ws&path=%2Fassignment&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a8f352f9087c5776
 trojan://humanity@185.22.172.249:443?type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204bf931427cb3caad
 trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fabfbe15817deb14
-trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201e83d4403492ebb1
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ab0bbffe47df3e48
 trojan://humanity@185.220.100.168:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205289d35e588e38ef
 trojan://humanity@185.220.100.168:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20739e96f3e3cadcba
@@ -8871,6 +8890,7 @@ trojan://humanity@185.220.100.168:443?allowInsecure=1&sni=www.calmlunch.com#%40v
 trojan://humanity@185.220.100.168:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c7f99df1b525b4e5
 trojan://humanity@185.220.100.168:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2049f099d354f83c78
 trojan://humanity@185.220.100.168:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20236cf9b07162338a
+trojan://humanity@185.220.100.168:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b2f39e3d9265b77c
 trojan://humanity@185.225.68.232:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200931c2493f30cef7
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aa910e8ac5486155
 trojan://humanity@185.225.68.232:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200e7a5ce2df40b51e
@@ -8879,6 +8899,7 @@ trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calm
 trojan://humanity@185.231.112.217:40443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206ff754f819a87e2c
 trojan://humanity@185.255.179.166:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2023f02e0b470371e1
 trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2034ec8a9940d36781
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c0d2773163e6a1f7
 trojan://humanity@185.255.179.166:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202f39b5ea3ad7ebd5
 trojan://humanity@185.255.179.166:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209336c9bdeb835ff9
 trojan://humanity@185.255.179.166:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f87758d5e83116a8
@@ -8977,7 +8998,6 @@ trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NE
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a41327d5a09a343a
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c65533c78ffc73a1
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2006ed95d7272f481b
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b6a16bc733636978
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20852863f78786d415
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b1f2f93aa2d82762
 trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec812730858d22aa
@@ -8991,6 +9011,7 @@ trojan://humanity@188.114.97.6:443?sni=www.ignitelimit.com&type=ws&path=/assignm
 trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e3baa79e65a5ed1a
 trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20095319149dbdea4c
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&fp=chrome&sni=www.trusteeforward.com&host=www.trusteeforward.com&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208212c99d03e1f725
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205a9606c05b0b404b
 trojan://humanity@188.114.97.6:443?path=//assignment&security=tls&alpn=http/1.1&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d29fabc753cc056d
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202268e2647bc60a52
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2014e13175d6a2d819
@@ -9001,6 +9022,7 @@ trojan://humanity@188.114.97.6:443?sni=www.pleadcourt.org&type=ws&path=/assignme
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.trusteeforward.com&amp;fp=chrome&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&amp;type=ws&amp;allowInsecure=0&amp;sni=www.trusteeforward.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203f6cd15ad332ba3f
 trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c70d2582fd8c8959
 trojan://humanity@188.114.97.6:443?cs=TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_RSA_WITH_AES_128_GCM_SHA256:TLS_RSA_WITH_AES_256_GCM_SHA384:TLS_RSA_WITH_AES_128_CBC_SHA:TLS_RSA_WITH_AES_256_CBC_SHA&path=/assignment?ed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207952ee6e00586b2a
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment%3Fed%23Telegram---mehrosaboran#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ef6d01c52eb5debd
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20485093d1083a450f
 trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202547e9cfe70c271b
 trojan://humanity@188.114.97.6:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=www.volumerOot.coM.&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209c64630ce8e58e9b
@@ -9054,6 +9076,7 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=http%2F1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f441244f53c35a8a
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201d749beb544865d5
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=null&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2011192b67f18c0446
+trojan://humanity@188.114.98.0:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2086c58c879e58b4ed
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&host=www.calmlunch.com&path=/%2Fassignment&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d441a8730eec37a1
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&host=www.calmlunch.com&path=//assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207bbd25d05f803bb0
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2028f54929b2bad6e2
@@ -9085,6 +9108,7 @@ trojan://humanity@188.114.98.0:443?path=%2F%2Fassignment&amp;security=tls&amp;al
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f2d9c586a1a5f264
 trojan://humanity@188.114.98.0:443?cs=TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_RSA_WITH_AES_128_GCM_SHA256:TLS_RSA_WITH_AES_256_GCM_SHA384:TLS_RSA_WITH_AES_128_CBC_SHA:TLS_RSA_WITH_AES_256_CBC_SHA&path=/assignment?ed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206201e52b636ac867
 trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b7ccec9a7749d8a1
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&sni=www.trusteeforward.com&host=www.trusteeforward.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207f250450cdc5e275
 trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ecfbb7daf7c6a893
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fe48266226a2b9d7
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment?ed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20824c83b6885f8fd7
@@ -9094,7 +9118,7 @@ trojan://humanity@188.114.98.0:443?host=www.volumeroot.com&path=%2Fassignment&se
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment?ed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2027f0b5f717b63ee3
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2023577542e6b936f1
 trojan://humanity@188.166.42.149:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cfb85c56ad2aa6a4
-trojan://humanity@188.226.181.61:443?host=www.pleadcourt.org&security=tls&fp=chrome&sni=www.pleadcourt.org&alpn=http%2F1.1&allowInsecure=0&type=ws&insecure=0&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f529fa0918b32c70
+trojan://humanity@188.226.181.61:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f529fa0918b32c70
 trojan://humanity@188.226.181.61:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ba3aa97cdfaf26a4
 trojan://humanity@188.226.181.61:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b9cc540f2d57c9e7
 trojan://humanity@188.226.181.61:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c3d9827f9c1aafac
@@ -9205,8 +9229,10 @@ trojan://humanity@206.189.125.53:443?host=www.volumerOot.coM.&path=%2Fassignment
 trojan://humanity@208.103.161.110:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2087682182c7526cd3
 trojan://humanity@209.38.109.222:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208bf49c2389001a6d
 trojan://humanity@209.38.109.222:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20591b452784c3af08
+trojan://humanity@209.38.109.222:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.volumeroot.com&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2011c77bad6aafaa7a
 trojan://humanity@209.38.109.222:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.volumeroot.com&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fabd5929a1d81df2
 trojan://humanity@209.38.109.222:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203a6588e68c3a8575
+trojan://humanity@209.38.109.222:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203533231de64a5f9a
 trojan://humanity@209.38.225.64:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c7a91e3b56778daf
 trojan://humanity@209.38.225.64:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c57c3a11f20644a1
 trojan://humanity@209.38.225.64:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207b3b3189dfdf6499
@@ -9245,7 +9271,6 @@ trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&alpn=v2rayNp
 trojan://humanity@212.227.144.37:8443?allowInsecure=0&sni=www.calmlunch.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ebaae10e526a7482
 trojan://humanity@212.227.144.37:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f4235ab413ab815c
 trojan://humanity@213.1.145.50:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2090a3bf3c44457376
-trojan://humanity@213.1.145.50:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a67c10ed5d164d78
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b5b81d69b041ef78
 trojan://humanity@216.24.57.1:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fff582cc274d02ba
 trojan://humanity@216.24.57.6:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206d996212d42b2f22
@@ -9257,7 +9282,7 @@ trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&alpn=http
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b36350fec05cbc96
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206538e72e102626a3
 trojan://humanity@216.24.57.7:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ef8e05756a0e7bfd
-trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2001da13e2024dcdd5
+trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2001da13e2024dcdd5
 trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092511e3fe8cff9e2
 trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208ed8f81c08c01882
 trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a354c6a6334f59dd
@@ -9299,12 +9324,13 @@ trojan://humanity@31.57.190.34:443?type=ws&security=tls&fp=chrome&sni=www.pleadc
 trojan://humanity@31.57.190.34:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a13342c62ba8ce5e
 trojan://humanity@31.57.190.34:443?security=tls&type=ws&path=%2Fassignment&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20629f756e52982374
 trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e0f3e8b750ca6208
+trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2079c6540645edc75a
 trojan://humanity@31.57.190.40:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20204b5df30af94cd8
 trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203f3ec63f52ab7a08
 trojan://humanity@31.57.190.40:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2088a80e19033404ac
 trojan://humanity@31.57.190.50:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201348c2d3b1dfac40
 trojan://humanity@31.57.190.71:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d020fb9fb4178c0b
-trojan://humanity@31.57.190.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f3b77c335aeb4ed3
+trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f3b77c335aeb4ed3
 trojan://humanity@31.57.190.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2025c21d8b74c8fb22
 trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203ca1f86290d2e834
 trojan://humanity@31.57.190.71:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207f8702e83b6a3a63
@@ -9332,7 +9358,6 @@ trojan://humanity@45.130.125.112:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%
 trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204197a9a1f90fedf1
 trojan://humanity@45.130.125.126:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b6d3fd8358c7c06e
 trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20174a6d3c82b64b7c
-trojan://humanity@45.130.125.126:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20138182a950d1ef15
 trojan://humanity@45.130.125.126:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205af63d2d4cd145b7
 trojan://humanity@45.130.125.158:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=ios#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f7ea5f52442e4f18
 trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205e7782f94bd23d3e
@@ -9354,9 +9379,10 @@ trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassi
 trojan://humanity@45.130.125.96:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d284a4a5cce74e03
 trojan://humanity@45.131.4.38:443?allowInsecure=1&type=ws&security=tls&fp=android&sni=www.pleadcourt.org&host=www.pleadcourt.org&alpn=http/1.1&fm={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2070a500bbbdb39598
 trojan://humanity@45.131.4.38:443?allowInsecure=1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cf3b2e1932812192
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2028c2fc86d880dc83
 trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ad1fa75b850150b7
 trojan://humanity@45.131.4.38:443?type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208ae883cb35a3a9de
-trojan://humanity@45.147.48.28:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d386ff6edd155ba1
+trojan://humanity@45.147.48.28:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2023840a38da8111cd
 trojan://humanity@45.147.48.28:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;fm=tlshello-0-len&amp;insecure=0&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac179996159e4b0a
 trojan://humanity@45.38.3.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d6643250d954a418
 trojan://humanity@45.38.3.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202cc98f66f3c52f47
@@ -9380,7 +9406,6 @@ trojan://humanity@45.87.41.18:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&
 trojan://humanity@45.87.41.18:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20769f8ae3da5538f5
 trojan://humanity@45.87.41.18:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20acfbd4fa5eef799f
 trojan://humanity@46.101.110.34:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6400fd4e359214c
-trojan://humanity@46.101.110.34:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2089149eefa54092f6
 trojan://humanity@46.101.110.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20050676f925df69c3
 trojan://humanity@46.101.110.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203d0133e6665694ed
 trojan://humanity@46.101.110.34:443?allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2055144ae1ae52aa6d
@@ -9401,7 +9426,6 @@ trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2052f0398f93c693dd
 trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dea6ad7f330d8a27
 trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c29db91244951282
-trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208e5791851056d1d4
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2090b3158c568a7083
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20124e59c362bb84c6
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20552c7bb129eb1ca6
@@ -9419,6 +9443,7 @@ trojan://humanity@46.62.230.149:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@46.62.230.149:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2053c1d0acf87307d8
 trojan://humanity@46.62.230.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2024c75da897e1b627
 trojan://humanity@46.62.230.149:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20216b8f070ac93dc8
+trojan://humanity@46.62.230.149:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c26998c8a5a72d2f
 trojan://humanity@46.62.230.149:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b1c0f4f6595f34c
 trojan://humanity@46.62.230.149:443?type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2041616abed1b57f1a
 trojan://humanity@46.8.228.165:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20159442df696bc5c0
@@ -9467,7 +9492,6 @@ trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&inse
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=edge#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204a42422b6e758a93
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=ios#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208b034b586e3c4905
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=qq#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c57701d8895c884b
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2016ad56b2e413b692
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201ba6c3a19a9b828d
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208d3586cee985a40d
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=firefox#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206108276121a9a3bc
@@ -9492,7 +9516,6 @@ trojan://humanity@8.47.69.60:443?host=www.pleadcourt.org&path=%2Fassignment&secu
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ce7f4dc7b1613724
 trojan://humanity@8.6.112.0:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b7e1d9e95bb4794a
 trojan://humanity@8.6.112.206:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2044cb454cdfb1e01b
-trojan://humanity@8.6.112.206:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203994a2d9ecc3f47c
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2018e06d61688f9b04
 trojan://humanity@8.6.112.206:443?host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c0961acc10685252
 trojan://humanity@8.6.112.6:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fff6c3797f3f9da5
@@ -9547,7 +9570,6 @@ trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&alpn=http%2F1
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e4e6c57c5511c023
 trojan://humanity@92.42.99.143:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206c6615e8fb74f014
 trojan://humanity@92.42.99.143:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208876222f4bde8c98
-trojan://humanity@92.42.99.143:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2093b4c085fb1f01cb
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20db46ac651e30d740
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e4f32d8b6eb1a139
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f7c102d74f8c0605
@@ -9559,9 +9581,8 @@ trojan://humanity@92.42.99.143:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.volumerOot.coM.&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=wWw.Volumeroot.cOm.#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eec546d79d980ec1
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2053e73d25fe272bdb
 trojan://humanity@92.42.99.143:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.volumeroot.com&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e4e8b695e30daaad
-trojan://humanity@94.158.219.126:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2087517c308988b182
+trojan://humanity@94.158.219.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2087517c308988b182
 trojan://humanity@94.158.219.126:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200681d8605bb6f5bd
-trojan://humanity@94.158.219.126:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20918b47c16ab02cea
 trojan://humanity@94.158.219.126:443?type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b31ad210f2c2b85
 trojan://humanity@94.237.18.53:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20af63995b30262090
 trojan://humanity@95.85.32.57:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dbbb40770c2cde7e
@@ -9575,6 +9596,7 @@ trojan://humanity@95.85.54.197:443?sni=www.pleadcourt.org&type=ws&path=%2Fassign
 trojan://humanity@95.85.54.197:443?type=ws&sni=www.pleadcourt.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204dcf1c17b353cc60
 trojan://humanity@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&Host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207e482fcc40d31aee
 trojan://humanity@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e94d6a3db0e0a2d2
+trojan://humanity@[2a06:98c1:3101::6812:202f]:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cfd0451e728057af
 trojan://humanity@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=chrome&fragment=null%2Cnull%2Ctlshello%2C0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f97b6e7e697537a5
 trojan://humanity@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&note=%40FreeOnlineVPN#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2035584b0746f55749
 trojan://humanity@[2a06:98c1:3101::6812:202f]:443?security=tls&type=ws&host=www.calmlunch.com&path=%2F%252Fassignment&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e0c55bcf6d0c5f05
@@ -9666,6 +9688,7 @@ trojan://humanity@www.pleadcourt.org:443?type=ws#%40vpn_fortuna%20%7C%20TROJAN%2
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207b1f0305f6a85825
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2071a2fcb4bce7f3d8
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ab8ba8c84d669603
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ddfe2d115786d36a
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment%23Telegram------mtmvpn---mtmvpn&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f36d71b2e3aeeb0b
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204ed10b791fe5f60a
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment%23Telegram---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a112149e0d719eca
@@ -9811,8 +9834,6 @@ trojan://miTivpn@151.101.56.90:443?security=tls&alpn=http/1.1&insecure=0&host=mi
 trojan://miitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e1b9ba807f8117d9
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b199bc66f6814bfd
 trojan://mitivpn@104.18.32.47:2053/?type=tcp&security=tls&sni=cdn.linkman1.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b77696914e4d64c8
-trojan://mitivpn@104.18.45.38:443?cs=semi-python&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202a063fb52c327a29
-trojan://mitivpn@104.21.219.160:443?cs=semi-python&path=/&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20345333c29cdfe3c0
 trojan://mitivpn@104.25.47.216:443?type=ws&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e01472d997abd00a
 trojan://mitivpn@104.27.203.207:443?cs=semi-python&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201c8a456fe061df45
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206e804e9cac54c6e3
@@ -9840,11 +9861,9 @@ trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece23
 trojan://m%69tivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%20mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20afa2a9bad757a4f8
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%2Bmehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e59c139116f0ed4e
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ff3a6aabdbd1ecab
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201360277f14db7e92
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202e120ae858d95838
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2036379d294dbacac1
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20eb3d5001a08d75d2
-trojan://mitivpn@167.82.64.46:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=firefox.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205afa97f7bfb8e510
 trojan://m%69tivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204977523eacc93448
 trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c8d2a77b6cf32acf
 trojan://mitivpn@167.82.76.27:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204312586c15c564ca
@@ -9854,7 +9873,6 @@ trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e
 trojan://mitivpn@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209cfed18c77d97f21
 trojan://mitivpn@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2096d4eb58ed0d5b48
 trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204f24013ad202cb13
-trojan://mitivpn@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202e471cb34b1cb957
 trojan://mitivpn@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200da8b301cebd6757
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=de.mitivpn.in.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&ech=iranva.ir+udp://1.1.1.1&type=ws&host=de.mitivpn.in.net&path=/#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2030f3aba351638330
 trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aed148f646ada64a
@@ -9917,17 +9935,12 @@ trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b37e7699317e683
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20136a2108ba7dd880
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201114316b9232e11a
-trojan://mitivpn@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=firefox.com&type=ws#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d4f4d91ce3ae87f9
 trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=@prrofile_purple#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec85b2211b6bfb99
 trojan://mitivpn@199.232.78.188:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202405dd90a742fc11
 trojan://mitivpn@199.232.78.188:443?path=@rzea8pppooopppppppp&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209d818e998218e624
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207ae3918f8ce34748
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20643df2119f31b3a4
-trojan://mitivpn@45.128.76.242:443?cs=semi-python&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20450788dfaa433cb4
-trojan://mitivpn@45.147.48.28:443?cs=semi-python&path=/&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2057e30c70721d1734
 trojan://mitivpn@45.147.48.28:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=de.mitivpn.in.net&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac23c04d2c6a8c0c
-trojan://mitivpn@8.47.69.60:443?cs=semi-python&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ab39045473b03665
-trojan://mitivpn@8.6.112.206:443?cs=semi-python&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=de.mitivpn.in.net&fp=unsafe&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205cb117dbfff502b7
 trojan://mitivpn@b2n.ir:443?allowInsecure=0&sni=de.mitivpn.in.net&alpn=http/1.1&type=ws&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202863770804880a6e
 trojan://mitivpn@b2n.ir:443?allowInsecure=1&sni=de.mitivpn.in.net&type=ws&host=de.mitivpn.in.net&path=#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205a1d06ab02254b27
 trojan://mitivpn@b2n.ir:443?type=ws&security=tls&fp=chrome&sni=de.mitivpn.in.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e6a4d500219341c9
@@ -10885,8 +10898,6 @@ trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?allowInsecure=1#%40v
 trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201cd0b2143990b683
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@201.10.90.81:443?security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208a3ec0c5f64bd1b6
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.106:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&fp=chrome&type=ws&allowInsecure=0&sni=2.HI-L.IM#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f70057629697c2e6
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.106:443?allowInsecure=1&sni=2.HI-L.IM&type=ws&host=2.HI-L.IM&path=/f2fc2a1f#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207203c1e8dd1f620e
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.106:443?allowInsecure=1&sni=2.HI-L.IM#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ac98a39c6ef2007b
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&type=ws&allowInsecure=0&sni=2.HI-L.IM&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20705cf742da001ac0
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&type=ws&allowInsecure=0&sni=2.HI-L.IM&fp=ios#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201774eb0185fae0ac
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?path=/f2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&type=ws&allowInsecure=0&sni=2.HI-L.IM#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202ade796122c8342a
