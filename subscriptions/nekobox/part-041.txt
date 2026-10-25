@@ -1,3 +1,8 @@
+trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&security=tls&sni=free-de-2.undef.network#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2091a068d97a095477
+trojan://pjdnqv@15.181.162.90:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201fa141ae9c3ffcc5
+trojan://pjdnqv@172.67.216.95:443?security=tls&sni=aws-us-oregon-1.f1cflined.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflined.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209149bca793d4973c
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f83d5c4454930d77
+trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aa2d2374f90418a9
 trojan://pjqRC5wfEFhYTyiaKF@45.139.194.60:443?sni=ee-1.tr202604.com&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206ee975fdb438f088
 trojan://pjqRC5wfEFhYTyiaKF@ee-1.tr202604.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207687a717f2751b77
 trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.184.129:18756?security=tls&headerType=none&type=tcp&sni=io.ozone.ru#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206984b6715d4bbb87
@@ -21,9 +26,9 @@ trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443#%40vpn_fortuna%20%7C%20TROJAN%20%7C
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20492cf02f734e9c85
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.aava.lalibobi.online:443?security=tls&sni=checkout.aava.lalibobi.online&fp=&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e8374f2bf9e2e905
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.nova.lalibobi.online:443?security=tls&fp=chrome&sni=checkout.nova.lalibobi.online#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2030e9090dacd80013
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.rowan.lalibobi.online:443?security=tls&sni=checkout.rowan.lalibobi.online&fp=&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203d0c40fb81daf5c0
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.salu.lalibobi.online:443?security=tls&sni=checkout.salu.lalibobi.online&fp=&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205faf7b97ea9f2ed2
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?security=tls&sni=checkout.skog.lalibobi.online&fp=&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206b378d1050ab06c3
-trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.vistula.lalibobi.online:443?security=tls&sni=checkout.vistula.lalibobi.online&fp=&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a3c8d66dc7dc1062
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f32f72e852adc810
 trojan://qr5nXh3P7K6T@216.128.184.4:443?sni=ash.d22e0961-e0a7-49b8-8259-eac71e24d27b.kailib.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b1f696a0aee72b3c
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fa8bb367e574b014
@@ -186,6 +191,7 @@ trojan://slch2024@216.205.52.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87
 trojan://slch2024@216.24.57.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2034c8efdf94211184
 trojan://slch2024@216.24.57.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203bf8b6b86d35cc85
 trojan://slch2024@www.visasoutheasteurope.com:2096/?type=tcp&security=tls&sni=ocost-dy.wmlefl.cc#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a234650e20f3626a
+trojan://sshs8_6481354771@86.38.247.109:2087?type=tcp&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f1d28372505ba873
 trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f466a68dc4649233
 trojan://sshs8_6481354771@86.38.247.109:2087?sni=ul-singapore1.09vpn.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201f9a2a8458ddb50a
 trojan://strong-secret-pass-777@2.56.172.83:4443/?type=tcp&security=tls&allowInsecure=1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f8f3fa87893d3a09
@@ -492,9 +498,3 @@ trojan://telegram-id-privatevpns@3.68.139.230:22222?type=tcp&sni=trojan.burgerip
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a7e6b8089581877a
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fab9d415aeaf7f38
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c8ff2e17fc0ca490
-trojan://telegram-id-privatevpns@3.72.192.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6d233e70d8e42f4
-trojan://telegram-id-privatevpns@3.76.132.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ec26554198677b5e
-trojan://telegram-id-privatevpns@3.76.132.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203c37e8b86e2fa2c2
-trojan://telegram-id-privatevpns@3.78.163.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2044712eaae4caba82
-trojan://telegram-id-privatevpns@3.8.108.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200ab98fd465589ab0
-trojan://telegram-id-privatevpns@3.8.108.119:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b0be9e98031516f2
