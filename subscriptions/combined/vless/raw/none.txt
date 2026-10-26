@@ -1,6 +1,7 @@
 vless://015b83b4-53a3-4719-8553-3a7c03c4128d@2.26.129.245:443?type=raw&amp;security=reality&amp;flow=xtls-rprx-vision&amp;sni=ukrop.mycdn-me.ru&amp;fp=qq&amp;pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&amp;sid=5a8e1a04f3d92b67#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.49.164:2052?security=none&type=raw#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.49.164:2052?type=raw#%40vpn_fortuna
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@178.83.45.226:2052?type=raw#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw&security=none&encryption=none&headerType=none#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw#%40vpn_fortuna
@@ -29,6 +30,7 @@ vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=raw#%40vpn
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&type=raw&headerType=none&security=none#%40vpn_fortuna
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?type=raw#%40vpn_fortuna
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&type=raw#%40vpn_fortuna
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?type=raw#%40vpn_fortuna
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=raw#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%40vpn_fortuna
@@ -36,6 +38,7 @@ vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?type=raw#%40vpn_
 vless://c6362720-0931-4b91-b187-d8ecf3149734@168.222.49.164:10002?security=none&type=raw#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@168.222.49.164:10002?type=raw#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@82.47.63.224:10002?type=raw#%40vpn_fortuna
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=raw#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=raw#%40vpn_fortuna
 vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?security=none&type=raw&packetEncoding=xudp#%40vpn_fortuna
 vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?type=raw#%40vpn_fortuna
