@@ -9,7 +9,6 @@ vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80/?type=xhttp&en
 vless://04ba133d-1f99-4f5c-b942-bed79cddd0a0@146.75.123.82:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://04ba133d-1f99-4f5c-b942-bed79cddd0a0@146.75.123.82:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://08042e25-2db6-4c82-bc2e-f496ecac33e1@170.39.216.98:1001?encryption=none&type=xhttp&mode=stream-one&host=www.samanehha.io&path=%2F%3Fed%3D2048&security=none#%40vpn_fortuna
-vless://081fc1d2-367b-40b7-b384-e710458b0df2@176.65.151.223:443?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=netherland2364.wexpuk.ir&mode=auto#%40vpn_fortuna
 vless://095a7288-5058-4bf8-845c-011f7fa65941@217.216.82.85:1001?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=us.samanehha.io&mode=stream-one&security=none#%40vpn_fortuna
 vless://0a83252b-df4e-4a09-a054-45d5a1f731eb@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#%40vpn_fortuna
 vless://0aec6598-7fb5-44e6-bff7-a4d550117830@104.234.135.88:443?mode=auto&path=/&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40vpn_fortuna
@@ -30,6 +29,8 @@ vless://1acdba29-6fe1-4903-b8cb-9a04fec4d1d6@tr.koomeh.net:80?encryption=none&ty
 vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=%2Fcdn%2Fassets%3F&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna
 vless://1c2ddf7e-33ad-49f2-9564-5cfb0914359e@fast-pars.netbazshop.ir:46927?mode=packet-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Snapp.ir&type=xhttp#%40vpn_fortuna
 vless://1c2ddf7e-33ad-49f2-9564-5cfb0914359e@fast-pars.netbazshop.ir:46927?encryption=none&type=xhttp&mode=packet-up&host=Snapp.ir&path=%2F&security=none#%40vpn_fortuna
+vless://1ccb5c3d-d5f7-4515-9666-dfc7489e78f7@justfr.b-cdn.net:80?encryption=mlkem768x25519plus.native.0rtt.nhSIR1t1CWYukAuI6cNN2d0JM-25b8yeNVlsDojFFRc&security=none&type=xhttp&path=/&mode=auto&extra={#%40vpn_fortuna
+vless://1ccb5c3d-d5f7-4515-9666-dfc7489e78f7@justfr.b-cdn.net:80?encryption=mlkem768x25519plus.native.0rtt.nhSIR1t1CWYukAuI6cNN2d0JM-25b8yeNVlsDojFFRc&security=none&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%40vpn_fortuna
 vless://1d5b23fc-33fe-421a-bbc8-5ed39185bf23@rubygems.org:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://1d5b23fc-33fe-421a-bbc8-5ed39185bf23@rubygems.org:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://1e995070-8f22-4451-8d60-573ec0b8176e@146.75.57.111:443?encryption=none&type=xhttp&mode=auto&host=turkey-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&path=/fast&extra={#%40vpn_fortuna
@@ -226,6 +227,15 @@ vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@151.101.244.81:80?type=xhttp&encryp
 vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@151.101.244.81:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@fly.dlc-bazigame.ir:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://d8ce911d-107c-41fd-aae0-0d0a1b0f9197@cdn.dominicpv.shop:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir1.immahan.ir:16000?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir1.immahan.ir:16001?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir1.immahan.ir:16003?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir1.immahan.ir:16005?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir2.immahan.ir:16000?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir2.immahan.ir:16002?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir2.immahan.ir:16004?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir2.immahan.ir:16006?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
+vless://da4cf23f-064e-42ea-8e8e-6994048ffbcd@ir2.immahan.ir:16007?encryption=mlkem768x25519plus.native.0rtt.IX2p3RZ4g03KBtMl2O4YyDBl6MjZtveOnICxzZBnChw&security=none&type=xhttp&headerType=none&path=/assets&host=upload.parsabr.com&mode=auto#%40vpn_fortuna
 vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://dca608f0-3365-4723-b132-1f4cf260684a@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna

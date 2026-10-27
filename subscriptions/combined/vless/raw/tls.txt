@@ -1,3 +1,5 @@
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?type=raw&security=tls&fp=firefox&sni=swz.proxyplankton.ru#%40vpn_fortuna
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?security=tls&sni=swz.proxyplankton.ru&type=raw#%40vpn_fortuna
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&type=raw&packetEncoding=xudp&fp=chrome#%40vpn_fortuna
 vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox#%40vpn_fortuna
@@ -7,8 +9,8 @@ vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=s170.gogocs.xyz#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s1243.sspcccdn.xyz:10829?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=u695098ueb8953b4s861.gogocs.xyz#%40vpn_fortuna
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&host=7dae9c0cs220.gogocs.xyz#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&fp=chrome&security=tls&sni=ch.cdn.mynetcloud.online&type=raw#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&security=tls&sni=fi.cdn.mynetcloud.online&type=raw&fp=chrome#%40vpn_fortuna
 vless://439628ee-ef8e-4a3e-ba0f-091b7376dcb8@googol.wookshop.ir:17915?type=raw&security=tls&encryption=none&sni=googol.wookshop.ir&fp=chrome&headerType=none#%40vpn_fortuna
@@ -49,5 +51,14 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?type=raw
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?type=raw&security=tls&fp=chrome&sni=ph001.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?type=raw&security=tls&fp=chrome&sni=sg003.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us001.zestapp778.com:54857?type=raw&security=tls&fp=ios&sni=us001.zestapp778.com#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@176.125.254.9:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=initialcase.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.179:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=softice.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=softice.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=softice.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@45.133.73.113:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=loudarch.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@83.219.97.20:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=initialcase.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@initialcase.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=initialcase.net#%40vpn_fortuna
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=softice.net#%40vpn_fortuna
 vless://f5f293ed-e177-4c91-84df-ccf4c9a3e262@93.114.98.23:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ty7v85hv2391.dx1dx.com#%40vpn_fortuna
 vless://nasnet@57.129.64.102:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2%2Chttp%2F1.1&fp=randomized#%40vpn_fortuna
