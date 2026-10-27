@@ -21,11 +21,10 @@ vless://7060231d-b9ba-495f-a218-bf427940cf3e@15.217.220.144:443?&type=http#%40vp
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.100.47.39:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.101.197.136:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.117.231.96:443?&type=http#%40vpn_fortuna
+vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.159.45.125:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.171.245.198:443?&type=http#%40vpn_fortuna
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.175.147.112:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.213.218.149:443?type=http&insecure=0#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.213.218.149:443?&type=http#%40vpn_fortuna
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.227.13.245:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.124.195.79:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.147.42.150:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.8.150.222:443?&type=http#%40vpn_fortuna
@@ -34,11 +33,12 @@ vless://7060231d-b9ba-495f-a218-bf427940cf3e@34.212.112.62:443?&type=http#%40vpn
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@34.220.149.187:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@34.245.208.137:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@34.253.212.171:443?&type=http#%40vpn_fortuna
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.177.132.123:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.42.86.46:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.90.209.22:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.93.112.83:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@43.203.219.68:443?&type=http#%40vpn_fortuna
+vless://7060231d-b9ba-495f-a218-bf427940cf3e@44.201.37.147:443?security=none&type=http&path=%2F&host=play.googleapis.com&fp=chrome#%40vpn_fortuna
+vless://7060231d-b9ba-495f-a218-bf427940cf3e@44.201.37.147:443?type=http&host=play.googleapis.com#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@44.201.37.147:443?type=http&insecure=0#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@44.201.37.147:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@44.205.20.135:443?&type=http#%40vpn_fortuna
@@ -47,7 +47,6 @@ vless://7060231d-b9ba-495f-a218-bf427940cf3e@52.212.53.0:443?&type=http#%40vpn_f
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@52.31.133.142:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@52.78.30.63:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@54.154.201.249:443?&type=http#%40vpn_fortuna
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@54.180.133.191:443?security=none&type=http&path=%2F&host=play.googleapis.com&fp=chrome#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@54.180.133.191:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@54.78.149.209:443?&type=http#%40vpn_fortuna
 vless://7562048f-6694-43da-a9ba-c80e92808fff@159.69.14.182:2042?security=reality&sni=ftp.debian.org&type=http&host=zula.ir&path=/&fp=random&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6#%40vpn_fortuna
@@ -94,6 +93,8 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjM4LjI0Ni4yMjYuMjQwIiwicG9ydCI6IjUyMDgwIiwiYWlkIjow
 vmess://eyJ2IjoiMiIsImFkZCI6IjQzLjEwOC4xMDMuMTY3IiwicG9ydCI6IjEyMyIsInR5cGUiOiJub25lIiwiaWQiOiIzNWFhMGZkYS0xNzVhLTRhZWMtYzQ2OC0wMjMxZGVlMWExMjEiLCJhaWQiOiIwIiwibmV0IjoiaHR0cCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJhZGQiOiI0My4xMDguMTAzLjE2NyIsImFpZCI6MCwiaG9zdCI6IjQzLjEwOC4xMDMuMTY3IiwiaWQiOiIzNWFhMGZkYS0xNzVhLTRhZWMtYzQ2OC0wMjMxZGVlMWExMjEiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6ZmFsc2UsInR5cGUiOm51bGwsInYiOjIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJhZGQiOiI0My4xMDguMTAzLjE2NyIsImFpZCI6MCwiaWQiOiIzNWFhMGZkYS0xNzVhLTRhZWMtYzQ2OC0wMjMxZGVlMWExMjEiLCJuZXQiOiJodHRwIiwicG9ydCI6IjEyMyIsInNlY3VyaXR5IjoiYXV0byIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
+vmess://eyJ2IjoiMiIsImFkZCI6IjQzLjE1NS4xOTkuMjIiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMzcyMmFkMTYtZjNlMS00NDA2LWIwNGEtOTI5YjUyOWQ4ZTBkIiwiYWlkIjoiMCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
+vmess://eyJ2IjoiMiIsImFkZCI6IjQzLjE1NS4xOTkuMjIiLCJwb3J0IjoiODAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjM3MjJhZDE2LWYzZTEtNDQwNi1iMDRhLTkyOWI1MjlkOGUwZCIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJhZGQiOiI0NS4xMjEuNTEuMTAzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmNjQwNmI2ZC01NDg3LTQ2ZGEtZjc5My00NjYxMTI2OWEzMDYiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiIyMDcxNSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJhZGQiOiI0NS4xNDQuMTc5LjEzOCIsImFpZCI6MCwiaWQiOiI5NmNiZTRhNi01NzI4LTQyZGYtZGM3YS1jZWI5YjUxYTNkYjUiLCJuZXQiOiJodHRwIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ2IjoiMiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJhZGQiOiI0NS44Mi4zMS4xNjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjMzODkiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
@@ -151,7 +152,6 @@ vmess://eyJhZGQiOiI5NC4xMzAuMjUuMTU1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 vmess://eyJhZGQiOiI5Ni40My44Ni40IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIzZmQ2YzA3YS1hOTQ2LTRjM2MtODU2NS0zYmIzNWQwMDk2YzUiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJhZGQiOiI5Ni40My44Ni40IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjhiYWNiNS03NWIyLTRhMTctOWQzMi0zZDc1YjEwMGU2MWUiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJhZGQiOiI5Ni40My44Ni40IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlNjdkMDEwNC05ZGUzLTRhNWEtOTE0MS1iZTY3M2ZiZjA5NGUiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiIxNzEyOSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
-vmess://eyJ2IjoiMiIsImFkZCI6Imd1b2xpY2hlbmcuY2ZkIiwicG9ydCI6IjMzODkiLCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0bHMiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJ2IjoiMiIsImFkZCI6InR1cmtuZXcubmV0LWZsb3dhLmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjZDk2NDc5ZS05YzM5LTRhN2YtYmEwYy04MDZhODNhZjE5Y2EiLCJhaWQiOiIwIiwibmV0IjoiaHR0cCIsInBhdGgiOiIvIiwiaG9zdCI6Imd2dDEuY29tIiwidGxzIjoiIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6InR1cmtuZXcubmV0LWZsb3dhLmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjZDk2NDc5ZS05YzM5LTRhN2YtYmEwYy04MDZhODNhZjE5Y2EiLCJhaWQiOiIwIiwibmV0IjoiaHR0cCIsInBhdGgiOiIvIiwiaG9zdCI6InR1cmtuZXcubmV0LWZsb3dhLmNvbSIsInRscyI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
 vmess://eyJhZGQiOiJ0dXJrbmV3Lm5ldC1mbG93YS5jb20iLCJhaWQiOjAsImFsbG93SW5zZWN1cmUiOiIxIiwiaWQiOiJjZDk2NDc5ZS05YzM5LTRhN2YtYmEwYy04MDZhODNhZjE5Y2EiLCJuZXQiOiJodHRwIiwicG9ydCI6IjgwIiwic2VjdXJpdHkiOiJhdXRvIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
