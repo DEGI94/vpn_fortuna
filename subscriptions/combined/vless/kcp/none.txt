@@ -1,3 +1,6 @@
+vless://9ba4d299-5621-4bd7-ec3b-2ccc695a72a9@91.107.251.34:38387?security=none&encryption=none&seed=rNPMSln0rf&headerType=none&type=kcp#%40vpn_fortuna
 vless://b2c9ced8-7a7b-4bb0-83f7-96e31f1519dd@[::ffff:5fa4:2eeb]:2001?security=none&type=kcp#%40vpn_fortuna
+vless://b8d3105d-e282-45ba-e39d-a0bce821c4b1@91.107.148.117:8443?security=none&encryption=none&seed=L2Ebgtp7HB&headerType=none&type=kcp#%40vpn_fortuna
+vless://ed4aebef-cf86-431d-efae-4b907b05b187@91.107.148.117:32741?security=none&encryption=none&seed=gtEyPkHRTV&headerType=none&type=kcp#%40vpn_fortuna
 vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?type=kcp&encryption=none&flow=#%40vpn_fortuna
 vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880/?type=kcp&encryption=none&flow=#%40vpn_fortuna
