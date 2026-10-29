@@ -1,5 +1,4 @@
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?type=raw&security=tls&fp=firefox&sni=swz.proxyplankton.ru#%40vpn_fortuna
-vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=swz.proxyplankton.ru&type=raw#%40vpn_fortuna
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?type=raw&security=tls&fp=chrome&sni=swz.proxyplankton.ru#%40vpn_fortuna
 vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&type=raw#%40vpn_fortuna
 vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox#%40vpn_fortuna
@@ -8,10 +7,12 @@ vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?alpn=h2&encrypti
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network:20065?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network#%40vpn_fortuna
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=s170.gogocs.xyz#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=s170.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s1243.sspcccdn.xyz:10829?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=u695098ueb8953b4s861.gogocs.xyz#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?flow=xtls-rprx-vision&fp=chrome&host=s170.gogocs.xyz&path=%2F&security=tls&type=raw#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=s170.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?flow=xtls-rprx-vision&fp=chrome&security=tls&type=raw#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&host=7dae9c0cs220.gogocs.xyz&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&host=7dae9c0cs220.gogocs.xyz#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz#%40vpn_fortuna
@@ -24,6 +25,7 @@ vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=non
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=none&type=raw&headerType=none&security=tls#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org&fp=chrome#%40vpn_fortuna
+vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?security=tls&sni=email.apptrendv.com&type=raw#%40vpn_fortuna
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome#%40vpn_fortuna
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%40vpn_fortuna
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443/?type=raw&encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com#%40vpn_fortuna
@@ -45,8 +47,7 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?type=raw&security=tl
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?flow=xtls-rprx-vision&security=tls&sni=ir-new-ded.failspace.top&type=raw#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new-ded.failspace.top:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new-ded.failspace.top&type=raw#%40vpn_fortuna
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-new.failspace.top:443?security=tls&type=raw&packetEncoding=xudp&alpn=h2&sni=poland-new-new.failspace.top&fp=firefox&flow=xtls-rprx-vision#%40vpn_fortuna
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-new.failspace.top:443?alpn=h2&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=poland-new-new.failspace.top&type=raw#%40vpn_fortuna
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-new.failspace.top:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-new.failspace.top#%40vpn_fortuna
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-new.failspace.top:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=poland-new-new.failspace.top&type=raw#%40vpn_fortuna
 vless://d3ad7253-2dbd-42fd-9b07-04caea38de54@cdn-dynmedia.shalana.shop:443?security=tls&type=raw&sni=cdn-dynmedia.shalana.shop&fp=chrome&encryption=none#%40vpn_fortuna
 vless://d95f7357-ea19-4005-b604-00fec089fdbf@static.229.163.46.78.clients.your-server.de:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=static.229.163.46.78.clients.your-server.de#%40vpn_fortuna
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ako.pagate.top&fp=chrome#%40vpn_fortuna
@@ -54,7 +55,7 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?type=raw&securit
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@139.84.145.241:46362?security=tls&type=raw&sni=in002.zestapp778.com&fp=firefox#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.197.220:44559?type=raw&security=tls&fp=firefox&sni=en001.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?type=raw&security=tls&fp=firefox&sni=th001.zestapp778.com#%40vpn_fortuna
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.32.117.217:443?security=tls&type=raw&sni=sg003.zestapp778.com&fp=chrome#%40vpn_fortuna
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.32.117.217:443?fp=chrome&security=tls&sni=sg003.zestapp778.com&type=raw#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.32.117.217:443?type=raw&security=tls&fp=firefox&sni=sg003.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.32.117.217:443?security=tls&sni=sg003.zestapp778.com&type=raw#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.40.28:443?type=raw&security=tls&fp=firefox&sni=sg003.zestapp778.com&packetEncoding=none#%40vpn_fortuna
@@ -77,4 +78,5 @@ vless://ef328563-cda1-4530-9b0a-988cc5a74d78@83.219.97.20:443?type=raw&security=
 vless://ef328563-cda1-4530-9b0a-988cc5a74d78@initialcase.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=initialcase.net#%40vpn_fortuna
 vless://ef328563-cda1-4530-9b0a-988cc5a74d78@loudarch.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=loudarch.net#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?type=raw&security=tls&fp=chrome&sni=w.geogame.ir&ech=AF/+DQBbAAAgACCtCCV2+T2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA==#%40vpn_fortuna
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?type=raw&security=tls&fp=chrome&sni=w.geogame.ir#%40vpn_fortuna
 vless://nasnet@57.129.64.102:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2%2Chttp%2F1.1&fp=randomized#%40vpn_fortuna
