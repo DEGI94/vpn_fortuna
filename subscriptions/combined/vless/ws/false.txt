@@ -33,7 +33,6 @@ vless://38135fde-7044-4407-8faf-e1ab08e47402@188.114.97.6:8080?&security=false&f
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%40vpn_fortuna
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?fp=chrome&host=uae.unixzone.us&path=%2F&security=false&type=ws#%40vpn_fortuna
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%40vpn_fortuna
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=chrome&host=uae.unixzone.us&path=%2F&security=false&type=ws#%40vpn_fortuna
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=chrome&path=%2F&security=false&type=ws#%40vpn_fortuna
 vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@172.64.148.60:8880?type=ws&security=false&path=/pyip=ProxyIP.SG.CMLiussss.net&host=silent-heart-175f.325-a85.workers.dev&sni=www.glassdoor.com&fp=chrome#%40vpn_fortuna
 vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@www.glassdoor.com:8880?type=ws&security=false&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=silent-heart-175f.325-a85.workers.dev&sni=www.glassdoor.com&fp=chrome#%40vpn_fortuna
@@ -130,6 +129,7 @@ vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&security=false
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?fp=chrome&host=95.174.68.188&path=%2Fvless&security=false&type=ws#%40vpn_fortuna
 vless://96e341a7-3077-4613-b482-41bd9c90cc4d@188.114.97.6:8080?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&path=%2FeyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#%40vpn_fortuna
 vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?&security=false&fp=chrome&type=ws&headerType=none&host=Free.nadun.store&path=%2F#%40vpn_fortuna
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?fp=chrome&host=free.nadun.store&path=%2F&security=false&type=ws#%40vpn_fortuna
 vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@172.66.158.115:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=spring-sunset-81e8.322.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40vpn_fortuna
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@104.16.107.139:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip#%40vpn_fortuna
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@188.114.97.6:8080?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip#%40vpn_fortuna
