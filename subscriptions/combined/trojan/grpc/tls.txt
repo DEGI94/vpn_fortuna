@@ -32,7 +32,6 @@ trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?mode=gun&security=tls
 trojan://Pass-Client-1@171.22.119.74:8446?security=tls&allowInsecure=1&type=grpc&serviceName=grpc-video-call#%40vpn_fortuna
 trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&type=grpc&serviceName=grpc-video-call#%40vpn_fortuna
 trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&sni=171.22.119.74&type=grpc#%40vpn_fortuna
-trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&type=grpc#%40vpn_fortuna
 trojan://Pass-Client-1@171.22.119.74:8446?security=tls&type=grpc&serviceName=grpc-video-call#%40vpn_fortuna
 trojan://WaGG8TGpKhcMU-F-e9vrjB7MnUHGPhtt@217.16.17.127:25565?type=grpc&security=tls&fp=firefox&sni=vkc2.safesurf.cloud&alpn=h2,http/1.1#%40vpn_fortuna
 trojan://Z9LNB8WzJa@104.21.15.33:2087/?type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=support.sabapardaziran.ir&fp=chrome#%40vpn_fortuna
