@@ -26,7 +26,6 @@ trojan://FuUaWS3YWG@crunch.floorshoping22.com:2053/?type=grpc&security=tls&sni=C
 trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@chicago.gosgenarchive.com:448?type=grpc&serviceName=TrojanGRPC&mode=gun&security=tls&sni=chicago.gosgenarchive.com&fp=firefox&alpn=h2#%40vpn_fortuna
 trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@kaliningrad.gosgenarchive.com:448?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=kaliningrad.gosgenarchive.com&security=tls&sni=kaliningrad.gosgenarchive.com&fp=firefox&alpn=h2#%40vpn_fortuna
 trojan://Lar3HXz16D@104.21.48.1:443/?type=grpc&security=tls&sni=tabnak.twn24.ir#%40vpn_fortuna
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=1&type=grpc&serviceName=ajv&allowInsecure=1&sni=d3-de2.cloud-cdn.xyz#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz&type=grpc#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?mode=gun&security=tls&alpn=h2&insecure=0&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#%40vpn_fortuna
 trojan://Pass-Client-1@171.22.119.74:8446?security=tls&allowInsecure=1&type=grpc&serviceName=grpc-video-call#%40vpn_fortuna
