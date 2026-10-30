@@ -1,3 +1,1 @@
-vless://29281351-acf2-4b08-9dcc-97de24aed5da@id.artunnel57.host:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=id.artunnel57.host#%40vpn_fortuna
-vless://8099cb0f-d19d-4252-af27-1527c00b64c5@sk.abadanvpn.host:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#%40vpn_fortuna
 vless://cd909bcd-b70a-31e9-9185-8fd5b32b79bf@parsmoviez.live:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=parsmoviez.live#%40vpn_fortuna

@@ -1,14 +1,11 @@
 vless://0c45be70-e001-41e5-b39d-39351fe4a2d7@91.107.147.12:46605?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?&security=false&fp=chrome&type=tcp&headerType=none&host=edge10.cyrionflare.com&path=%2F#%40vpn_fortuna
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?fp=chrome&host=edge10.cyrionflare.com&path=%2F&security=false&type=tcp#%40vpn_fortuna
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@155.117.5.208:8080?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?fp=chrome&host=milo.networkforexir.site&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&host=milo.rubinaz.xyz&path=%2F&security=false&sni=milo.rubinaz.xyz&type=tcp#%40vpn_fortuna
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&host=milo.rubinaz.xyz&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?fp=chrome&host=site.teslamotor.site&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.171.242:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
@@ -29,7 +26,6 @@ vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?fp=chro
 vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@178.83.45.226:10002?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?&security=false&fp=chrome&type=tcp&headerType=none&host=connect.hondamotor.site&path=%2F#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?fp=chrome&host=connect.hondamotor.site&path=%2F&security=false&type=tcp#%40vpn_fortuna
