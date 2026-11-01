@@ -1,3 +1,10 @@
+trojan://948b69750854dbc28a9ec20d947e36c6@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a277670a30a655b9
+trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2059c45e0e618954cd
+trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443/?type=tcp&security=tls&sni=zula.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208970547fb5bfdd58
+trojan://94af0550-902b-11eb-b135-1239d0255272@nl-trojan.bonds.id:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2014338f0f62fdfeab
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?security=tls&sni=std1.loadingip.com&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20470dc3d82946c11c
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2049993c4ca3eb49e0
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209eb1357bc9eadf1e
 trojan://9518fb90-f389-11ef-bc5a-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201cc386fc06548faf
 trojan://9518fb90-f389-11ef-bc5a-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205cd8bf2a36edbcec
 trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443/?type=ws&host=se1.trojanvpn.de&path=...&security=tls&sni=se1.trojanvpn.de#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204fd7969217e673eb
@@ -13,6 +20,7 @@ trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&in
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&sni=43.167.186.78&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200337ef674e61f091
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&sni=43.167.186.78#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205676d1e053d12cea
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a6ba6e3bc305c4d0
+trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&sni=43.167.186.78#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6d688557785df84
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?sni=43.167.186.78#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204b1d271e7740415e
 trojan://96884680-77e6-11eb-8d67-1239d0255272@nl-trojan.bonds.id:443?allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20add7df282efc7b44
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@123.140.124.25:2053/?type=tcp&security=tls&sni=official.seoulcityhall.com.ua&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2052d9cd468407807e
@@ -231,7 +239,6 @@ trojan://Aimer@103.30.76.210:444/?type=tcp&security=tls&sni=ngepo.ambercc.filege
 trojan://Aimer@104.129.166.131:8443/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e45a6e30956da196
 trojan://Aimer@104.129.167.255:8443/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202d16f61540e68182
 trojan://Aimer@104.16.246.132:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a25cd855edb11de5
-trojan://Aimer@104.16.46.133:443?sni=epccv.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d45070629b4cfcbd
 trojan://Aimer@104.17.127.213:443/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208a9b1a86fa634268
 trojan://Aimer@104.19.103.190:2096/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2054adaa6442ab6fcd
 trojan://Aimer@104.19.239.137:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20499fbc808f9f6d96
@@ -491,10 +498,3 @@ trojan://Aimer@91.199.32.191:2053/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.
 trojan://Aimer@92.243.74.115:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202f9340f5f30f9da7
 trojan://Aimer@92.243.74.180:8443/?type=ws&path=%2F&security=tls&sni=tyep.esslh.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f6f7c47851b2cca7
 trojan://Aimer@92.243.74.2:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a16d221331a12e9a
-trojan://Aimer@92.243.74.23:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209969b6df14287351
-trojan://Aimer@92.243.74.239:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20816f7cf8defeb94a
-trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2011fb77351a47409d
-trojan://Aimer@92.53.190.161:2087/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200fd592bc55eb0eb5
-trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208b82a85077e19421
-trojan://Aimer@arvind.ns.cloudflare.com:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2077cc2cf00986fc3e
-trojan://Aimer@bestcf.030101.xyz:443/?type=tcp&security=tls&sni=epccr.ambercc.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2035b7af3d5c3c6067
