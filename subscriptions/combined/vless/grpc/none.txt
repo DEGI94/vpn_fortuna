@@ -24,7 +24,6 @@ vless://170de1f3-6822-4586-a6c5-d11e4521fd83@49.13.168.61:5667?security=none&typ
 vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?type=grpc&security=none&serviceName=#%40vpn_fortuna
 vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?security=none&type=grpc#%40vpn_fortuna
 vless://1dba3505-a42f-4b59-a973-7a19aaf53446@213.182.201.131:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
-vless://2099158e-9d5d-4f10-918c-678f485647fa@213.182.201.96:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%40vpn_fortuna
 vless://20b8144c-3c72-58b5-b46e-735082b9210a@[0:0:0:0:0:ffff:2d59:37bc]:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://20b8144c-3c72-58b5-b46e-735082b9210a@[0:0:0:0:0:ffff:2d59:37bc]:8880?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#%40vpn_fortuna
@@ -53,7 +52,6 @@ vless://38d9aa32-f728-489d-84f9-0e9a76970ce1@157.180.94.33:8880?type=grpc&servic
 vless://3dfe5692-01c3-4834-969d-f20b210e4859@139.59.154.240:443/?type=grpc&encryption=none&flow=#%40vpn_fortuna
 vless://3f654175-4f83-47ec-8ce2-f2bf0d160b27@104.143.223.71:2085?security=none&type=grpc&mode=gun&serviceName=vless&packetEncoding=xudp#%40vpn_fortuna
 vless://418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6@51.75.118.5:20222?security=none&type=grpc&mode=gun&serviceName=parham-confing-grpc&encryption=none#%40vpn_fortuna
-vless://418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6@51.75.118.5:20222?encryption=none&security=none&type=grpc&serviceName=parham-confing-grpc#%40vpn_fortuna
 vless://418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6@51.75.118.5:20222?type=grpc&serviceName=parham-confing-grpc#%40vpn_fortuna
 vless://41fe1f2f-f981-44a5-939f-9b59d15ca955@80.243.228.73:2085?type=grpc&encryption=none&flow=&serviceName=vless#%40vpn_fortuna
 vless://42bf93b6-f23c-4146-acd3-0d85e2d324b0@i1.mosiv2.site:47826/?type=grpc&encryption=none&flow=#%40vpn_fortuna
