@@ -46,6 +46,7 @@ hysteria://64.31.55.72:55661?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbp
 hysteria://64.31.55.72:55661/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=5&downmbps=20&alpn=h3#%40vpn_fortuna
 hysteria://8.217.251.2:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%40vpn_fortuna
 hysteria://8.217.86.232:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%40vpn_fortuna
+hysteria://dongtaiwang.com@137.175.82.43:443?upmbps=20&downmbps=20&security=tls&sni=bing.com&insecure=1&alpn=h3#%40vpn_fortuna
 hysteria://dongtaiwang.com@137.175.82.44:443?upmbps=11&downmbps=55&security=tls&sni=bing.com&insecure=1&alpn=h3#%40vpn_fortuna
 hysteria://dongtaiwang.com@163.172.117.163:36699?upmbps=11&downmbps=55&security=tls&sni=bing.com&insecure=1&alpn=h3#%40vpn_fortuna
 hysteria://dongtaiwang.com@5.83.129.90:54177?upmbps=11&downmbps=55&security=tls&sni=apple.com&insecure=1&alpn=h3#%40vpn_fortuna
