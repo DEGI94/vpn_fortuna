@@ -1,10 +1,3 @@
-trojan://telegram-id-privatevpns@13.48.143.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f99f5b0981404a5f
-trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d16e1f5a0ba27b01
-trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2062c812944688ee32
-trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2066515696c9981692
-trojan://telegram-id-privatevpns@13.48.80.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fed52d11220e5394
-trojan://telegram-id-privatevpns@13.49.169.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20612970c58eb28f88
-trojan://telegram-id-privatevpns@13.49.169.247:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e389fc0fc65c1bd8
 trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2009f99869dbfd2282
 trojan://telegram-id-privatevpns@13.50.143.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20abe33c4332d6876a
 trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205e5d39be26459824
@@ -498,3 +491,10 @@ trojan://vip@www.glassdoor.com:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fe
 trojan://vip@www.gov.se:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e365bbcdf824c3f1
 trojan://vip@www.gov.ua:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f835ae38dd75bc3f
 trojan://vip@www.ipget.net:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207c427181b085eb2b
+trojan://vip@www.iplocation.net:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20419817f59181630b
+trojan://vip@www.pcmag.com:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2066f94c52519a1334
+trojan://vip@www.udacity.com:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202880ab36aa0432a8
+trojan://vip@www.visa.co.jp:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c31b4b8860794a8e
+trojan://vip@www.visa.com.hk:8443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208fd960e34b346e2c
+trojan://vip@www.visa.com.tw:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20977d9abbf804c9b3
+trojan://vip@www.wto.org:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2084a5c3a69750c43a
