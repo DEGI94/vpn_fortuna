@@ -3,7 +3,6 @@ vless://00000000-0000-0000-0000-000000000000@1.1.1.1:443?encryption=none&securit
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?network=tcp&security=tls#%40vpn_fortuna
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%40vpn_fortuna
 vless://00000000-0000-4000-8000-000000000000@115.22.218.151:12195?encryption=none&host=8venkitv0morluet2u.cctg.xx.kg&path=%2F%40Marisa_kristi&security=tls&sni=8venkitv0morluet2u.cctg.xx.kg&type=ws#%40vpn_fortuna
-vless://00000000-0000-4000-8000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%40vpn_fortuna
 vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#%40vpn_fortuna
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40vpn_fortuna
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40vpn_fortuna
@@ -60,7 +59,6 @@ vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443/?type=tcp&encryptio
 vless://00301b65f84df8f7e7e5e7735bcd53d2@69.46.46.71:443?path=/ws/00301b65f84df8f7e7e5e7735bcd53d2&security=tls&alpn=http/1.1&encryption=none&host=net-a3a68d-9dc8b8-production.up.railway.app&fp=chrome&type=ws&sni=net-a3a68d-9dc8b8-production.up.railway.app#%40vpn_fortuna
 vless://003f7c83-f797-4a39-904c-2dcb750a3f93@v.toe.dpdns.org:443?&security=tls&sni=pw.toc.dpdns.org&type=ws&headerType=none&host=pw.toc.dpdns.org&path=%2Fvplaetshs#%40vpn_fortuna
 vless://003f7c83-f797-4a39-904c-2dcb750a3f93@v.toe.dpdns.org:443?sni=pw.toc.dpdns.org&type=ws&host=pw.toc.dpdns.org&path=/vplaetshs&security=tls#%40vpn_fortuna
-vless://003f7c83-f797-4a39-904c-2dcb750a3f93@v.toe.dpdns.org:443?sni=pw.toc.dpdns.org&type=ws&host=pw.toc.dpdns.org&path=/vplaetshssecurity=tls#%40vpn_fortuna
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=siria2.mrpixanos.ir&alpn=h3%2Ch2%2Chttp%2F1.1#%40vpn_fortuna
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=siria2.mrpixanos.ir&alpn=h3%2Ch2%2Chttp%2F1.1#%40vpn_fortuna
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%40vpn_fortuna
@@ -98,3 +96,5 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=no
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
+vless://005b8b13-57a7-4233-ed84-04ba5c367e76@172.67.163.123:443?&security=tls&fp=chrome&sni=free.smelean.ir&type=ws&headerType=none&host=free.smelean.ir&path=%2F#%40vpn_fortuna
+vless://005db34d-76e3-2c87-77d6-3e9f786740a6@fi.zeepo.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&security=reality&pbk=KkGxnE3A4EaG8C7JydHk46UMuCP-Hcpua6lna-TvIAI&sid=eae3d03b0083f7af#%40vpn_fortuna

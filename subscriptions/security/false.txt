@@ -9,7 +9,7 @@ vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?&security=false&fp=
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?fp=chrome&host=ov-germany1.09vpn.com&path=%2Fvless%2F&security=false&type=ws#%40vpn_fortuna
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?fp=chrome&host=178.172.227.124&path=%2Fvless&security=false&type=ws#%40vpn_fortuna
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?&security=false&fp=chrome&type=ws&headerType=none&host=178.172.227.124&path=%2Fvless#%40vpn_fortuna
 vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@104.21.15.212:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2F#%40vpn_fortuna
 vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@188.114.97.6:8080?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40vpn_fortuna
 vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@www.ipget.net:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=morning-silence-7b1b.222-46c.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#%40vpn_fortuna
@@ -74,6 +74,7 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.52.6:2086?&security=false&fp
 vless://48b1d8af-1720-4462-a0ec-de493331ceb3@www.baipiao.eu.org:8880?&security=false&fp=chrome&type=ws&headerType=none&host=square-mountain-1d69.356-977.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40vpn_fortuna
 vless://48b1d8af-1720-4462-a0ec-de493331ceb3@www.baipiao.eu.org:8880?type=ws&security=false&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=square-mountain-1d69.356-977.workers.dev&sni=www.baipiao.eu.org&fp=chrome#%40vpn_fortuna
 vless://4c0b7280-76bb-495c-9c8b-f05712ebf805@188.114.97.6:8080?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=youxuanku.kdns.fr&path=%2F#%40vpn_fortuna
+vless://50414e45-4c5f-5a45-5553-52108a2d5224@104.27.88.172:80?&security=false&fp=chrome&type=ws&headerType=none&host=web-app-nr6wpa.app-tp57xz.workers.dev&path=%2Fapi%2Fws#%40vpn_fortuna
 vless://50414e45-4c5f-5a45-5553-5dd075c8ae9b@104.25.199.149:80?fp=chrome&host=web-app-gjn19f.z0zxy6ehuwgs.workers.dev&path=%2Fapi%2Fws&security=false&type=ws#%40vpn_fortuna
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:8080?&security=false&fp=chrome&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#%40vpn_fortuna
 vless://50d10e6c-37e1-4512-b35a-2d4e0adfd079@0cf703b86ea5a239.RaVEnlO.iR:8080?&security=false&fp=chrome&type=ws&headerType=none&host=0cf703b86ea5a239.RaVEnlO.iR&path=%2F#%40vpn_fortuna
@@ -146,6 +147,7 @@ vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&path
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?fp=chrome&host=45.138.100.248&path=%2Fvless&security=false&type=ws#%40vpn_fortuna
 vless://b2c879ed-08a2-4a79-9c57-37c7db614e96@172.67.174.37:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=sweet-cake-1340.474-288.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40vpn_fortuna
 vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?&security=false&fp=chrome&type=ws&headerType=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40vpn_fortuna
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?&security=false&fp=chrome&type=ws&headerType=none&host=178.172.227.228&path=%2Fvless#%40vpn_fortuna
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?fp=chrome&host=178.172.227.228&path=%2Fvless&security=false&type=ws#%40vpn_fortuna
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://b9ea760d-3200-4d6d-8000-30514ebbce5a@104.26.13.40:8880?security=false&fp=chrome&type=ws&headerType=none&host=aged-pine-d8c4.379.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40vpn_fortuna
@@ -183,7 +185,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.43:8080?fp=chrome&host=h
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.71.187:8080?fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&security=false&type=ws#%40vpn_fortuna
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?fp=chrome&host=sc-thenetherlands2.09vpn.com&path=%2Fvless%2F&security=false&type=ws#%40vpn_fortuna
 vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@104.18.28.234:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=wild-frog-54a9.170-dcc.workers.dev&path=%2Fpyip#%40vpn_fortuna
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@188.114.97.6:8080?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&path=%2Fproxyip%3D167.71.48.187#%40vpn_fortuna
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=weathered-union-5358.101-262.workers.dev&path=%2F#%40vpn_fortuna
 vless://f55a75a7-5aa6-4df7-814a-99da0edb5c86@104.21.55.229:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=autumn-cloud-ab5e.229-601.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40vpn_fortuna
