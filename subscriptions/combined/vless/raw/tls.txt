@@ -34,6 +34,7 @@ vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@papad1.vethilis.ru:443?type=raw&sec
 vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@parad2.vethilis.ru:443?flow=xtls-rprx-vision&type=raw&security=tls&sni=parad2.vethilis.ru&fp=firefox&alpn=h2%2Chttp%2F1.1#%40vpn_fortuna
 vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@parad2.vethilis.ru:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=parad2.vethilis.ru#%40vpn_fortuna
 vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@pont2.vethilis.ru:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=pont2.vethilis.ru#%40vpn_fortuna
+vless://613b64fe-b88d-42db-9d4f-26b8654d4060@91.195.254.172:443?security=tls&type=raw&packetEncoding=xudp&sni=www.slovarik.xyz&fp=firefox&flow=xtls-rprx-vision#%40vpn_fortuna
 vless://613b64fe-b88d-42db-9d4f-26b8654d4060@91.195.254.172:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=www.slovarik.xyz&type=raw#%40vpn_fortuna
 vless://664d2284-e0ad-4de4-9752-a0e12a29840e@45.86.245.75:2443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=xkg82.enterquality.online#%40vpn_fortuna
 vless://664d2284-e0ad-4de4-9752-a0e12a29840e@45.91.94.114:2443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=aus442.enterquality.online#%40vpn_fortuna
@@ -53,6 +54,7 @@ vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@us3.shtil.io:443?type=raw&security=
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome#%40vpn_fortuna
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%40vpn_fortuna
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443/?type=raw&encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com#%40vpn_fortuna
+vless://b95eb0b3-a8dc-41ce-8bc0-888f81731e7c@static.fatcutecat.net:443?fp=chrome&security=tls&type=raw#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?type=raw&security=tls&fp=firefox&sni=node-uk.connectsuite.org&packet-encoding=xudp#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?type=raw&security=tls&fp=firefox&sni=node-uk.connectsuite.org#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encryption=none&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=node-uk.connectsuite.org#%40vpn_fortuna
