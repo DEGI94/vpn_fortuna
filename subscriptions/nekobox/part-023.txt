@@ -1,3 +1,7 @@
+trojan://1a668915-d98f-4440-8bac-2c51d508f811@ddns.200566.xyz:30337?security=tls&headerType=none&fp=random&type=tcp&sni=ddns.200566.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e3d62ff47612834c
+trojan://1ad0aff9c95a0ee59d12b0e2bc905ff4@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201d1a260d15712318
+trojan://1ad0aff9c95a0ee59d12b0e2bc905ff4@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202cabe0b94a16ab3a
+trojan://1ae2e460-1af4-11f0-a5a4-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ef93b229a9efffd1
 trojan://1ae2e460-1af4-11f0-a5a4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200dceb010627f5e98
 trojan://1aef2a80-fd1f-11ef-b537-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ad275ead3bc2e0ca
 trojan://1aef2a80-fd1f-11ef-b537-1239d0255272@uk1.test3.net:443?type=tcp&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c3ecd64340a0e9de
@@ -28,11 +32,6 @@ trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=
 trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?security=tls&sni=corona.jakarta.go.id&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2055682171acc2688e
 trojan://20210200-49c6-11ed-a9ef-1239d0255272@172.67.24.177:443?security=tls&sni=kipi.covid19.go.id&allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207670c000ec6be81e
 trojan://20210200-49c6-11ed-a9ef-1239d0255272@172.67.24.177:443/?type=tcp&security=tls&sni=kipi.covid19.go.id&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d6cce047e4ab872b
-trojan://2034f318-4834-4674-a00b-ea1847b264ed@162.159.140.116:2053?security=tls&sni=17937040643168.206356.xyz&insecure=1&allowInsecure=1&type=ws&host=17937040643404.206356.xyz&path=%2Fdmusicmuaawe#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c77dec80d1072205
-trojan://2034f318-4834-4674-a00b-ea1847b264ed@162.159.140.116:2053?security=tls&sni=17937040645764.168381.xyz&insecure=1&allowInsecure=1&type=ws&host=17937040643722.168381.xyz&path=%2Ftianboephth#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201b1d51e7f89a2b9f
-trojan://2034f318-4834-4674-a00b-ea1847b264ed@162.159.140.116:2053?security=tls&sni=17937040648945.206355.xyz&insecure=1&allowInsecure=1&type=ws&host=17937040646162.206355.xyz&path=%2Fvideomuaawe#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20711d65c71705a0d8
-trojan://2034f318-4834-4674-a00b-ea1847b264ed@162.159.140.116:2083?security=tls&sni=17937040647751.206353.xyz&insecure=1&allowInsecure=1&type=ws&host=17937040642163.206353.xyz&path=%2Fagrbniuh#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204f69582e11005804
-trojan://2034f318-4834-4674-a00b-ea1847b264ed@162.159.140.116:2087?security=tls&sni=17937040642582.206352.xyz&insecure=1&allowInsecure=1&type=ws&host=17937040645234.206352.xyz&path=%2Fagraeabtegrrh#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204d9ee923bbb5a7d9
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%208dba654fb5a39a3c
 trojan://21990300-ceea-11ee-93c8-1239d0255272@172.67.175.6:443/?type=tcp&security=tls&sni=circles.asia#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cf1107838eed20b1
 trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20dd290a26a1e4b5f7
@@ -42,7 +41,7 @@ trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443/?type=tcp&securit
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@172.67.170.51:443/?type=tcp&security=tls&sni=sscDfr5.999182.XyZ#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20606cedb3ac03275d
 trojan://21f23a6ab64758d06316c8184eb6344d@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20425c090390d53400
 trojan://21f23a6ab64758d06316c8184eb6344d@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200f1113a000c01742
-trojan://21fe8584f34486531ca5c3583775f80f@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2081c83708682280fd
+trojan://21fe8584f34486531ca5c3583775f80f@tyy129.magiclampcloud.com:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2081c83708682280fd
 trojan://21fe8584f34486531ca5c3583775f80f@tyy129.magiclampcloud.com:59443?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20544d24279cbc577a
 trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?mode=auto&security=tls&alpn=h2&extra={#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20edbe6cc7bc8518c0
 trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@time.is:8443/?type=ws&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443&security=tls&sni=cm3-bpg.filegear-sg.me#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2016c46000b5f4f58d
@@ -57,7 +56,7 @@ trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.25
 trojan://223c2f69-6b95-4555-9f68-14b14d72b7ea@220.130.58.136:35501/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cd46f0af5b0f4df2
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fe80d3fdbaa5ba1c
 trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169/?type=tcp&security=tls&sni=www.nintendogames.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2072afaeb58b170c2c
-trojan://22905eeb40abd86cf8314faceeefb35d@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20da4457ab9e6575e3
+trojan://22905eeb40abd86cf8314faceeefb35d@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20da4457ab9e6575e3
 trojan://22905eeb40abd86cf8314faceeefb35d@ja262.magiclampcloud.cn:59443?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e5250c4249b0a933
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203a4fc792165fef7f
 trojan://230012981ba34c12fec11deca0379005@54.46.30.217:3743?security=tls&sni=www.nintendogames.net#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2028f33ab567299f43
@@ -74,9 +73,8 @@ trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&sni=ww
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?sni=www.findlocaljobnetworkandbuildcommunityconnections.com&allowInsecure=1&type=tcp&fp=chrome#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c4fab12c9aa312ed
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?allowInsecure=1&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20645b4686e4d4aedf
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?allowInsecure=1&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203a6067ebc7340c97
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20cf2219d2afb7fb79
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207d55ecc44666766c
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20fa64853a0c83ffba
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c6f5d2c370050734
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c91e093f8440e5bd
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206578ca9ef4037d8c
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ef000c21653345f5
@@ -322,8 +320,8 @@ trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.12.31:443/?type=tcp&securit
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443/?type=tcp&security=tls&sni=3y.2032.pp.ua#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d71ab20c26c9aaf9
 trojan://2ggAcGC8hJ@15.204.237.31:2083?sni=USa-vp-31.MeTiKapps.Com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a2a8fad8ce402ad0
 trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d429467ff45025fe
+trojan://3083d270c621275837d5f509c0337c22@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c37c3a4546e12b6d
 trojan://3083d270c621275837d5f509c0337c22@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205fa23996ebfcb175
-trojan://3083d270c621275837d5f509c0337c22@ja304.magiclampcloud.cn:59443?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209a59d40aca330104
 trojan://30f05ba0-9b94-422e-887c-d2d45918a06b@ngzydd.sub-zrj.com:121?sni=streaming.sub-zrj.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d5681715db9a27cf
 trojan://30f05ba0-9b94-422e-887c-d2d45918a06b@ngzydd.sub-zrj.com:222?sni=streaming.sub-zrj.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205d7bf7b877669f56
 trojan://30f05ba0-9b94-422e-887c-d2d45918a06b@ngzydd.sub-zrj.com:321?sni=streaming.sub-zrj.com&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e79accd634e71402
@@ -337,7 +335,6 @@ trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://3169fbd0-c85d-11ef-807b-1239d0255272@51.38.65.155:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a371357da29fa833
 trojan://3169fbd0-c85d-11ef-807b-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=zula.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2047c82df8fce86dc3
 trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20085032ffe95faf03
-trojan://3252f608e796316fbbac3359542f70d9@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2086ca9ebfa1c8cc33
 trojan://3252f608e796316fbbac3359542f70d9@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20633ef0afe6fba439
 trojan://32691370-fd1f-11ef-b261-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20104ee134a9b30bec
 trojan://32691370-fd1f-11ef-b261-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209d00742aaf573dc0
@@ -498,3 +495,6 @@ trojan://3723507166611775488@94.177.131.205:443?security=tls&sni=unbiased-manate
 trojan://3723507166611775488@94.177.131.205:443?sni=unbiased-manatee.boa152.lol#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c55b84bcec2e3e79
 trojan://3723507166611775488@94.177.131.205:443/?type=tcp&security=tls&sni=unbiased-manatee.boa152.lol&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a8067fae2ce985cc
 trojan://3723507166611775488@94.177.131.44:443/?type=tcp&security=tls&sni=relative-monkey.boa152.lol&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20ff419f9f856fa447
+trojan://3723507166611775488@94.237.65.26:443?sni=profound-shiner.boa152.lol&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2069ad12a2e4f1dbfb
+trojan://3723507166611775488@94.237.65.26:443?sni=profound-shiner.boa152.lol#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20e576ca9d7e13cd0c
+trojan://3723507166611775488@95.111.192.196:443?sni=major-reindeer.boa152.lol&allowInsecure=0#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c5ac58f6a95310bb
