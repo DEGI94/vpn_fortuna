@@ -17,5 +17,6 @@ vless://94e31e3d-3b84-4a05-9caa-b71926043084@104.16.5.189:2087/?type=splithttp&e
 vless://94e31e3d-3b84-4a05-9caa-b71926043084@104.16.6.189:2087?type=splithttp&encryption=none&flow=&security=tls&sni=tyop.nim-kafe.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40vpn_fortuna
 vless://94e31e3d-3b84-4a05-9caa-b71926043084@104.16.6.189:2087?security=tls&sni=tyop.nim-kafe.xyz&type=splithttp&host=tyop.nim-kafe.xyz&path=%2Fpark&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%40vpn_fortuna
 vless://94e31e3d-3b84-4a05-9caa-b71926043084@104.16.6.189:2087/?type=splithttp&encryption=none&flow=&security=tls&sni=tyop.nim-kafe.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40vpn_fortuna
+vless://de9887c4-2d87-41b5-afa5-7a423f85fac7@185.146.173.52:443?path=%2Fmelo%3Fe&security=tls&alpn=h3&encryption=none&host=chat.black-melo.store&fp=chrome&type=splithttp&sni=chat.black-melo.store#%40vpn_fortuna
 vless://f57a47bc-e618-45da-dc5f-5a2baf35b8d3@185.146.173.39:443?type=splithttp&encryption=none&flow=&security=tls&sni=chde.black-melo.store#%40vpn_fortuna
 vless://f57a47bc-e618-45da-dc5f-5a2baf35b8d3@185.146.173.39:443/?type=splithttp&encryption=none&flow=&security=tls&sni=chde.black-melo.store#%40vpn_fortuna
