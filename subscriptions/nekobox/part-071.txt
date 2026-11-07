@@ -1,12 +1,3 @@
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.14:80/?type=ws&encryption=none&flow=&path=%2Fvless-ws%2F&security=tls&sni=edge.validbv3528.ir#%40vpn_fortuna%20%7C%20VLESS%20%7C%207d832d3e480cee39
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.147:80?type=ws&encryption=none&flow=&host=edge.validbv3528.ir&path=%2Fvless-ws%2F%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayja1%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20VLESS%20%7C%20be4977dc050ef1dd
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.147:80/?type=ws&encryption=none&flow=&host=edge.validbv3528.ir&path=%2Fvless-ws%2F%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayja1%2F%3Fed%3D2560#%40vpn_fortuna%20%7C%20VLESS%20%7C%20017beaecf6d22fd8
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?type=ws&encryption=none&flow=&host=edge.validbv3528.ir#%40vpn_fortuna%20%7C%20VLESS%20%7C%20109f4b5d0ccc35d7
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80/?type=ws&encryption=none&flow=&host=edge.validbv3528.ir#%40vpn_fortuna%20%7C%20VLESS%20%7C%20a6ff677f906f602b
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.46:80?type=ws&encryption=none&flow=&host=edge.validbv3528.ir&path=%2Fvless-ws#%40vpn_fortuna%20%7C%20VLESS%20%7C%20253074de707c29ef
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.46:80/?type=ws&encryption=none&flow=&host=edge.validbv3528.ir&path=%2Fvless-ws#%40vpn_fortuna%20%7C%20VLESS%20%7C%20eff0a854e90b9510
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.9:80?type=ws&encryption=none&flow=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20524c1380ed5ac687
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.9:80/?type=ws&encryption=none&flow=#%40vpn_fortuna%20%7C%20VLESS%20%7C%206720e751d8bf6c08
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.100.124:80?type=ws&encryption=none&flow=&host=edge.validbv3528.ir#%40vpn_fortuna%20%7C%20VLESS%20%7C%20c49c66480a2e78bc
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.100.124:80/?type=ws&encryption=none&flow=&host=edge.validbv3528.ir#%40vpn_fortuna%20%7C%20VLESS%20%7C%206acb8709d3859d94
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.10:80?type=ws&encryption=none&flow=&host=edge.validbv3528.ir&path=%2Fvless-wsfp%3Dchrome#%40vpn_fortuna%20%7C%20VLESS%20%7C%209c4b740c03eeb276
@@ -498,3 +489,12 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.157.50:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.227:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20a3e23b56cdb5fba6
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.254:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20ab62e1dce0ffb0b0
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.51:80?type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%200e490a8bd37c063e
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.98:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20eb912d2cadd70844
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.20:80?&security=tls&sni=us3.rtacg.com&type=ws&headerType=none&host=us3.rtacg.com&path=%2F#%40vpn_fortuna%20%7C%20VLESS%20%7C%2072fe53c6ab769c14
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.236:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20cdd9283596566973
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.239:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20fbae7703321a4518
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.239:80/?type=ws&encryption=none&flow=&host=us3.rtacg.com&path=%2F#%40vpn_fortuna%20%7C%20VLESS%20%7C%200e40a16928928532
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.53:80?type=ws&encryption=none&flow=&host=us3.rtacg.com&path=%2F#%40vpn_fortuna%20%7C%20VLESS%20%7C%20dbe1dcd55e006c2e
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.53:80/?type=ws&encryption=none&flow=&host=us3.rtacg.com&path=%2F#%40vpn_fortuna%20%7C%20VLESS%20%7C%20782722be79a0397b
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.61:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%201dcd13023261e1ba
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.89:80?security=none&type=ws&host=us3.rtacg.com&path=#%40vpn_fortuna%20%7C%20VLESS%20%7C%20f857de6b52e319dc
