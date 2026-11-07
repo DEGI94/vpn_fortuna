@@ -25,7 +25,6 @@ vless://170de1f3-6822-4586-a6c5-d11e4521fd83@49.13.168.61:5667?security=none&typ
 vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?type=grpc&security=none&serviceName=#%40vpn_fortuna
 vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?security=none&type=grpc#%40vpn_fortuna
 vless://1dba3505-a42f-4b59-a973-7a19aaf53446@213.182.201.131:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
-vless://1e65c1d0-fcc9-4c8e-8bbc-a132620b83f4@93.190.9.23:3090?mode=gun&security=&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#%40vpn_fortuna
 vless://20b8144c-3c72-58b5-b46e-735082b9210a@[0:0:0:0:0:ffff:2d59:37bc]:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://20b8144c-3c72-58b5-b46e-735082b9210a@[0:0:0:0:0:ffff:2d59:37bc]:8880?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#%40vpn_fortuna
@@ -108,6 +107,7 @@ vless://841e714d-e2ed-4814-a8dd-95211b63adaf@tls.suoagrtadreimrau.space:8080?typ
 vless://84573931-e442-4181-8473-a0892dfa12a5@104.143.219.92:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
 vless://87d29644-5273-404a-a2f0-ce1e5fc21464@151.101.3.8:80?type=grpc&serviceName=Telegram#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%40vpn_fortuna
+vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?encryption=none&security=none&serviceName=vless&type=grpc#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&serviceName=#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&serviceName=vless#%40vpn_fortuna

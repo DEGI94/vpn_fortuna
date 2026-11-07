@@ -217,11 +217,12 @@ vless://25efe909-c51a-4561-8e4b-3a765d2387f7@iranserver.com:2083?security=tls&ty
 vless://26e12893-0109-4ebf-a9c2-792fcc759656@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#%40vpn_fortuna
 vless://27056121-4d93-4dfa-839a-588dfdd259e0@172.67.163.123:2053?security=tls&sni=new1.alpha5.top&type=grpc&serviceName=@V2ray_Alpha%20@V2ray_Alpha%20@V2ray_Alpha&encryption=none#%40vpn_fortuna
 vless://2725d136-d620-4687-9752-be65774f2914@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Freehomesvpn&sni=fragment.mzolfaghari.homes#%40vpn_fortuna
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?alpn=h2&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&type=grpc&fp=chrome#%40vpn_fortuna
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?alpn=h2&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&type=grpc&fp=ios#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-133.mirra.now&mode=gun&serviceName=VideoRenderer#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-133.mirra.now&serviceName=VideoRenderer#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.242.232:443?encryption=none&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-1-881.mirra.now&type=grpc&fp=chrome#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@85.198.83.46:443?sni=renderer-bridge-1-881.mirra.now&type=grpc&serviceName=VideoRenderer&fp=chrome&security=tls#%40vpn_fortuna
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@89.169.47.96:443?encryption=none&security=tls&type=grpc&serviceName=VideoRenderer&mode=gun&sni=renderer-bridge-2-129.mirra.now&fp=chrome#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@89.169.47.96:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-129.mirra.now&serviceName=VideoRenderer#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-1-881.mirra.now:443?security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=VideoRenderer&allowInsecure=0&sni=renderer-bridge-1-881.mirra.now#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-1-881.mirra.now:443?fp=firefox&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-1-881.mirra.now&type=grpc#%40vpn_fortuna
@@ -229,8 +230,10 @@ vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-129.mirra.now:443
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-129.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-129.mirra.now&security=tls&fp=firefox&alpn=h2#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-129.mirra.now:443?sni=renderer-bridge-2-129.mirra.now&alpn=h2&type=grpc&serviceName=VideoRenderer&fp=firefox&security=tls#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-129.mirra.now:443?security=tls&sni=renderer-bridge-2-129.mirra.now&fp=firefox&type=grpc#%40vpn_fortuna
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&serviceName=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&fp=chrome#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&security=tls&fp=chrome&alpn=h2#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&security=tls&fp=firefox&alpn=h2#%40vpn_fortuna
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&security=tls&fp=chrome&sni=renderer-bridge-2-133.mirra.now&serviceName=VideoRenderer#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-133.mirra.now&mode=gun&serviceName=VideoRenderer#%40vpn_fortuna
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@renderer-bridge-2-133.mirra.now:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-133.mirra.now&path=VideoRenderer&serviceName=VideoRenderer#%40vpn_fortuna
 vless://2819727d-36ae-4629-b35f-f4f066150086@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=fe.XsV2ray.cfd&type=grpc#%40vpn_fortuna
@@ -553,7 +556,6 @@ vless://6ee1b0f6-845a-454c-a5db-7b0f6bbb3852@188.164.159.69:2053?encryption=none
 vless://6fbddbd0-6995-4d73-b367-30760d1cefb0@172.66.213.43:443?type=grpc&encryption=none&flow=&security=tls&sni=TvotEd.SPaCe&alpn=h2&fp=chrome#%40vpn_fortuna
 vless://6fbddbd0-6995-4d73-b367-30760d1cefb0@172.66.213.43:443?security=tls&sni=TvotEd.SPaCe&type=grpc&fp=chrome#%40vpn_fortuna
 vless://6fbddbd0-6995-4d73-b367-30760d1cefb0@172.66.213.43:443/?type=grpc&encryption=none&flow=&security=tls&sni=TvotEd.SPaCe&alpn=h2&fp=chrome#%40vpn_fortuna
-vless://707e61c5-5c37-4183-ace4-e63e10c9f918@147.45.126.220:443?security=tls&type=grpc&mode=gun&serviceName=assets&packetEncoding=xudp&sni=pol.qikbro.com&fp=firefox&encryption=none#%40vpn_fortuna
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2083?encryption=none&security=tls&serviceName=grpc&sni=usejh2.neobo-tooth.ru&type=grpc#%40vpn_fortuna
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#%40vpn_fortuna
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?encryption=none&security=tls&serviceName=grpc&sni=laoye.in-gect.fun&type=grpc#%40vpn_fortuna
@@ -567,6 +569,7 @@ vless://74ea5905-0f26-4261-986c-0717ed34815d@dl.magnataur.uk:12344?security=tls&
 vless://75035d9c-d1df-4169-86d8-b65c1f697db4@104.21.3.52:443?security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&encryption=none#%40vpn_fortuna
 vless://75035d9c-d1df-4169-86d8-b65c1f697db4@172.67.130.66:443?security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&encryption=none#%40vpn_fortuna
 vless://75035d9c-d1df-4169-86d8-b65c1f697db4@speedtest.org:443?security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&encryption=none#%40vpn_fortuna
+vless://7585e2a8-42a5-45b2-b706-3189938f90d0@189.74.118.9:443?security=tls&sni=api.mediapolden.cc&alpn=h2&type=grpc&serviceName=r7Kp4mN9tQ2v&mode=gun&fp=android#%40vpn_fortuna
 vless://7585e2a8-42a5-45b2-b706-3189938f90d0@189.74.118.9:443?type=grpc&security=tls&fp=qq&sni=api.mediapolden.cc&mode=gun&serviceName=r7Kp4mN9tQ2v#%40vpn_fortuna
 vless://7585e2a8-42a5-45b2-b706-3189938f90d0@189.74.118.9:443?type=grpc&security=tls&fp=qq&sni=api.mediapolden.cc&serviceName=r7Kp4mN9tQ2v#%40vpn_fortuna
 vless://75900d69-789a-4aa5-afde-3b21cbb19bb5@172.67.188.6:2087?type=grpc&encryption=none&flow=&serviceName=2087vless&security=tls&sni=pen.booksh.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40vpn_fortuna
@@ -663,6 +666,7 @@ vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.221.243:443?encryption=none&ty
 vless://8a812634-eebb-4aab-998c-311cd14ad745@104.24.177.7:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=%40LIGHTNING6%2C#%40vpn_fortuna
 vless://8a812634-eebb-4aab-998c-311cd14ad745@198.41.202.5:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=%40LIGHTNING6%2C#%40vpn_fortuna
 vless://8b88bb74-fd28-4aa9-9465-b1d7bfeb3d9d@147.45.126.220:443?encryption=none&security=tls&type=grpc&serviceName=assets&mode=gun&sni=pol.qikbro.com&fp=chrome#%40vpn_fortuna
+vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?security=tls&type=grpc#%40vpn_fortuna
 vless://8befab3c-e2c7-48e5-8690-6b4b334a7f73@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#%40vpn_fortuna
 vless://8c24cd24-39dd-4eca-a9f5-63c4f05f47a4@zula.ir:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=VPNHOMES&sni=fragment2.karop.homes#%40vpn_fortuna
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@158.51.99.69:443/?type=grpc&encryption=none&serviceName=ssp&security=tls&sni=u708330u85f7s394.ccgfw.top&fp=ios#%40vpn_fortuna
@@ -685,14 +689,10 @@ vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@185.135.9.6:443?type=grpc&encryptio
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@185.135.9.6:443/?type=grpc&encryption=none&flow=&serviceName=BuT9Wfa6u5bLQUgA9&security=tls&sni=noodturk.parsianboton.ir#%40vpn_fortuna
 vless://8d638152-1dd5-4e2d-832e-9d1162c77aec@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#%40vpn_fortuna
 vless://8e6a6ac9-6736-403e-a75d-5c073ebba7aa@159.69.50.87:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=random&type=grpc&serviceName=grpc&sni=www.speedtest.net.bigbyte.cloud#%40vpn_fortuna
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@129.101.100.4:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=falmero.store&type=grpc&fp=chrome#%40vpn_fortuna
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@129.101.100.4:443?type=grpc&security=tls&fp=qq&sni=falmero.store&mode=gun&serviceName=glush.de1.v1#%40vpn_fortuna
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=falmero.store&type=grpc&fp=chrome#%40vpn_fortuna
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?&security=tls&fp=firefox&alpn=h2&sni=falmero.store&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?sni=falmero.store&alpn=h2&type=grpc&serviceName=glush.de1.v1&fp=firefox&security=tls#%40vpn_fortuna
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?type=grpc&security=tls&fp=firefox&sni=falmero.store&mode=gun&serviceName=glush.de1.v1#%40vpn_fortuna
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?type=grpc&security=tls&fp=firefox&sni=falmero.store&serviceName=glush.de1.v1#%40vpn_fortuna
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?security=tls&sni=falmero.store&fp=firefox&type=grpc#%40vpn_fortuna
 vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?sni=www.hp.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%40vpn_fortuna
 vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@200.169.181.164:443?security=tls&sni=renderer-bridge-2-114.mirra.now&fp=random&type=grpc&serviceName=VideoRenderer#%40vpn_fortuna
 vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-114.mirra.now&security=tls&fp=chrome&alpn=h2#%40vpn_fortuna
@@ -733,11 +733,9 @@ vless://973942c1-c029-49b6-8786-a23dd9533592@188.164.159.178:2053?encryption=non
 vless://97be46fc-0356-4594-858b-d36fc90bf413@185.146.173.185:2053?security=tls&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&alpn=h2%2Chttp%2F1.1#%40vpn_fortuna
 vless://97be46fc-0356-4594-858b-d36fc90bf413@185.146.173.185:2053?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#%40vpn_fortuna
 vless://9804b42c-b7d8-49ac-94a6-3be39ac8af74@49.13.72.146:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=top.royadldl.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=top.royadldl.ir#%40vpn_fortuna
-vless://989d4512-b4fa-4f83-aff1-affbb906f4c7@147.45.126.220:443?security=tls&type=grpc&mode=gun&serviceName=assets&packetEncoding=xudp&sni=pol.qikbro.com&fp=firefox&encryption=none#%40vpn_fortuna
 vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@gateway.mediacorphub.org:443?sni=gateway.mediacorphub.org&type=grpc&serviceName=home.v1.ObjectService&fp=chrome&security=tls#%40vpn_fortuna
 vless://99a162c0-c303-497f-93b3-9bac02616d70@zula.ir:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=VPNHOMES&sni=fragment2.karop.homes#%40vpn_fortuna
 vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#%40vpn_fortuna
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?sni=36a466g.fi1.h1clayd.click&type=grpc&serviceName=0adb9638509b&fp=ios&security=tls#%40vpn_fortuna
 vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?type=grpc&security=tls&serviceName=kobedin-server1-vless&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2&encryption=none#%40vpn_fortuna
 vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?sni=45-149-147-213.sslip.io&alpn=h2&type=grpc&serviceName=kobedin-server1-vless&fp=chrome&security=tls#%40vpn_fortuna
 vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45.149.147.213:4443?type=grpc&security=tls&fp=firefox&sni=45-149-147-213.sslip.io&serviceName=kobedin-server1-vless&encryption=none#%40vpn_fortuna
@@ -784,6 +782,7 @@ vless://Telegram-channel-proxy_mtm@mmd.1.dragonspeed.ir:2087?mode=gun&security=t
 vless://a00e3e46-f0c2-4e54-b747-037d715d32c0@188.114.99.99:2096/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=http/1.1&sni=tarasvalete.parhamtraberthos.IR.#%40vpn_fortuna
 vless://a00e3e46-f0c2-4e54-b747-037d715d32c0@188.114.99.99:2096/?type=grpc&security=tls&fp=chrome&alpn=http/1.1&sni=tarasvalete.parhamtraberthos.IR.#%40vpn_fortuna
 vless://a292fd7d-d4ab-4441-aae3-69784202b321@200.169.184.140:443?encryption=none&security=tls&type=grpc&serviceName=glush.de1.v1&mode=gun&sni=basterdym.asia&fp=chrome#%40vpn_fortuna
+vless://a292fd7d-d4ab-4441-aae3-69784202b321@200.169.184.140:443?encryption=none&security=tls&type=grpc&serviceName=glush.de1.v1&mode=gun&sni=basterdym.asia&fp=firefox#%40vpn_fortuna
 vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.253.180:8444?sni=github.com&type=grpc&serviceName=GunService&fp=firefox&security=tls#%40vpn_fortuna
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?sni=github.com&type=grpc&serviceName=GunService&fp=safari&security=tls#%40vpn_fortuna
 vless://a400f639-6b9d-4bb4-a05b-aac7514aaa69@ippscan5.kazoodle.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=nl1.vless.site&fp=chrome&type=grpc&serviceName=vless-grpc&sni=nl1.vless.site#%40vpn_fortuna
@@ -857,13 +856,10 @@ vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.18.7.215:2087?type=grpc&encrypt
 vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.18.7.215:2087/?type=grpc&encryption=none&flow=&security=tls&sni=smart.trainofy.info#%40vpn_fortuna
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@62.233.39.9:8443?sni=dl.dell.com&type=grpc&serviceName=TunService&fp=chrome&security=tls#%40vpn_fortuna
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?encryption=none&fp=chrome&security=tls&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io&type=grpc#%40vpn_fortuna
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?encryption=none&security=tls&type=grpc&serviceName=138-124-86-230-sslip-io&mode=gun&sni=138-124-86-230.sslip.io&fp=firefox#%40vpn_fortuna
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?encryption=none&fp=firefox&security=tls&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io&type=grpc#%40vpn_fortuna
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=chrome&security=tls#%40vpn_fortuna
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#%40vpn_fortuna
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&sni=138-124-86-230.sslip.io&fp=firefox&type=grpc#%40vpn_fortuna
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io&type=grpc#%40vpn_fortuna
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115/?type=grpc&encryption=none&flow=&serviceName=138-124-86-230-sslip-io&security=tls&sni=138-124-86-230.sslip.io&fp=chrome#%40vpn_fortuna
 vless://b36553b3-35dc-47ae-9d1c-b8980d436180@104.143.219.19:3090?&security=tls&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://b36d2e19-d7e6-40e8-c93e-1d7b6bd90241@45.85.119.120:2083?type=grpc&encryption=none&flow=&security=tls&sni=Hn.jack7564.xyz#%40vpn_fortuna
@@ -921,7 +917,7 @@ vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@87.242.117.59:443?alpn=h2&fp=qq&sec
 vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@87.242.117.59:443?&security=tls&fp=chrome&sni=se1.my-cdn.org&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@de14.my-cdn.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=hls-vod.iJxGWWENB3HP4nTjN8IcrA.1790085537.2512.0x5000039ce83a2b8d.2ac8ad72028049619c2fb844a825a.ca.mp4.segment-20-v1-a1.ts&allowInsecure=0&sni=de14.my-cdn.org#%40vpn_fortuna
 vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@de14.my-cdn.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=hls-vod.iJxGWWENB3HP4nTjN8IcrA.1790085537.2512.0x5000039ce83a2b8d.2ac8ad72028049619c2fb844a825a.ca.mp4.segment-20-v1-a1.ts&allowInsecure=0&sni=de14.my-cdn.org#%40vpn_fortuna
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?allowInsecure=1&alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=sync.v1&sni=a20uq2ozhd.j.cloudfront.hls.edgehls.net&type=grpc#%40vpn_fortuna
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?allowInsecure=1&alpn=h2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=sync.v1&sni=a20uq2ozhd.j.cloudfront.hls.edgehls.net&type=grpc#%40vpn_fortuna
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?type=grpc&security=tls&fp=safari&sni=a20uq2ozhd.j.cloudfront.hls.edgehls.net&mode=multi&serviceName=sync.v1#%40vpn_fortuna
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?type=grpc&security=tls&fp=safari&sni=ekkgkmfqm9.j.cloudfront.hls.edgehls.net&mode=multi&serviceName=sync.v1#%40vpn_fortuna
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?type=grpc&security=tls&fp=safari&sni=fgvqz26cf9.j.cloudfront.hls.vodcdn-edge.net&mode=multi&serviceName=sync.v1#%40vpn_fortuna
@@ -964,6 +960,7 @@ vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?type=grpc&securi
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?type=grpc&security=tls&fp=safari&sni=xa69h5ofn2.j.cloudfront.hls.edgehls.net&mode=multi&serviceName=sync.v1#%40vpn_fortuna
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc&serviceName=&fp=safari&security=tls#%40vpn_fortuna
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc&serviceName=sync.v1&fp=safari&security=tls#%40vpn_fortuna
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?security=tls&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&fp=safari&type=grpc#%40vpn_fortuna
 vless://c484dabb-c4c3-4934-8610-946d22dbe0a6@185.146.173.185:2053?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#%40vpn_fortuna
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#%40vpn_fortuna
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#%40vpn_fortuna
@@ -985,8 +982,6 @@ vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=random&securit
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=random&security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc#%40vpn_fortuna
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&security=tls&sni=xsru1.ddnsfree.com&fp=chrome&type=grpc&serviceName=grpc-ru&mode=gun#%40vpn_fortuna
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&type=grpc&serviceName=grpc-ru&security=tls&fp=random&sni=xsru1.ddnsfree.com#%40vpn_fortuna
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=&fp=random&security=tls#%40vpn_fortuna
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%40vpn_fortuna
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?security=tls&sni=xsru1.ddnsfree.com&fp=random&type=grpc#%40vpn_fortuna
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc#%40vpn_fortuna
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?&security=tls&fp=chrome&sni=xssite.webredirect.org&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
@@ -1079,7 +1074,6 @@ vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.221.243:443?&security=tls&sni=
 vless://d25e5f60-86c0-4cc5-a1d2-b3c5a1ab304d@31.22.116.216:2087?security=tls&sni=iugfkhgkkkkkkkkkkj.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&encryption=none#%40vpn_fortuna
 vless://d30968d1-d724-45ac-a85d-56291e879d71@147.45.126.220:443?encryption=none&security=tls&type=grpc&serviceName=assets&mode=gun&sni=pol.qikbro.com&fp=chrome#%40vpn_fortuna
 vless://d351e6aa-51fd-4aba-831d-5e511499ef93@usrna.osaip.net:15055/?type=grpc&encryption=none&serviceName=violet&security=tls&fp=chrome#%40vpn_fortuna
-vless://d391bfa5-37e6-457b-84cb-020c9500bccd@147.45.126.220:443?security=tls&type=grpc&mode=gun&serviceName=assets&packetEncoding=xudp&sni=pol.qikbro.com&fp=firefox&encryption=none#%40vpn_fortuna
 vless://d6620e67-a94d-492a-bc94-b6f032c52bf0@185.146.173.185:2053?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#%40vpn_fortuna
 vless://d6620e67-a94d-492a-bc94-b6f032c52bf0@185.146.173.185:2053?security=tls&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&alpn=h3,h2,http/1.1#%40vpn_fortuna
 vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#%40vpn_fortuna
@@ -1093,7 +1087,7 @@ vless://d78da814-b45c-4842-98bb-66c8cd33a88a@188.114.97.0:443?mode=gun&security=
 vless://d78da814-b45c-4842-98bb-66c8cd33a88a@188.114.97.0:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#%40vpn_fortuna
 vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@45.129.176.34:8443?sni=avatars.mds.yandex.net&type=grpc&serviceName=grpc-yandex&fp=firefox&security=tls#%40vpn_fortuna
 vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?encryption=none&security=tls&sni=host-de-upscale.cdn.cachefleet.com&fp=chrome&type=grpc&authority=&serviceName=a9w9wmko0k2od14hv8v&mode=gun#%40vpn_fortuna
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?type=grpc&serviceName=a9w9wmko0k2od14hv8v&security=tls&sni=host-de-upscale.cdn.cachefleet.com&fp=chrome#%40vpn_fortuna
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?sni=host-de-upscale.cdn.cachefleet.com&type=grpc&serviceName=a9w9wmko0k2od14hv8v&fp=chrome&security=tls#%40vpn_fortuna
 vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.20:443?sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&type=grpc&serviceName=67h2o3erm0t9imsj&fp=firefox&security=tls#%40vpn_fortuna
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#%40vpn_fortuna
 vless://da51b3b3-c04a-408a-8426-62ec1711bcb9@104.21.7.235:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&sni=finland.kanal-tel-nufilter.site#%40vpn_fortuna
@@ -1133,7 +1127,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%40vpn_fortuna
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%40vpn_fortuna
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%40vpn_fortuna
-vless://e667f5c7-6b38-48ef-ab89-40519713afb0@bs.90909.club:2096?&security=tls&fp=firefox&sni=id.vk.com&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://e66a4642-52fd-464c-8019-70bb3a26156f@www.speedtest.net:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=www.felafel.org#%40vpn_fortuna
 vless://e730ea3f-01e9-4dce-8817-e206c14b9467@198.41.200.146:8443?security=tls&sni=mtn-mci-vipv2rey.mamare.ir&alpn=h2,http/1.1&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey@vipv2rey@vipv2rey@vipv2rey&encryption=none#%40vpn_fortuna
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?type=grpc&encryption=none&flow=&security=tls&sni=vbox.ping-box.com&alpn=h2%2Chttp%2F1.1#%40vpn_fortuna
@@ -1230,6 +1223,8 @@ vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?type=grpc&encryp
 vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#%40vpn_fortuna
 vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053/?type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&authority=&security=tls&fp=chrome&alpn=http/1.1&sni=kanon.parhamtraberthos.IR.#%40vpn_fortuna
 vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053/?type=grpc&serviceName=https%3A//t.me/new_proxy_channel-%40new_proxy_channel&security=tls&fp=chrome&alpn=http/1.1&sni=kanon.parhamtraberthos.IR.#%40vpn_fortuna
+vless://fdd5967a-cb62-41ea-8365-ac889674d7bb@147.45.126.220:443?encryption=none&security=tls&type=grpc&serviceName=assets&mode=gun&sni=pol.qikbro.com&fp=chrome#%40vpn_fortuna
+vless://fdd5967a-cb62-41ea-8365-ac889674d7bb@147.45.126.220:443?encryption=none&security=tls&type=grpc&serviceName=assets&mode=gun&sni=pol.qikbro.com&fp=firefox#%40vpn_fortuna
 vless://fe0425e1-7b5f-446f-b1ac-de6e21a59717@173.245.58.110:2053?security=tls&sni=ligliyglyugliygghy.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome&type=grpc&serviceName=Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-&encryption=none#%40vpn_fortuna
 vless://ff017253-3592-4591-9bd1-e55476cf8a64@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#%40vpn_fortuna
 vless://ff0e8bb5-8b54-4102-9ac4-2fa8bce09dab@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#%40vpn_fortuna
