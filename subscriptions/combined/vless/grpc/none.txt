@@ -27,6 +27,7 @@ vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?security=none&type
 vless://1dba3505-a42f-4b59-a973-7a19aaf53446@213.182.201.131:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
 vless://20b8144c-3c72-58b5-b46e-735082b9210a@[0:0:0:0:0:ffff:2d59:37bc]:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://20b8144c-3c72-58b5-b46e-735082b9210a@[0:0:0:0:0:ffff:2d59:37bc]:8880?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
+vless://20e50297-c772-501a-aa02-b97de0131973@[::ffff:74.119.193.177]:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#%40vpn_fortuna
 vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#%40vpn_fortuna
 vless://2354edf8-4d7f-445a-9454-cc8524ba5f0f@land.mobicall.ir:42370?type=grpc&serviceName=@vpn_land_official@vpn_land_official@vpn_land_official&authority=&security=none#%40vpn_fortuna
@@ -91,7 +92,6 @@ vless://72936223-46ff-5e16-be53-77f9261d938a@[0:0:0:0:0:ffff:5fa4:2e27]:2052?mod
 vless://72936223-46ff-5e16-be53-77f9261d938a@[0:0:0:0:0:ffff:5fa4:2e27]:2052?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://7338a824-7335-486b-b05c-8d8962239350@194.182.79.218:19608?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&mode=gun#%40vpn_fortuna
 vless://7536801d-8b86-4063-8ea4-107350dcbfd5@157.180.94.33:8880?type=grpc&serviceName=@cephalon_ai_bot&authority=@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala&security=none#%40vpn_fortuna
-vless://7a81a82d-9040-4c41-9b7e-ace77350e879@checklist.harmira.ir:2093?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=none&encryption=mlkem768x25519plus.native.0rtt.yOAo49mHlsa8LuHADhDRX99cz_ARqQETcRpGNdbcckw&type=grpc#%40vpn_fortuna
 vless://7a81a82d-9040-4c41-9b7e-ace77350e879@checklist.harmira.ir:2093?mode=gun&security=none&encryption=mlkem768x25519plus.native.0rtt.yOAo49mHlsa8LuHADhDRX99cz_ARqQETcRpGNdbcckw&type=grpc#%40vpn_fortuna
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?type=grpc&serviceName=Telegram#%40vpn_fortuna
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?type=grpc&serviceName=Telegram#%40vpn_fortuna
@@ -109,6 +109,7 @@ vless://84573931-e442-4181-8473-a0892dfa12a5@104.143.219.92:3090?mode=multi&secu
 vless://87d29644-5273-404a-a2f0-ce1e5fc21464@151.101.3.8:80?type=grpc&serviceName=Telegram#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?encryption=none&security=none&serviceName=vless&type=grpc#%40vpn_fortuna
+vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&mode=gun&serviceName=vless#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&serviceName=#%40vpn_fortuna
 vless://8bac7917-b4d2-4338-bbfc-5d47bda8c5ab@213.182.201.18:3090?type=grpc&serviceName=vless#%40vpn_fortuna
 vless://8c799494-0cf9-4b19-9342-c93570a46bd3@51.250.64.36:443?type=grpc&amp;encryption=none&amp;flow=&amp;sni=api-maps.yandex.ru&amp;security=reality&amp;pbk=8aMhNTzVgGITdDPmhXVqhZz6ePSR5nXERbrK1xc7CSc&amp;sid=#%40vpn_fortuna
