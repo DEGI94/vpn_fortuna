@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@108.162.193.32:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2025d6d523f1449a26
+trojan://NISHIKUITAN111@108.162.193.9:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2024d5d5299a4dc060
+trojan://NISHIKUITAN111@108.162.198.98:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20344292dccd6591f4
 trojan://NISHIKUITAN111@14.102.228.61:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20abe8993d3fe2381b
 trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#%40vpn_fortuna%20%7C%20TROJAN%20%7C%203fa0b98b597c890d
 trojan://NISHIKUITAN111@140.99.233.144:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20587e3d41a5ea3921
@@ -495,6 +498,3 @@ trojan://NISHIKUITAN222@172.67.180.8:443/?type=tcp&security=tls&allowInsecure=1#
 trojan://NISHIKUITAN222@172.67.200.209:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207b05ddb71d22c96e
 trojan://NISHIKUITAN222@172.67.207.210:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%205cc824a27cce88fd
 trojan://NISHIKUITAN222@172.67.225.193:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20aa08b82574e958a7
-trojan://NISHIKUITAN222@172.67.230.179:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2084236879207dd80e
-trojan://NISHIKUITAN222@172.67.87.79:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f80acf33d328d90b
-trojan://NISHIKUITAN222@173.245.49.133:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%204f868f4d04b836ae
