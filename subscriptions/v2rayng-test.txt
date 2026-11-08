@@ -11,6 +11,8 @@ vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?security=tls&fp=
 vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%40vpn_fortuna
 vless://00000000-0000-4000-8000-000000000000@93.179.99.130:777?type=ws&encryption=none&host=n1bj62x9v5oinzz6jwxq5sz.misa.cc.cd&path=%2F%40Marisa_kristi&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=n1bj62x9v5oinzz6jwxq5sz.misa.cc.cd#%40vpn_fortuna
 vless://00000000-0000-4000-8000-000000000000@95.169.27.126:19438?security=tls&sni=ryhvmvktfhtnv3t.luyuju.dpdns.org&type=ws&host=ryhvmvktfhtnv3t.luyuju.dpdns.org&path=%2F%40Marisa_kristi&fp=chrome#%40vpn_fortuna
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@pl-cdn.fius.dev:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=packet-up&path=/api-test&security=tls&alpn=h2,http/1.1&encryption=none&extra={#%40vpn_fortuna
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@pl-cdn.fius.dev:443?mode=packet-up&path=/api-test&security=tls&alpn=h2,http/1.1&encryption=none&extra={#%40vpn_fortuna
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org&packetEncoding=xudp#%40vpn_fortuna
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org&packetEncoding=xudp#%40vpn_fortuna
 vless://00114363-e4b7-4dab-a9bf-956ccadf84f7@zula.ir:8080?host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&security=none&type=ws#%40vpn_fortuna
@@ -96,5 +98,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080/?type=ws&encry
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
 vless://005b8b13-57a7-4233-ed84-04ba5c367e76@172.67.163.123:443?&security=tls&fp=chrome&sni=free.smelean.ir&type=ws&headerType=none&host=free.smelean.ir&path=%2F#%40vpn_fortuna
-vless://005db34d-76e3-2c87-77d6-3e9f786740a6@fi.zeepo.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&security=reality&pbk=KkGxnE3A4EaG8C7JydHk46UMuCP-Hcpua6lna-TvIAI&sid=eae3d03b0083f7af#%40vpn_fortuna
-vless://0062f09d-9579-4722-9bd3-d5438970d54a@104.21.23.95:443?type=ws&encryption=none&flow=&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%40vpn_fortuna
