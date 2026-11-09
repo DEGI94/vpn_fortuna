@@ -25,11 +25,10 @@ vless://68a67906-5b37-4779-a6cc-58a1655f18b4@188.225.73.226:443?type=raw&securit
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@188.225.73.226:8443?type=raw&security=tls&encryption=none&sni=api-germany-2.locallynet.org&fp=qq&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&headerType=none#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@188.225.73.226:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=qq&sni=api-germany-2.locallynet.org#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?type=raw&security=tls&encryption=none&sni=cdn-network.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&headerType=none#%40vpn_fortuna
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=cdn-network.cloudgamings.org&type=raw#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cdn-network.cloudgamings.org&type=raw#%40vpn_fortuna
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-network.cloudgamings.org&type=raw#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=cdn-network.cloudgamings.org#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@213.209.137.8:6443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=mexico.topupaxme.icu#%40vpn_fortuna
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.153:6443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=for.cloudgamings.org&type=raw#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.153:6443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=for.cloudgamings.org#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.242.94.231:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=cdn-glavslush.herumhas.shop#%40vpn_fortuna
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@api-italy.locallynet.org:6443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-italy.locallynet.org#%40vpn_fortuna
@@ -63,10 +62,8 @@ vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443/?type=raw&encryp
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&type=raw&packetEncoding=xudp&sni=us007.zestapp778.com&fp=firefox#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?type=raw&security=tls&fp=firefox&sni=us007.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@139.84.145.241:46362?security=tls&type=raw&sni=in002.zestapp778.com&fp=firefox#%40vpn_fortuna
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.40.28:443?security=tls&sni=sg003.zestapp778.com&type=raw#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@en001.zestapp778.com:44559?type=raw&security=tls&fp=chrome&sni=en001.zestapp778.com#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?type=raw&security=tls&fp=chrome&sni=w.geogame.ir#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=raw&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=w.geogame.ir&fp=chrome#%40vpn_fortuna
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=w.geogame.ir&type=raw#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?type=raw&security=tls&fp=chrome&sni=w.geogame.ir#%40vpn_fortuna
 vless://nasnet@57.129.64.102:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2%2Chttp%2F1.1&fp=randomized#%40vpn_fortuna
