@@ -3,14 +3,12 @@ vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.253:8443?encryption=non
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=vusr-6ac431f4.adhil.uk&type=raw#%40vpn_fortuna
-vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@ams2.shtil.io:444?security=tls&type=raw&sni=ams2.shtil.io&fp=firefox&flow=xtls-rprx-vision#%40vpn_fortuna
-vless://255a8044-3337-473e-af26-46a37208adcc@81.94.148.112:443?type=raw&security=tls&encryption=none&sni=cdn4.anytube.ru&fp=ios&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&headerType=none#%40vpn_fortuna
-vless://255a8044-3337-473e-af26-46a37208adcc@81.94.148.112:443?type=raw&security=tls&encryption=none&sni=cdn4.anytube.ru&fp=chrome&flow=xtls-rprx-vision&headerType=none#%40vpn_fortuna
-vless://255a8044-3337-473e-af26-46a37208adcc@81.94.148.112:443?type=raw&security=tls&encryption=none&sni=cdn4.anytube.ru&fp=firefox&flow=xtls-rprx-vision&headerType=none#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=s170.gogocs.xyz&type=raw#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@64.176.35.228:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf08a6307s2544.xxti.top#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s1243.sspcccdn.xyz:10829?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=u695098ueb8953b4s861.gogocs.xyz#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&host=7dae9c0cs220.gogocs.xyz&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=raw#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2533.gogocs.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098udfec02ees2532.xxti.top#%40vpn_fortuna
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098udfec02ees2532.xxti.top#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2546.wagahaha.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf08a6307s2544.xxti.top#%40vpn_fortuna
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2547.fuhuovps.xyz:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf08a6307s2544.xxti.top#%40vpn_fortuna
 vless://361d17b2-cafc-4cd8-996c-347f34bc159f@95.163.213.255:443?encryption=none&fp=chrome&security=tls&sni=ch.cdn.mynetcloud.online&type=raw#%40vpn_fortuna
@@ -53,6 +51,7 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&ty
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?type=raw&security=tls&fp=firefox&sni=us007.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@139.84.145.241:46362?security=tls&type=raw&sni=in002.zestapp778.com&fp=firefox#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@en001.zestapp778.com:44559?type=raw&security=tls&fp=chrome&sni=en001.zestapp778.com#%40vpn_fortuna
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?fp=chrome&security=tls&sni=sg003.zestapp778.com&type=raw#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?type=raw&security=tls&fp=chrome&sni=w.geogame.ir#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=raw&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=w.geogame.ir&fp=chrome#%40vpn_fortuna
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?type=raw&security=tls&fp=chrome&sni=w.geogame.ir#%40vpn_fortuna

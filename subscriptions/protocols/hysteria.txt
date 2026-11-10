@@ -11,6 +11,8 @@ hysteria://109.104.152.194:58510?insecure=1&peer=bing.com&auth=dongtaiwang.com&u
 hysteria://109.104.152.194:58510/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%40vpn_fortuna
 hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%40vpn_fortuna
 hysteria://137.175.82.43:20022?alpn=h3&auth=dongtaiwang.com&downmbps=20&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=20&udp=true#%40vpn_fortuna
+hysteria://137.175.82.43:20022?alpn=h3&auth=dongtaiwang.com&downmbps=20&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=20#%40vpn_fortuna
+hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11#%40vpn_fortuna
 hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%40vpn_fortuna
 hysteria://140.238.101.151:7228?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%40vpn_fortuna
 hysteria://140.238.101.151:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%40vpn_fortuna
@@ -47,9 +49,9 @@ hysteria://51.159.213.39:18702/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabp
 hysteria://62.204.54.81:37899?insecure=1&peer=www.microsoft.com&auth=OdHFS3zC3HlSYJmc0GLQNKLAlwDbJqEmonVBXmI07T0Ojb1bQB&upmbps=2&downmbps=10&alpn=h3#%40vpn_fortuna
 hysteria://62.210.243.131:18702?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%40vpn_fortuna
 hysteria://62.210.243.131:18702/?insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%40vpn_fortuna
+hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11#%40vpn_fortuna
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%40vpn_fortuna
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55#%40vpn_fortuna
-hysteria://62.210.28.175:24667?alpn=h3&auth_str=dongtaiwang.com&downmbps=55&obfsParam=&insecure=1&peer=bing.com&upmbps=11#%40vpn_fortuna
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55#%40vpn_fortuna
 hysteria://64.31.55.72:55661?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=5&downmbps=20&alpn=h3#%40vpn_fortuna
 hysteria://64.31.55.72:55661/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=5&downmbps=20&alpn=h3#%40vpn_fortuna
