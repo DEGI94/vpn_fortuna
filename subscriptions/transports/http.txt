@@ -20,6 +20,7 @@ vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.117.231.96:443?&type=http#%40vpn
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.159.45.125:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.171.245.198:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.213.218.149:443?&type=http#%40vpn_fortuna
+vless://7060231d-b9ba-495f-a218-bf427940cf3e@184.195.175.29:443?security=none&type=http&path=%2F&host=play.googleapis.com&fp=chrome&encryption=none#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.124.195.79:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.8.150.222:443?&type=http#%40vpn_fortuna
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.96.144.137:443?&type=http#%40vpn_fortuna
@@ -34,6 +35,7 @@ vless://7060231d-b9ba-495f-a218-bf427940cf3e@54.180.133.191:443?&type=http#%40vp
 vless://7562048f-6694-43da-a9ba-c80e92808fff@159.69.14.182:2042?security=reality&sni=ftp.debian.org&type=http&host=zula.ir&path=/&fp=random&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6#%40vpn_fortuna
 vless://7562048f-6694-43da-a9ba-c80e92808fff@real.robovn.ir:2042?type=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=ftp.debian.org&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6&spx=/Urhs3IGX4EOavzH#%40vpn_fortuna
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=none&encryption=none&type=http#%40vpn_fortuna
+vless://7f99eb58-5983-00aa-9c02-d8cea49f7074@92.53.119.73:443?security=reality&sni=ozon.ru&type=http&path=%2Faqkk8j6ayx76aw67mb&fp=firefox&pbk=0omtLHQHyKnV7w05maiOqvL5PvxdCQKw_zDqqgR28X8&sid=8d0ff3d6ec629371#%40vpn_fortuna
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443/?type=http&encryption=none&flow=&host=namasha.com&path=%2F&security=tls&sni=namasha.com&fp=chrome#%40vpn_fortuna
 vless://870c8dd7-990b-489d-a4d5-725a63703676@free.lumanetwork.cloud:6969/?type=http&encryption=none&flow=&host=skyroom.online&sni=www.oracle.com&fp=chrome&security=reality&pbk=jvVIGcYV2B5eW_ofU2uAT5egxNrEy7QOhObT9Ljdkyg&sid=5ebebba2#%40vpn_fortuna
 vless://9368976c-0ade-442e-9908-9cc2af183850@209.38.27.239:443/?type=http&encryption=none&flow=&path=%2F3%2Ftutorial%2Findex.html&sni=www.python.org&fp=randomized&security=reality&pbk=u-hj22dzaZJu4q8g8jT-ELo7_rTw9HYpOIMBIiec1lo&sid=ebb81c967a51#%40vpn_fortuna
@@ -41,7 +43,7 @@ vless://953358cb-82ba-4296-960d-6d2ec3468f4c@217.19.122.17:10654?encryption=none
 vless://a0f8d501-a00a-41f1-b3de-310d24df09ae@Wedbaz.flashwrite.ir:8443?security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&fp=chrome&type=http&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#%40vpn_fortuna
 vless://a6f263ad-2d3e-42c6-9584-ed80a5b1134d@TGR.Private-Ai.IR:58302?&type=http#%40vpn_fortuna
 vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@edition.ativetechnology.ir:46132?security=none&type=http&path=%2F&host=ssh.webdade.com&fp=chrome&encryption=mlkem768x25519plus.native.0rtt.JOz04Neg9PDWwDsVd4DaTDB63yZZDX2FNbkadsv91gk#%40vpn_fortuna
-vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@edition.ativetechnology.ir:46132?security=none&type=http#%40vpn_fortuna
+vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@edition.ativetechnology.ir:46132?type=http&security=none&path=/&fp=chrome#%40vpn_fortuna
 vless://dc678348-0af7-4036-9740-645725fa039c@188.245.174.40:8443?path=/&security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&fp=chrome&type=http&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#%40vpn_fortuna
 vless://dc678348-0af7-4036-9740-645725fa039c@188.245.174.40:8443?security=reality&sni=www.stackoverflow.com&type=http&fp=chrome&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&sid=155dfc38ced3ba72#%40vpn_fortuna
 vless://dc678348-0af7-4036-9740-645725fa039c@Wedbaz.flashwrite.ir:8443?path=/@CvRNet------@CvRNet------@CvRNet------@CvRNet------@CvRNet------@CvRNet-----@CvRNet------@CvRNet------@CvRNet?ed=2048&security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&fp=chrome&type=http&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#%40vpn_fortuna
@@ -97,7 +99,9 @@ vmess://eyJhZGQiOiI0Ny4yNDIuNjEuMTI1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MzFjNGMw
 vmess://eyJhZGQiOiI0Ny4yNDIuNjEuMTI1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MzFjNGMwMS1iNTk2LTRkMTItYTllNi00ZjdmMjFmZTgyYmEiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiI1MTc4NCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJhZGQiOiI0Ny4yNDIuNjUuODAiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQ4ZjNmYTkzLTE3MjItNGY4ZC1hZjc0LWZjYzU0YzJmMjFkNSIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjYyMzA3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiNDcuMjQyLjY1LjgwIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJhZGQiOiI0Ny4yNDIuNjkuMTI0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3YzMwMDhlNS05NjY1LTQzMTktYTJiOS1hYzczNzA2NjVmMWEiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiI1NDYyMCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
-vmess://eyJ2IjoiMiIsImFkZCI6IjQ3LjI0Mi44MS45NCIsInBvcnQiOiI1MjA4MCIsInR5cGUiOiJub25lIiwiaWQiOiJlNDdiOWY3Ny02MGU0LTQ3MzgtOGQ1My03NzJiNjAwMmUxNDYiLCJhaWQiOiIwIiwibmV0IjoiaHR0cCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwiaG9zdCI6Im9wZW5haS5jb20iLCJ0bHMiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
+vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTQ3YjlmNzctNjBlNC00NzM4LThkNTMtNzcyYjYwMDJlMTQ2IiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0IjoiNTIwODAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
+vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiL1FRcXVuLTczNzgwNTQ0MyIsInBvcnQiOiI1MjA4MCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
+vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjUyMDgwIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ3LjI0Mi44MS45NCIsInBvcnQiOiI1MjA4MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZTQ3YjlmNzctNjBlNC00NzM4LThkNTMtNzcyYjYwMDJlMTQ2Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwicHMiOiJAdnBuX2ZvcnR1bmEifQ==
 vmess://eyJhZGQiOiI0Ny4yNDIuOTUuMTkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjFlNjBiMzVhLWRiMTctNDI4My04Yjk5LTczNThlZTdkNWZkNSIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjQwOTg4IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJwcyI6IkB2cG5fZm9ydHVuYSJ9
 vmess://eyJhZGQiOiI0Ny4yNDMuMTg1LjEyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmI2OTUxNzEtNmIyNC00MjU1LTk4OTMtODkyMWY1M2EwNTQ4IiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0IjoiNDczNjUiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInBzIjoiQHZwbl9mb3J0dW5hIn0=
