@@ -31,10 +31,12 @@ vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?security=tls&sni=s
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org&fp=chrome#%40vpn_fortuna
 vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@us3.shtil.io:443?type=raw&security=tls&fp=firefox&sni=us3.shtil.io#%40vpn_fortuna
-vless://87c35d3a-36f1-fade-90b7-af60506efbb8@176.108.245.237:443?type=raw&security=tls&fp=qq&sni=tfusq-ru-40sb.fade.mom#%40vpn_fortuna
+vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@178.105.192.66:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=tcptlsdigikala.savfasf.ir#%40vpn_fortuna
+vless://87c35d3a-36f1-fade-90b7-af60506efbb8@176.108.245.237:443?type=raw&security=tls&fp=firefox&sni=tfusq-ru-40sb.fade.mom#%40vpn_fortuna
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome#%40vpn_fortuna
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%40vpn_fortuna
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443/?type=raw&encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com#%40vpn_fortuna
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.157.124:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-6af3f40b.adhil.uk&mode=stream-one#%40vpn_fortuna
 vless://b95eb0b3-a8dc-41ce-8bc0-888f81731e7c@static.fatcutecat.net:443?fp=chrome&security=tls&type=raw#%40vpn_fortuna
 vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=gr.connect-qik.uk#%40vpn_fortuna
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encryption=none&type=raw&headerType=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=node-uk.connectsuite.org#%40vpn_fortuna
