@@ -1,11 +1,9 @@
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@decdn.fius.dev:443/?type=xhttp&encryption=none&flow=&host=decdn.fius.dev&path=/api-test&mode=packet-up&extra={#%40vpn_fortuna
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@eecdn.fius.dev:443/?type=xhttp&encryption=none&flow=&host=eecdn.fius.dev&path=/api-test&mode=packet-up&extra={#%40vpn_fortuna
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@nlcdn.fius.dev:443/?type=xhttp&encryption=none&flow=&host=nlcdn.fius.dev&path=/api-test&mode=packet-up&extra={#%40vpn_fortuna
 vless://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
-vless://00b128fd-69e3-47a1-8102-0ab7aafe393a@01-ir01.nimhub.ir:1009?encryption=mlkem768x25519plus.native.0rtt.KqgciUgsM_qPHmTUvDnMcfdCvVje4K1hYMGwX_lVRlg&security=none&type=xhttp&host=cafeariel.ir&path=%2F&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D#%40vpn_fortuna
-vless://00b128fd-69e3-47a1-8102-0ab7aafe393a@01-ir01.nimhub.ir:777?encryption=mlkem768x25519plus.native.0rtt.Prb0-9IEfoUFk-5WSt6awUijoEKFiWmrZ34AAWjr4ig&security=none&type=xhttp&host=myket.ir&path=%2F&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D#%40vpn_fortuna
-vless://00b128fd-69e3-47a1-8102-0ab7aafe393a@08tk.nvclud.ir:1014?encryption=mlkem768x25519plus.native.0rtt.BOLMAq_SyQtLDwDv0dBPhyvR4fQxVOGFpK_HRRN4A1Q&security=none&type=xhttp&host=myket.ir&path=%2Fassets&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D#%40vpn_fortuna
-vless://00b128fd-69e3-47a1-8102-0ab7aafe393a@fnhub.nimhubnet.ir:1019?encryption=mlkem768x25519plus.native.0rtt.Qfv8YAsBYUQ64MqGmEhBppVCeCfFBrDg0CDbpKI-eV8&security=none&type=xhttp&host=cafeariel.ir&path=%2F&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D#%40vpn_fortuna
-vless://00b128fd-69e3-47a1-8102-0ab7aafe393a@ssr.talachandnimhub-net.ir:1022?encryption=mlkem768x25519plus.native.0rtt.U-ambTGe_UnCXF1MpA-2gh9MygizVqxtQXnF4Qlmfhc&security=none&type=xhttp&host=cafeariel.ir&path=%2F&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D#%40vpn_fortuna
 vless://02834cd6-b8b7-4a0e-90c7-02bc0f3d3a33@ch-alien.khodeimobile.com:8880/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna
 vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@nls.zdshop.ir:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
@@ -138,7 +136,6 @@ vless://8edaa2ae-7c08-4370-93b5-a3c2637bad9d@199.232.76.150:80/?type=xhttp&encry
 vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@usa.amosh.sbs:46539?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.Eq88avlMmOgeqKsIJpoU4Wyczy8TVJAKEPnd0dILKlQ&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&host=usa.amosh.sbs&type=xhttp#%40vpn_fortuna
 vless://90dc963c-dfa2-4b45-97a4-0b7cd4980855@170.39.216.98:1004?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%40vpn_fortuna
 vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@openai.com:8880?mode=auto&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.CybG6umLP4jQpLdOkQISWZWrQD_caUk8ey4j8b4clx0&host=sitewebs.f8r.ir&type=xhttp#%40vpn_fortuna
-vless://93761b91-be43-4f3f-af40-65ea34d3eae2@188.114.98.6:2052?security=none&host=cs2game.iuyew.com&path=%2F&type=xhttp&encryption=mlkem768x25519plus.native.0rtt.MIVWs0Nqh48dGk3n-vzT-k1PfV6nFnWPpuzkf8JhkQw&mode=auto#%40vpn_fortuna
 vless://93c51659-2a32-410c-86f2-25b1b5a7cead@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#%40vpn_fortuna
 vless://9c4c3633-441c-60d3-50a6-893a7c904f7e@104.21.69.44:2086?mode=auto&path=%2FDevil%3Fed%3D2560&security=none&encryption=none&host=xhttp.fr1.inservices.ir&type=xhttp#%40vpn_fortuna
 vless://9c4c3633-441c-60d3-50a6-893a7c904f7e@104.21.69.44:2086?security=none&type=xhttp&host=xhttp.fr1.inservices.ir#%40vpn_fortuna
@@ -179,7 +176,7 @@ vless://c71e5acd-dd60-4239-963b-ceb978c36869@pasarguardpanel1.viramiq.ir:21463?m
 vless://cba8674f-c167-4672-a6c8-97bdb7b52717@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#%40vpn_fortuna
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cf-mci.coixconqwe1.ir:2086?mode=auto&path=/?ed=8192&security=none&encryption=none&host=ofgqv.fc2.havray2025.ir&type=xhttp#%40vpn_fortuna
 vless://cc5523f7-9435-40a6-be4d-80e81cdf50e2@46.225.32.86:20768?encryption=mlkem768x25519plus.native.0rtt.HNNHHPXtzPzzT5vVoikIWdNIEmuICZpJEcPxOndR-Ug&security=none&type=xhttp&headerType=none&path=%2F&mode=auto#%40vpn_fortuna
-vless://cc5523f7-9435-40a6-be4d-80e81cdf50e2@46.225.32.86:20768?mode=auto&path=/&security=&encryption=mlkem768x25519plus.native.0rtt.HNNHHPXtzPzzT5vVoikIWdNIEmuICZpJEcPxOndR-Ug&type=xhttp#%40vpn_fortuna
+vless://cc5523f7-9435-40a6-be4d-80e81cdf50e2@46.225.32.86:20768?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.HNNHHPXtzPzzT5vVoikIWdNIEmuICZpJEcPxOndR-Ug&type=xhttp#%40vpn_fortuna
 vless://d0a811b0-a375-4ff4-9686-cd5d60e3b6bf@199.232.90.133:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://d0a811b0-a375-4ff4-9686-cd5d60e3b6bf@199.232.90.133:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://d2bf8658-06dc-4462-80d4-39c5c3bb0dd8@fr.masterpgd.com:6010?mode=stream-up&path=/assets&security=none&encryption=mlkem768x25519plus.random.0rtt.4ZiK3Dv6QqgU4hTboAe80H0CPJ6KV_GUdsjOCLY3UlA&host=myket.ir&type=xhttp#%40vpn_fortuna
@@ -194,7 +191,6 @@ vless://e399faac-f600-4df6-9426-6aadf5170c57@test.nvclud.ir:1022?mode=stream-up&
 vless://e69dba87-f883-46a3-858e-c66defc02588@en-1.henlo.ir:31810?mode=auto&path=%2Fxhttp&security=none&encryption=mlkem768x25519plus.native.0rtt.SxbJFzYZj-7UZfo1MgrckJYtotP9bgBVkygnphvJDXk&host=www.online2.henlo.ir&type=xhttp#%40vpn_fortuna
 vless://e829b2ab-4473-460f-9f04-04ac7366fe38@167.82.76.27:80?mode=auto&path=%2F&security=none&encryption=none&host=tuhkoiizizwrwip.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna
 vless://e86747a1-5b56-4a36-a4d3-6f562112eebd@f.litiran.ir:80?mode=auto&path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.upUKn9lKFTt-c9ii9ys1SfY1wMdczXrueP0hVlHqYXg&host=new2your-name.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna
-vless://e86747a1-5b56-4a36-a4d3-6f562112eebd@f2.litiran.ir:80?mode=auto&path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.upUKn9lKFTt-c9ii9ys1SfY1wMdczXrueP0hVlHqYXg&host=new2your-name.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna
 vless://e93f923b-92b1-4009-aaeb-3691001347bd@104.17.223.18:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://e93f923b-92b1-4009-aaeb-3691001347bd@104.17.223.18:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://eaf48cdb-4c3c-4393-8e64-f56715f35b9d@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#%40vpn_fortuna

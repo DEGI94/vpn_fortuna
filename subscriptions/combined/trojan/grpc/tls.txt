@@ -18,6 +18,8 @@ trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&sni=Crunch.floorshoping22.c
 trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#%40vpn_fortuna
 trojan://FuUaWS3YWG@crunch.floorshoping22.com:2053/?type=grpc&security=tls&sni=Crunch.floorshoping22.com&alpn=h2&fp=chrome#%40vpn_fortuna
 trojan://Lar3HXz16D@104.21.48.1:443/?type=grpc&security=tls&sni=tabnak.twn24.ir#%40vpn_fortuna
+trojan://M6EqM5cCx-10FAcmYnGBz4Cwr1zzSYb1@217.60.19.42:2084/?type=grpc&security=tls&sni=login.vk.com&fp=chrome#%40vpn_fortuna
+trojan://M6EqM5cCx-10FAcmYnGBz4Cwr1zzSYb1@64.188.79.139:2084/?type=grpc&security=tls&sni=login.vk.com&fp=chrome#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz&type=grpc#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?mode=gun&security=tls&alpn=h2&insecure=0&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#%40vpn_fortuna
 trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&sni=171.22.119.74&type=grpc#%40vpn_fortuna
@@ -47,4 +49,3 @@ trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xy
 trojan://mainssh-niwrhf87@95.179.246.122:443/?type=grpc&serviceName=trojangrpc&security=tls&sni=getgrpc.mainssh.xyz#%40vpn_fortuna
 trojan://qQE5Yl3oU5@104.21.48.6:2087/?type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=iran.farsonline24.ir&fp=chrome#%40vpn_fortuna
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%40vpn_fortuna
-trojan://xctukf6vi4a2isfx@mirinday385.dpdns.org:8087?alpn=h2%2Chttp%2F1.1%2Ch3&authority=&fp=chrome&security=tls&serviceName=&sni=&type=grpc#%40vpn_fortuna

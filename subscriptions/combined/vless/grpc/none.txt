@@ -247,6 +247,8 @@ vless://996814bf-f6a1-4d92-aba6-b484d3964b8d@91.107.225.232:2083?mode=gun&securi
 vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?security=&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
 vless://9bf13589-d1af-4c8f-b088-192c657b5262@37.202.236.164:42370?security=none&type=grpc&serviceName=@vpn_land_official@vpn_land_official@vpn_land_official#%40vpn_fortuna
 vless://9bf13589-d1af-4c8f-b088-192c657b5262@land.mobicall.ir:42370?mode=gun&security=none&encryption=none&type=grpc&serviceName=@vpn_land_official@vpn_land_official@vpn_land_official#%40vpn_fortuna
+vless://FastKey_118173@176.32.34.105:8080?mode=gun&security=&encryption=none&type=grpc&serviceName=api#%40vpn_fortuna
+vless://FastKey_118173@176.32.34.105:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=api#%40vpn_fortuna
 vless://Parsashonam-89@188.114.96.3:8080?type=grpc&encryption=none&flow=&serviceName=Telegram#%40vpn_fortuna
 vless://Parsashonam-Bot-37@104.17.147.22:8080?type=grpc&encryption=none&flow=#%40vpn_fortuna
 vless://Parsashonam-Bot-37@104.17.147.22:8080/?type=grpc&encryption=none&flow=#%40vpn_fortuna
