@@ -1,4 +1,5 @@
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
@@ -23,4 +24,3 @@ vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&path
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?fp=chrome&host=connect.hondamotor.site&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
