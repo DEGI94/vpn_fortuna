@@ -59,6 +59,7 @@ vless://473ca7ab-9fb1-4428-aae8-7870101f74b0@94.154.32.251:2052?security=none&ty
 vless://476fbb4e-042e-4dbe-b8f2-f135c2aba108@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://476fbb4e-042e-4dbe-b8f2-f135c2aba108@188.34.201.88:16072?security=none&type=grpc#%40vpn_fortuna
 vless://476fbb4e-042e-4dbe-b8f2-f135c2aba108@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083/?type=grpc&encryption=none&flow=&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321/?type=grpc&encryption=none&flow=#%40vpn_fortuna
 vless://4ae8804f-2329-4f42-b5bd-fec4992afe39@188.245.228.234:2000?security=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#%40vpn_fortuna
@@ -247,7 +248,6 @@ vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?security=&encryptio
 vless://9bf13589-d1af-4c8f-b088-192c657b5262@37.202.236.164:42370?security=none&type=grpc&serviceName=@vpn_land_official@vpn_land_official@vpn_land_official#%40vpn_fortuna
 vless://9bf13589-d1af-4c8f-b088-192c657b5262@land.mobicall.ir:42370?mode=gun&security=none&encryption=none&type=grpc&serviceName=@vpn_land_official@vpn_land_official@vpn_land_official#%40vpn_fortuna
 vless://FastKey_155304@46.29.167.14:8888?mode=gun&security=&encryption=none&type=grpc&serviceName=api#%40vpn_fortuna
-vless://FastKey_155304@46.29.167.14:8888?mode=gun&security=none&encryption=none&type=grpc&serviceName=api#%40vpn_fortuna
 vless://FastKey_331443@185.22.155.97:8080?type=grpc&serviceName=api#%40vpn_fortuna
 vless://Parsashonam-89@188.114.96.3:8080?type=grpc&encryption=none&flow=&serviceName=Telegram#%40vpn_fortuna
 vless://Parsashonam-Bot-37@104.17.147.22:8080?type=grpc&encryption=none&flow=#%40vpn_fortuna
