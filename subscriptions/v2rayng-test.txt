@@ -21,7 +21,6 @@ vless://0011d187-d066-48f6-957c-a6983dd63a77@144.31.171.54:443?encryption=none&f
 vless://0011d187-d066-48f6-957c-a6983dd63a77@201.10.90.201:443?encryption=none&fp=firefox&pbk=OI_evgGMslAhEETUTUEBo4isr_0XWE8Yd72MScxtdVc&security=reality&sid=b5bf71e3c3bd4f21&sni=pl3.netvora.space&type=tcp#%40vpn_fortuna
 vless://0011d187-d066-48f6-957c-a6983dd63a77@31.59.218.33:443?type=tcp&security=reality&fp=firefox&pbk=FEvQ4PcpDpr4epsZcj0bJMHvm2Y2YTh5eRVQrvZvGCE&sid=26cbc1ca2e10dc2a&sni=eetor.netvora.space&encryption=none#%40vpn_fortuna
 vless://0011d187-d066-48f6-957c-a6983dd63a77@83.217.9.254:443?security=reality&encryption=none&pbk=c-LdrrjWXggAWcOkfbwawezHTcw7Bx0kzs973IDFBmM&headerType=none&fp=chrome&type=tcp&sni=tr.netvora.space&sid=93980c41b30b2d60#%40vpn_fortuna
-vless://0011d187-d066-48f6-957c-a6983dd63a77@83.217.9.254:443?security=reality&encryption=none&pbk=c-LdrrjWXggAWcOkfbwawezHTcw7Bx0kzs973IDFBmM&headerType=none&fp=ios&type=tcp&sni=tr.netvora.space&sid=93980c41b30b2d60#%40vpn_fortuna
 vless://0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521/?encryption=none&host=match-cdn.varzesh3.com&type=tcp&headerType=http#%40vpn_fortuna
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel&flow=xtls-rprx-vision&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%40vpn_fortuna
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1╨⌐╥û&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%40vpn_fortuna
@@ -98,3 +97,4 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@46.225.239.50:2096/?type=grpc&encry
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%40vpn_fortuna
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080/?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?type=ws&encryption=none&host=tr-cd.sublink-vip2.com&path=%2F#%40vpn_fortuna
