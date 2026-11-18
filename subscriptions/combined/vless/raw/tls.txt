@@ -66,4 +66,8 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@en001.zestapp778.com:44559?type=raw
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?fp=chrome&security=tls&sni=sg003.zestapp778.com&type=raw#%40vpn_fortuna
 vless://fb5a900b-9678-4182-8972-fe8a095ec157@static.107.217.233.167.clients.your-server.de:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=static.107.217.233.167.clients.your-server.de#%40vpn_fortuna
 vless://fb5a900b-9678-4182-8972-fe8a095ec157@static.224.138.28.2.clients.your-server.de:8443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=static.224.138.28.2.clients.your-server.de#%40vpn_fortuna
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru1.com#%40vpn_fortuna
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru13.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=app.streamru13.net#%40vpn_fortuna
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru14.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru14.net#%40vpn_fortuna
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru3.net#%40vpn_fortuna
 vless://nasnet@57.129.64.102:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2%2Chttp%2F1.1&fp=randomized#%40vpn_fortuna
