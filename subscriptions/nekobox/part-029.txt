@@ -1,3 +1,11 @@
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%201531d3049d7a6b5a
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20f4a823ff5a95bea8
+trojan://MiTiVPN@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2005456459c7ab942f
+trojan://MiTiVPN@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209ddcf69c76ad81a6
+trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20c054cf8970d71a74
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2020a308380e84910f
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20d33429ad61468dbe
+trojan://Mitivpn@151.101.110.219:443?security=tls&sni=global.fastly.com&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2047dd789dfaf98c5f
 trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=%2Fboost#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206954a96a64593797
 trojan://Mitivpn@151.101.110.219:443?allowInsecure=1&sni=ssl.fastly.com#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200ac72ce741cbba10
 trojan://Mitivpn@151.101.201.194:443?type=tcp#%40vpn_fortuna%20%7C%20TROJAN%20%7C%207f5fe545efb6c0f6
@@ -490,11 +498,3 @@ trojan://NISHIKUITAN111@172.67.95.192:443/?type=tcp&security=tls&allowInsecure=1
 trojan://NISHIKUITAN111@173.245.49.125:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%202703855497fcfe3b
 trojan://NISHIKUITAN111@173.245.49.151:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%206d97cfb814c1b614
 trojan://NISHIKUITAN111@173.245.49.151:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20b31fc2e0f004317a
-trojan://NISHIKUITAN111@173.245.49.248:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2092da2d6a1dd47cbb
-trojan://NISHIKUITAN111@173.245.49.248:443/?type=tcp&security=tls#%40vpn_fortuna%20%7C%20TROJAN%20%7C%200b99d7f465c3853c
-trojan://NISHIKUITAN111@173.245.49.43:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%209dd38be01c652ef1
-trojan://NISHIKUITAN111@173.245.49.55:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20850709be76e497ce
-trojan://NISHIKUITAN111@173.245.49.55:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%2086ecaf7a03cbd4c9
-trojan://NISHIKUITAN111@173.245.49.59:443/?type=tcp&security=tls&allowInsecure=1#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20322115045e9302c4
-trojan://NISHIKUITAN111@173.245.58.140:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20a08935ce6d85b32d
-trojan://NISHIKUITAN111@173.245.58.34:443?#%40vpn_fortuna%20%7C%20TROJAN%20%7C%20bcebd43163b75811
