@@ -8,8 +8,11 @@ trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reali
 trojan://3bfa9b24-6e07-4587-a1cd-5a228acbf124@45.142.44.47:8443?security=reality&flow=xtls-rprx-vision&sni=blog.cloudflare.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%40vpn_fortuna
 trojan://71b60539-19bf-4282-b09f-7596ffc3cc8b@108.181.154.229:443?security=reality&encryption=none&pbk=OPE-zPWEJovJzhxKqSRYw4p09xfk1H9aitvnyhPncRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=Aa04cAc3#%40vpn_fortuna
 trojan://71b60539-19bf-4282-b09f-7596ffc3cc8b@108.181.154.229:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=OPE-zPWEJovJzhxKqSRYw4p09xfk1H9aitvnyhPncRA&sid=Aa04cAc3#%40vpn_fortuna
+trojan://870e952f-f787-412d-9bb0-7a52836e9126@de.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%40vpn_fortuna
+trojan://870e952f-f787-412d-9bb0-7a52836e9126@ir.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%40vpn_fortuna
+trojan://870e952f-f787-412d-9bb0-7a52836e9126@tu.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%40vpn_fortuna
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#%40vpn_fortuna
-trojan://KRLq_C6URv8d5QZQMa48Ig@45.135.194.152:2087?security=reality&sni=www.speedtest.net&fp=chrome&pbk=MmRDLKMKOl37-fUb99jDB3apnxleGa0LV4R5KwsjgjQ&sid=3ede0a29#%40vpn_fortuna
+trojan://KRLq_C6URv8d5QZQMa48Ig@45.135.194.152:2087?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=MmRDLKMKOl37-fUb99jDB3apnxleGa0LV4R5KwsjgjQ&sid=3ede0a29&spx=%2F#%40vpn_fortuna
 trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#%40vpn_fortuna
 trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#%40vpn_fortuna
 trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#%40vpn_fortuna
@@ -29,10 +32,8 @@ trojan://kst3ovanch3tecki@panel.autonetshop.ir:14822?mode=auto&path=/XHTTP&secur
 trojan://nUno1d0iab@5.175.249.117:443?security=reality&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&host=www.namasha.com,s45.namasha.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=google.com&sid=9715efa856269398#%40vpn_fortuna
 trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#%40vpn_fortuna
 trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@194.93.61.120:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#%40vpn_fortuna
-trojan://pu0149u56dhl4t43@shop.raadshop.bond:8447?mode=auto&path=/1d236330ba&security=reality&extra={#%40vpn_fortuna
 trojan://pu0149u56dhl4t43@shop.raadshop.bond:8447?sni=dl.google.com&peer=dl.google.com&security=reality#%40vpn_fortuna
 trojan://rmVQOJ9JPo@5.175.249.117:443?security=reality&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&host=www.namasha.com%2Cs45.namasha.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=9715efa856269398#%40vpn_fortuna
-trojan://stdd834er4umvi3q@62.144.51.95:8443?security=reality&amp;pbk=1lS1OPDgOftXWJPbXKiN8QG2Y8XCSWQNUE_pLJKFgSg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F3ca39cd1f3b9e98&amp;type=tcp&amp;sni=beta.www.cloudflare.com&amp;sid=a2956fb1cdff#%40vpn_fortuna
-trojan://stdd834er4umvi3q@62.144.51.95:8443?security=reality&pbk=1lS1OPDgOftXWJPbXKiN8QG2Y8XCSWQNUE_pLJKFgSg&headerType=none&fp=chrome&spx=%2F3ca39cd1f3b9e98&type=tcp&sni=beta.www.cloudflare.com&sid=a2956fb1cdff#%40vpn_fortuna
+trojan://stdd834er4umvi3q@62.144.51.95:8443?security=reality&pbk=1lS1OPDgOftXWJPbXKiN8QG2Y8XCSWQNUE_pLJKFgSg&headerType=none&fp=chrome&spx=/3ca39cd1f3b9e98&type=tcp&sni=beta.www.cloudflare.com&sid=a2956fb1cdff#%40vpn_fortuna
 trojan://stdd834er4umvi3q@62.144.51.95:8443?sni=beta.www.cloudflare.com&fp=chrome&sid=a2956fb1cdff&pbk=1lS1OPDgOftXWJPbXKiN8QG2Y8XCSWQNUE_pLJKFgSg&security=reality&spx=%2F3ca39cd1f3b9e98#%40vpn_fortuna
 trojan://stdd834er4umvi3q@62.144.51.95:8443?sni=beta.www.cloudflare.com&peer=beta.www.cloudflare.com&security=reality#%40vpn_fortuna

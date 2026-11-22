@@ -21,7 +21,6 @@ vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@xjpp.zjlo.top:36442?security=tls&ty
 vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?type=raw&security=tls&fp=qq&sni=szqbx-ru-77dc.my-fade.cloud#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org#%40vpn_fortuna
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443/?type=raw&encryption=none&security=tls&sni=proxy.wastech.org&fp=chrome#%40vpn_fortuna
-vless://7370aef1-b137-411d-ad0a-c12cc8c0b65e@188.225.74.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=spb.b2ai.top&type=raw#%40vpn_fortuna
 vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?type=raw&security=tls&fp=chrome&sni=jkawq-ru-45sb.fade.mom#%40vpn_fortuna
 vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?type=raw&security=tls&fp=firefox&sni=jkawq-ru-45sb.fade.mom#%40vpn_fortuna
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome#%40vpn_fortuna
@@ -45,7 +44,6 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?fp=firefox&secu
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@139.84.145.241:46362?security=tls&type=raw&sni=in002.zestapp778.com&fp=firefox#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@en001.zestapp778.com:44559?type=raw&security=tls&fp=chrome&sni=en001.zestapp778.com#%40vpn_fortuna
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?fp=chrome&security=tls&sni=sg003.zestapp778.com&type=raw#%40vpn_fortuna
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru1.com#%40vpn_fortuna
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru3.net#%40vpn_fortuna
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?flow=xtls-rprx-vision&security=tls&sni=app.streamru3.net&type=raw&fp=edge#%40vpn_fortuna
 vless://nasnet@57.129.64.102:443/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2%2Chttp%2F1.1&fp=randomized#%40vpn_fortuna
