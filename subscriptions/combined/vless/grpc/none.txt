@@ -67,7 +67,6 @@ vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?security=none&type=grpc&mode=gun&serviceName=service-41f6a2a01377&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&security=none&type=grpc#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?type=grpc&mode=gun&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083/?type=grpc&encryption=none&flow=&serviceName=service-41f6a2a01377#%40vpn_fortuna
@@ -108,6 +107,7 @@ vless://7e838fe5-556b-465c-b24e-4a089f4a5a03@185.226.172.92:8000?mode=gun&securi
 vless://7e838fe5-556b-465c-b24e-4a089f4a5a03@185.226.172.92:8000?security=none&type=grpc#%40vpn_fortuna
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%40vpn_fortuna
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%40vpn_fortuna
+vless://7fb7b338-a2d9-4bed-a5ae-1c52993a6560@104.143.219.179:3090?type=grpc&serviceName=vless#%40vpn_fortuna
 vless://83182e55-2298-405d-b4f8-797e47b50174@213.182.201.57:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%40vpn_fortuna
 vless://841e714d-e2ed-4814-a8dd-95211b63adaf@188.245.228.234:8080?security=none&type=grpc&serviceName=/@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray#%40vpn_fortuna
 vless://841e714d-e2ed-4814-a8dd-95211b63adaf@tls.suoagrtadreimrau.space:8080?type=grpc&serviceName=/@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray-------@BTG_v2ray&authority=&security=none#%40vpn_fortuna
@@ -277,10 +277,7 @@ vless://be2c444d-74a1-407c-a88c-cba06f9a58dc@153.76.185.96:3090?Telegram=@Gozarg
 vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@116.202.108.2:4444?security=none&type=grpc#%40vpn_fortuna
 vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40vpn_fortuna
 vless://c4f23000-5e36-414e-d5cc-07cc6aa5b898@49.13.48.213:2053?mode=gun&security=none&encryption=none&type=grpc&serviceName=@antifilterch#%40vpn_fortuna
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?encryption=none&mode=gun&security=none&serviceName=vless-grpc&type=grpc#%40vpn_fortuna
 vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?security=&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?type=grpc&serviceName=vless-grpc#%40vpn_fortuna
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443/?type=grpc&encryption=none&flow=&serviceName=vless-grpc#%40vpn_fortuna
 vless://c5a28d88-714d-461c-9ef6-178e26e2c840@104.143.223.67:2085?&type=grpc&serviceName=&mode=gun#%40vpn_fortuna
 vless://c6117371-7a24-4621-bac0-f70fa266b061@31.57.185.253:55932?authority=&encryption=none&security=none&serviceName=&type=grpc#%40vpn_fortuna
 vless://c62313f5-7661-41f8-bcd6-7ea9a3adebe4@frzn.borna-otbos.ir:2095?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
