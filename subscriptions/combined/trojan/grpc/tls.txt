@@ -1,6 +1,6 @@
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=hdfy7c1.foriran2.eu.org&allowInsecure=1&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM#%40vpn_fortuna
 trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=tg.freecodes&type=grpc#%40vpn_fortuna
-trojan://4807b8ab-d74a-445e-9556-45a7ace4f6d6@cf.dalazhi.eu.org:443?security=tls&sni=tj2.dalazhi.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=puijtrojangrpc&mode=gun#%40vpn_fortuna
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#%40vpn_fortuna
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&alpn=http%2F1.1#%40vpn_fortuna
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.147.22:8443?security=tls&sni=13l1.diginoshops10.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#%40vpn_fortuna
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.147.22:8443/?type=grpc&security=tls&sni=13l1.diginoshops10.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#%40vpn_fortuna
@@ -19,7 +19,6 @@ trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&sni=Crunch.floorshoping22.c
 trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#%40vpn_fortuna
 trojan://FuUaWS3YWG@crunch.floorshoping22.com:2053/?type=grpc&security=tls&sni=Crunch.floorshoping22.com&alpn=h2&fp=chrome#%40vpn_fortuna
 trojan://Lar3HXz16D@104.21.48.1:443/?type=grpc&security=tls&sni=tabnak.twn24.ir#%40vpn_fortuna
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&security=tls&alpn=h2&insecure=0&fp=chrome&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?mode=gun&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz&type=grpc#%40vpn_fortuna
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?mode=gun&security=tls&alpn=h2&insecure=0&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#%40vpn_fortuna
 trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&sni=171.22.119.74&type=grpc#%40vpn_fortuna
@@ -36,8 +35,7 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@1744156156.tencentapp.cn:2087/?typ
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1744156156.tencentapp.cn:2096/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.nycvara.china.nicchina.pp.ua#%40vpn_fortuna
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1751511556.tencentapp.cn:2083/?type=grpc&serviceName=m3u8&security=tls&sni=1751511679.speed.laxvara.china.nicchina.pp.ua#%40vpn_fortuna
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%40vpn_fortuna
-trojan://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf.dalazhi.eu.org:8443?security=tls&sni=us.dalazhi.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=unlotrojangrpc&mode=gun#%40vpn_fortuna
-trojan://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf3.dalazhi.eu.org:8443?security=tls&sni=us.dalazhi.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=unlotrojangrpc&mode=gun#%40vpn_fortuna
+trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-music.moritech.net:443?type=grpc&security=tls&serviceName=grpcbeast&sni=cz-music.moritech.net&fp=firefox&alpn=h2#%40vpn_fortuna
 trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://mainssh-ddoejfv14@140.82.38.103:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
@@ -49,7 +47,6 @@ trojan://mainssh-niwrhf87@140.82.32.17:443/?type=grpc&serviceName=trojangrpc&sec
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%40vpn_fortuna
 trojan://mainssh-niwrhf87@95.179.246.122:443/?type=grpc&serviceName=trojangrpc&security=tls&sni=getgrpc.mainssh.xyz#%40vpn_fortuna
 trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228?allowInsecure=0&sni=sw100.marshonet.store&alpn=h2&type=grpc&serviceName=trgrpc#%40vpn_fortuna
-trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228?sni=sw100.marshonet.store&type=grpc&serviceName=trgrpc&mode=gun&alpn=h2&fp=random#%40vpn_fortuna
 trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228/?type=grpc&serviceName=trgrpc&security=tls&sni=sw100.marshonet.store&alpn=h2&fp=chrome#%40vpn_fortuna
 trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228/?type=grpc&serviceName=trgrpc&security=tls&sni=sw100.marshonet.store&alpn=h2&fp=random#%40vpn_fortuna
 trojan://qQE5Yl3oU5@104.21.48.6:2087/?type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=iran.farsonline24.ir&fp=chrome#%40vpn_fortuna
