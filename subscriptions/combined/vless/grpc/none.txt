@@ -60,15 +60,14 @@ vless://473ca7ab-9fb1-4428-aae8-7870101f74b0@94.154.32.251:2052?security=none&ty
 vless://476fbb4e-042e-4dbe-b8f2-f135c2aba108@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://476fbb4e-042e-4dbe-b8f2-f135c2aba108@188.34.201.88:16072?security=none&type=grpc#%40vpn_fortuna
 vless://476fbb4e-042e-4dbe-b8f2-f135c2aba108@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&type=grpc&serviceName=service-41f6a2a01377&packetEncoding=xudp&insecure=0#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?security=none&type=grpc&mode=gun&serviceName=service-41f6a2a01377&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?type=grpc&mode=gun&serviceName=service-41f6a2a01377#%40vpn_fortuna
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk1727.shopingggg.ir:2083?security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?security=none&type=grpc&mode=gun&serviceName=service-41f6a2a01377&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?type=grpc&mode=gun&serviceName=service-41f6a2a01377#%40vpn_fortuna
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321/?type=grpc&encryption=none&flow=#%40vpn_fortuna
 vless://4ae8804f-2329-4f42-b5bd-fec4992afe39@188.245.228.234:2000?security=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#%40vpn_fortuna
@@ -79,6 +78,8 @@ vless://51d4f93b-e314-40d6-a49b-50d560981a2a@45.144.49.56:2052?type=grpc&service
 vless://53bdec1d-b3bc-4a68-b2b3-0d2585e0aceb@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#%40vpn_fortuna
 vless://544fd060-a593-43fb-82cf-7ed30f4bd9f4@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#%40vpn_fortuna
 vless://54d07019-9b98-41f4-8d7f-971cee378fe7@104.143.219.12:3090?encryption=none&type=grpc&serviceName=vless&security=none#%40vpn_fortuna
+vless://5555f391-0bda-432b-bb4d-617ac357131d@213.182.201.136:3090?security=none&type=grpc&serviceName=vless#%40vpn_fortuna
+vless://5555f391-0bda-432b-bb4d-617ac357131d@213.182.201.136:3090?type=grpc&serviceName=vless#%40vpn_fortuna
 vless://56104b8a-ab6e-4c38-c443-eb538a5ed762@104.248.44.198:443/?type=grpc&encryption=none&flow=#%40vpn_fortuna
 vless://5c149ce3-c075-49a6-e850-cb46313a59a1@germany.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://6132cc4c-5913-4165-98c8-8c112e5ffc6a@80.243.228.143:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#%40vpn_fortuna
@@ -374,7 +375,6 @@ vless://f68a9fd4-16c7-46d1-b17c-0a4b224cc00d@104.143.223.69:2085?security=none&t
 vless://f8d38e09-c654-5045-9816-27cf78cc93fa@5.252.23.173:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://f8d38e09-c654-5045-9816-27cf78cc93fa@5.252.23.173:80?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
 vless://f8d38e09-c654-5045-9816-27cf78cc93fa@[0:0:0:0:0:ffff:05fc:17ad]:80?security=none&type=grpc&serviceName=vless-grpc#%40vpn_fortuna
-vless://fc84a9ce-3ed7-4f2d-a897-a0b1e7f7cf08@93.190.9.85:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%40vpn_fortuna
 vless://god-ipV2Ray@128.140.88.31:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=@ipV2Ray#%40vpn_fortuna
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?type=grpc&serviceName=Telegram#%40vpn_fortuna
 vless://telegram-id-ArV2ray@151.101.3.8:80?type=grpc&serviceName=#%40vpn_fortuna
