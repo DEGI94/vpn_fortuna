@@ -33,7 +33,7 @@ hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqian
 hysteria://198.200.57.142:22335/?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20cdb3498954c57d5f
 hysteria://38.6.222.131:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20fda63397418be264
 hysteria://38.6.222.131:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20531159a61f467c82
-hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20ccf16ddd02ce5dcd
+hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&peer=bing.com&servername=bing.com&sub_tag=noCache&udp=true&upmbps=11#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20ccf16ddd02ce5dcd
 hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20ca1dc94ef2d5fe25
 hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%20f647ea14d4c96854
 hysteria://47.238.250.126:7539?upmbps=50&downmbps=100&auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&alpn=h3#%40vpn_fortuna%20%7C%20HYSTERIA%20%7C%200c615f6f4c19e6d5
