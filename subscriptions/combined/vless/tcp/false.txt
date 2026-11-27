@@ -1,7 +1,5 @@
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
-vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@195.110.15.216:31652?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
-vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&host=milo.rubinaz.xyz&path=%2F&security=false&sni=milo.rubinaz.xyz&type=tcp#%40vpn_fortuna
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&path=%2F&security=false&type=tcp#%40vpn_fortuna
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?fp=chrome&host=site.teslamotor.site&path=%2F&security=false&type=tcp#%40vpn_fortuna
