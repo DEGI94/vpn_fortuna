@@ -91,12 +91,14 @@ vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080?type=xhttp&encryp
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.120.92.186:2087?encryption=none&type=xhttp&mode=auto&path=/v2/sync/6e9367&extra={#%40vpn_fortuna
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.120.92.186:2087?encryption=none&type=xhttp&mode=auto&path=/v2/sync/6e9367&extra=%7B%22xm%E2%80%A6%3C/div%3E#%40vpn_fortuna
 vless://54efee93-c1a2-49f6-b133-a374f8830d3f@151.101.70.85:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://54efee93-c1a2-49f6-b133-a374f8830d3f@151.101.70.85:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://54fec156-11d4-454f-b7de-0e51009c5539@146.75.122.20:80?mode=auto&path=/&security=&encryption=none&host=ascx-1a10625bab5000-task-1a107bf5617001-71db8fa2fd.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna
 vless://55c602e7-268e-4412-9cb6-c15e91765fe5@151.101.56.243:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://55c602e7-268e-4412-9cb6-c15e91765fe5@151.101.56.243:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#%40vpn_fortuna
+vless://56f37f62-099d-4aeb-b3ee-48ff2f1cacfd@panel.jorvexo.ir:1152?encryption=none&type=xhttp&mode=auto&path=/&extra={#%40vpn_fortuna
 vless://57aeff99-bd95-46e8-9521-1b0c2722ad4e@am255.amin5646.ir:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=am290.amin5646.ir&type=xhttp#%40vpn_fortuna
 vless://597dd2e0-5182-4af1-ab12-7b5da8bc19ea@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#%40vpn_fortuna
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
@@ -175,6 +177,8 @@ vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@151.101.244.81:80?type=xhttp&encryp
 vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@151.101.244.81:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@fly.dlc-bazigame.ir:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://d8ce911d-107c-41fd-aae0-0d0a1b0f9197@cdn.dominicpv.shop:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
+vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?encryption=none&security=none&type=xhttp&host=94.130.237.57&path=/Telegram=@AmyraxVPN&mode=packet-up#%40vpn_fortuna
+vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?encryption=none&security=none&type=xhttp&host=94.130.237.57&path=/Telegram=@AmyraxVPN&mode=stream-up#%40vpn_fortuna
 vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80/?type=xhttp&encryption=none&flow=#%40vpn_fortuna
 vless://dca608f0-3365-4723-b132-1f4cf260684a@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp#%40vpn_fortuna

@@ -72,7 +72,6 @@ vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5267.shopingggg.ir:2083?se
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?security=none&type=grpc&mode=gun&serviceName=service-41f6a2a01377&packetEncoding=xudp&encryption=none#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?type=grpc&mode=gun&serviceName=service-41f6a2a01377#%40vpn_fortuna
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?type=grpc&serviceName=service-41f6a2a01377#%40vpn_fortuna
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%40vpn_fortuna
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321/?type=grpc&encryption=none&flow=#%40vpn_fortuna
 vless://4ae8804f-2329-4f42-b5bd-fec4992afe39@188.245.228.234:2000?security=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#%40vpn_fortuna
@@ -300,7 +299,7 @@ vless://d46e78e7-94da-436a-946b-94e878a91df4@151.101.3.8:80?type=grpc&serviceNam
 vless://d7002083-e7f5-488c-f8e7-1417a86cac7c@91.107.232.209:32864/?type=grpc&encryption=none#%40vpn_fortuna
 vless://d7d7c268-9fc0-4cd6-ae9a-41cf1f30874d@188.245.238.12:443/?type=grpc&encryption=none&flow=&serviceName=%2F%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM#%40vpn_fortuna
 vless://d99f99bd-4b04-4c2a-8268-2a00f3517009@188.245.82.82:40066?security=none&type=grpc#%40vpn_fortuna
-vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?encryption=none&mode=gun&security=none&serviceName=Telegram%3D%40AmyraxVPN&type=grpc#%40vpn_fortuna
+vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?encryption=none&security=none&type=grpc&serviceName=Telegram=@AmyraxVPN&mode=gun#%40vpn_fortuna
 vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?encryption=none&security=none&serviceName=Telegram%3D%40AmyraxVPN&type=grpc#%40vpn_fortuna
 vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?encryption=none&security=none&serviceName=Telegram=@VPsave&type=grpc#%40vpn_fortuna
 vless://d9d02f3e-c877-4a1f-990e-f2418777f745@94.130.237.57:27154?type=grpc&serviceName=Telegram=@AmyraxVPN#%40vpn_fortuna
